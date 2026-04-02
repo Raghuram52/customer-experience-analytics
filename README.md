@@ -1,6 +1,6 @@
 # Customer Experience Analytics Dashboard
 
-A Power BI dashboard built on a synthetic enterprise CX dataset covering 300 customers, 1,200 support tickets, and 600 CSAT surveys across 2 years. Designed to give Customer Success leaders a single view of CX health, ticket trends, and satisfaction metrics.
+An interactive analytics dashboard built with Python, Streamlit, and Plotly on a synthetic enterprise CX dataset covering 300 customers, 1,200 support tickets, and 600 CSAT surveys across 2 years. Designed to give Customer Success leaders a single view of CX health, ticket trends, and satisfaction metrics.
 
 ---
 
