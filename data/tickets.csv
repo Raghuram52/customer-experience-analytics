@@ -1,0 +1,1201 @@
+ticket_id,customer_id,segment,created_date,created_month,created_quarter,channel,category,priority,status,assigned_agent,resolution_hours,csat_score,region,industry
+T00001,C0271,SMB,2024-10-16,2024-10,Q4 2024,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,30.0,4.3,North America,Retail
+T00002,C0069,Enterprise,2023-11-17,2023-11,Q4 2023,Phone,Data & Reporting,High,Resolved,David Kim,23.0,3.8,North America,Technology
+T00003,C0276,Enterprise,2024-12-11,2024-12,Q4 2024,Chat,Product Education,Medium,In Progress,Sarah Chen,,,LATAM,Manufacturing
+T00004,C0249,SMB,2023-05-20,2023-05,Q2 2023,Phone,Data & Reporting,Medium,Resolved,Sarah Chen,64.0,2.0,EMEA,Financial Services
+T00005,C0113,SMB,2023-10-27,2023-10,Q4 2023,Phone,Billing & Payments,Medium,Resolved,Carlos Rivera,22.0,3.3,APAC,Media
+T00006,C0278,Mid-Market,2023-02-12,2023-02,Q1 2023,Email,Performance & Stability,Low,Closed,Marcus Johnson,139.0,2.3,LATAM,Retail
+T00007,C0225,Mid-Market,2023-05-01,2023-05,Q2 2023,Chat,Positive Feedback,Medium,Closed,Sarah Chen,25.0,3.9,APAC,Logistics
+T00008,C0292,SMB,2023-12-26,2023-12,Q4 2023,Self-Service Portal,Performance & Stability,High,Resolved,Emma Thompson,20.0,5.0,APAC,Media
+T00009,C0031,Mid-Market,2023-10-11,2023-10,Q4 2023,Email,Feature Request,High,Resolved,Aisha Williams,16.0,4.2,APAC,Education
+T00010,C0213,Mid-Market,2024-01-20,2024-01,Q1 2024,Email,Performance & Stability,Low,Resolved,Sarah Chen,148.0,2.5,APAC,Logistics
+T00011,C0048,SMB,2024-04-14,2024-04,Q2 2024,Phone,Feature Request,Low,Resolved,Aisha Williams,92.0,2.5,LATAM,Education
+T00012,C0173,Startup,2024-07-14,2024-07,Q3 2024,Email,Performance & Stability,Medium,Resolved,Priya Patel,20.0,2.5,EMEA,Education
+T00013,C0226,Enterprise,2024-04-12,2024-04,Q2 2024,Email,Billing & Payments,Medium,Resolved,Carlos Rivera,19.0,3.3,EMEA,Technology
+T00014,C0085,SMB,2023-02-23,2023-02,Q1 2023,Email,Data & Reporting,Medium,Resolved,James O'Brien,35.0,1.7,LATAM,Media
+T00015,C0266,Mid-Market,2024-11-27,2024-11,Q4 2024,Email,Access & Authentication,Medium,Closed,Marcus Johnson,17.0,3.6,LATAM,Logistics
+T00016,C0053,SMB,2023-11-17,2023-11,Q4 2023,Phone,Data & Reporting,Medium,Closed,James O'Brien,9.0,3.8,EMEA,Technology
+T00017,C0078,Mid-Market,2024-02-26,2024-02,Q1 2024,Self-Service Portal,Integration & API,High,In Progress,Emma Thompson,,,APAC,Logistics
+T00018,C0162,SMB,2023-05-24,2023-05,Q2 2023,Chat,Performance & Stability,High,Closed,James O'Brien,4.0,4.1,APAC,Retail
+T00019,C0201,Enterprise,2023-10-30,2023-10,Q4 2023,Email,Positive Feedback,Low,Resolved,Sarah Chen,159.0,4.2,EMEA,Manufacturing
+T00020,C0185,Mid-Market,2023-11-21,2023-11,Q4 2023,Chat,Security & Compliance,Medium,Resolved,James O'Brien,10.0,2.5,LATAM,Retail
+T00021,C0021,Startup,2023-03-03,2023-03,Q1 2023,Phone,Data & Reporting,Low,Resolved,Marcus Johnson,95.0,1.8,North America,Education
+T00022,C0262,Mid-Market,2023-07-28,2023-07,Q3 2023,Phone,Data & Reporting,Medium,Resolved,Marcus Johnson,63.0,1.7,APAC,Technology
+T00023,C0223,SMB,2023-04-29,2023-04,Q2 2023,Phone,Performance & Stability,Medium,Closed,Carlos Rivera,25.0,2.0,LATAM,Technology
+T00024,C0268,Enterprise,2024-06-13,2024-06,Q2 2024,Phone,Billing & Payments,High,Resolved,Marcus Johnson,4.0,3.3,EMEA,Healthcare
+T00025,C0135,Startup,2024-12-30,2024-12,Q4 2024,Chat,Access & Authentication,Medium,Resolved,Marcus Johnson,28.0,3.8,LATAM,Technology
+T00026,C0117,SMB,2024-06-05,2024-06,Q2 2024,Email,Security & Compliance,Critical,Resolved,Emma Thompson,3.0,4.9,APAC,Healthcare
+T00027,C0115,SMB,2023-11-26,2023-11,Q4 2023,Phone,User Management,Medium,Resolved,Sarah Chen,14.0,3.2,LATAM,Financial Services
+T00028,C0206,SMB,2023-03-12,2023-03,Q1 2023,Email,Data & Reporting,Low,Resolved,Aisha Williams,98.0,3.2,LATAM,Education
+T00029,C0125,Mid-Market,2024-04-20,2024-04,Q2 2024,Phone,Product Education,Low,Closed,Carlos Rivera,128.0,1.6,APAC,Technology
+T00030,C0005,SMB,2023-12-10,2023-12,Q4 2023,Phone,Performance & Stability,Low,In Progress,Priya Patel,,,LATAM,Financial Services
+T00031,C0144,SMB,2023-04-06,2023-04,Q2 2023,Chat,Billing & Payments,Low,Closed,Emma Thompson,153.0,1.9,North America,Healthcare
+T00032,C0039,Mid-Market,2024-08-29,2024-08,Q3 2024,Email,Integration & API,Low,Resolved,James O'Brien,105.0,2.9,APAC,Financial Services
+T00033,C0039,Mid-Market,2023-07-27,2023-07,Q3 2023,Email,Positive Feedback,High,Resolved,James O'Brien,17.0,3.6,APAC,Financial Services
+T00034,C0232,SMB,2023-11-12,2023-11,Q4 2023,Phone,Security & Compliance,High,Resolved,James O'Brien,10.0,2.8,EMEA,Manufacturing
+T00035,C0183,SMB,2024-02-10,2024-02,Q1 2024,Self-Service Portal,Feature Request,Medium,Open,David Kim,,,APAC,Logistics
+T00036,C0053,SMB,2023-05-24,2023-05,Q2 2023,Email,Access & Authentication,Low,In Progress,Marcus Johnson,,,EMEA,Technology
+T00037,C0012,Enterprise,2023-03-08,2023-03,Q1 2023,Email,Performance & Stability,Low,Closed,Emma Thompson,142.0,1.7,North America,Financial Services
+T00038,C0203,Enterprise,2024-05-23,2024-05,Q2 2024,Email,Feature Request,High,In Progress,James O'Brien,,,EMEA,Manufacturing
+T00039,C0152,SMB,2024-05-25,2024-05,Q2 2024,Email,Performance & Stability,High,In Progress,Sarah Chen,,,APAC,Media
+T00040,C0196,SMB,2024-12-31,2024-12,Q4 2024,Self-Service Portal,Performance & Stability,Medium,Resolved,James O'Brien,31.0,2.5,North America,Technology
+T00041,C0016,SMB,2023-10-15,2023-10,Q4 2023,Phone,Product Education,Medium,Closed,Sarah Chen,39.0,2.3,APAC,Financial Services
+T00042,C0113,SMB,2024-08-12,2024-08,Q3 2024,Email,User Management,Low,In Progress,Priya Patel,,,APAC,Media
+T00043,C0289,SMB,2023-07-12,2023-07,Q3 2023,Email,Data & Reporting,Medium,In Progress,Carlos Rivera,,,LATAM,Healthcare
+T00044,C0104,Mid-Market,2023-05-14,2023-05,Q2 2023,Self-Service Portal,Billing & Payments,Low,Open,Carlos Rivera,,,LATAM,Logistics
+T00045,C0038,Enterprise,2024-01-18,2024-01,Q1 2024,Email,Data & Reporting,High,In Progress,Priya Patel,,,North America,Retail
+T00046,C0288,Startup,2024-12-11,2024-12,Q4 2024,Phone,Data & Reporting,Medium,Resolved,Emma Thompson,30.0,4.3,EMEA,Technology
+T00047,C0291,SMB,2023-02-03,2023-02,Q1 2023,Chat,Data & Reporting,Low,Resolved,James O'Brien,108.0,3.7,North America,Education
+T00048,C0178,SMB,2023-11-24,2023-11,Q4 2023,Phone,Security & Compliance,High,Resolved,Marcus Johnson,18.0,3.1,LATAM,Technology
+T00049,C0180,Mid-Market,2023-09-20,2023-09,Q3 2023,Phone,Access & Authentication,Medium,Closed,Marcus Johnson,56.0,3.1,APAC,Healthcare
+T00050,C0246,Startup,2024-08-14,2024-08,Q3 2024,Email,Feature Request,High,Closed,Marcus Johnson,4.0,5.0,APAC,Financial Services
+T00051,C0176,Enterprise,2023-06-24,2023-06,Q2 2023,Self-Service Portal,Feature Request,Medium,Open,Emma Thompson,,,EMEA,Manufacturing
+T00052,C0081,Mid-Market,2023-02-24,2023-02,Q1 2023,Phone,Billing & Payments,High,Closed,Emma Thompson,13.0,2.8,APAC,Financial Services
+T00053,C0293,Mid-Market,2024-07-16,2024-07,Q3 2024,Email,Access & Authentication,Critical,Closed,Aisha Williams,8.0,3.1,LATAM,Media
+T00054,C0042,Startup,2024-04-29,2024-04,Q2 2024,Self-Service Portal,Positive Feedback,Medium,Resolved,David Kim,55.0,2.6,EMEA,Technology
+T00055,C0023,Mid-Market,2023-09-27,2023-09,Q3 2023,Chat,Data & Reporting,Low,In Progress,Emma Thompson,,,LATAM,Media
+T00056,C0117,SMB,2024-07-20,2024-07,Q3 2024,Self-Service Portal,Data & Reporting,Medium,Resolved,Emma Thompson,38.0,2.4,APAC,Healthcare
+T00057,C0018,SMB,2024-05-29,2024-05,Q2 2024,Self-Service Portal,Integration & API,Medium,In Progress,James O'Brien,,,APAC,Retail
+T00058,C0065,Startup,2023-02-13,2023-02,Q1 2023,Self-Service Portal,Product Education,Medium,Resolved,Emma Thompson,16.0,3.7,EMEA,Education
+T00059,C0283,Mid-Market,2023-11-30,2023-11,Q4 2023,Phone,Integration & API,Low,Resolved,Marcus Johnson,62.0,1.9,APAC,Media
+T00060,C0055,Startup,2024-07-30,2024-07,Q3 2024,Email,Data & Reporting,Medium,Resolved,Aisha Williams,70.0,1.6,LATAM,Logistics
+T00061,C0207,SMB,2023-05-28,2023-05,Q2 2023,Chat,Feature Request,Medium,Closed,Sarah Chen,68.0,4.2,LATAM,Manufacturing
+T00062,C0173,Startup,2023-11-07,2023-11,Q4 2023,Phone,Security & Compliance,Low,Closed,Carlos Rivera,137.0,3.8,EMEA,Education
+T00063,C0138,SMB,2024-03-02,2024-03,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Resolved,Priya Patel,55.0,3.0,North America,Education
+T00064,C0034,Enterprise,2023-11-15,2023-11,Q4 2023,Chat,Data & Reporting,Low,Resolved,David Kim,38.0,2.2,North America,Manufacturing
+T00065,C0026,Startup,2024-01-05,2024-01,Q1 2024,Chat,Data & Reporting,Low,Resolved,David Kim,119.0,3.0,EMEA,Technology
+T00066,C0091,SMB,2024-04-30,2024-04,Q2 2024,Self-Service Portal,Data & Reporting,High,Closed,James O'Brien,13.0,2.6,APAC,Media
+T00067,C0114,Mid-Market,2024-10-24,2024-10,Q4 2024,Chat,Billing & Payments,Medium,Closed,Sarah Chen,24.0,3.3,APAC,Education
+T00068,C0115,SMB,2023-09-16,2023-09,Q3 2023,Phone,User Management,Low,Resolved,Aisha Williams,88.0,2.2,LATAM,Financial Services
+T00069,C0267,SMB,2024-09-30,2024-09,Q3 2024,Phone,Access & Authentication,Medium,Closed,David Kim,44.0,3.6,APAC,Manufacturing
+T00070,C0033,Enterprise,2023-12-11,2023-12,Q4 2023,Phone,Data & Reporting,Medium,Closed,Sarah Chen,27.0,3.8,APAC,Technology
+T00071,C0207,SMB,2024-11-07,2024-11,Q4 2024,Chat,Access & Authentication,Critical,Resolved,James O'Brien,7.0,4.2,LATAM,Manufacturing
+T00072,C0176,Enterprise,2024-12-31,2024-12,Q4 2024,Self-Service Portal,Integration & API,Low,Resolved,Priya Patel,99.0,1.8,EMEA,Manufacturing
+T00073,C0133,Enterprise,2024-07-26,2024-07,Q3 2024,Email,Security & Compliance,Medium,In Progress,Aisha Williams,,,APAC,Healthcare
+T00074,C0300,SMB,2023-10-29,2023-10,Q4 2023,Chat,Access & Authentication,High,Resolved,Emma Thompson,19.0,2.9,APAC,Retail
+T00075,C0272,Mid-Market,2023-11-02,2023-11,Q4 2023,Self-Service Portal,Security & Compliance,High,Resolved,David Kim,8.0,4.8,APAC,Logistics
+T00076,C0171,Mid-Market,2024-10-08,2024-10,Q4 2024,Email,Performance & Stability,Critical,Closed,Marcus Johnson,3.0,4.9,APAC,Retail
+T00077,C0067,SMB,2024-09-21,2024-09,Q3 2024,Chat,Integration & API,Medium,Open,James O'Brien,,,EMEA,Education
+T00078,C0010,Enterprise,2024-11-23,2024-11,Q4 2024,Self-Service Portal,Feature Request,High,Resolved,Sarah Chen,16.0,3.0,EMEA,Education
+T00079,C0153,SMB,2023-10-25,2023-10,Q4 2023,Chat,Integration & API,Medium,Resolved,Priya Patel,70.0,3.8,APAC,Technology
+T00080,C0207,SMB,2023-01-20,2023-01,Q1 2023,Phone,Feature Request,High,Resolved,Aisha Williams,7.0,3.6,LATAM,Manufacturing
+T00081,C0274,SMB,2024-09-30,2024-09,Q3 2024,Phone,Product Education,Medium,Open,Marcus Johnson,,,APAC,Media
+T00082,C0281,Enterprise,2023-09-16,2023-09,Q3 2023,Chat,Billing & Payments,Medium,Resolved,Marcus Johnson,42.0,2.8,LATAM,Media
+T00083,C0262,Mid-Market,2024-09-24,2024-09,Q3 2024,Email,Access & Authentication,High,In Progress,Emma Thompson,,,APAC,Technology
+T00084,C0152,SMB,2023-06-14,2023-06,Q2 2023,Self-Service Portal,Integration & API,High,Resolved,David Kim,4.0,5.0,APAC,Media
+T00085,C0077,Mid-Market,2023-04-03,2023-04,Q2 2023,Email,Feature Request,High,In Progress,Marcus Johnson,,,LATAM,Education
+T00086,C0090,Mid-Market,2023-02-10,2023-02,Q1 2023,Phone,Positive Feedback,Medium,Open,Carlos Rivera,,,APAC,Logistics
+T00087,C0184,Startup,2024-03-24,2024-03,Q1 2024,Phone,Security & Compliance,High,In Progress,Emma Thompson,,,APAC,Education
+T00088,C0245,SMB,2024-03-07,2024-03,Q1 2024,Phone,Positive Feedback,High,Open,David Kim,,,APAC,Retail
+T00089,C0093,Startup,2024-09-17,2024-09,Q3 2024,Phone,Data & Reporting,Critical,Closed,David Kim,3.0,5.0,LATAM,Media
+T00090,C0024,SMB,2023-03-06,2023-03,Q1 2023,Phone,Data & Reporting,Low,Closed,James O'Brien,134.0,3.5,EMEA,Healthcare
+T00091,C0247,Startup,2023-12-21,2023-12,Q4 2023,Phone,Performance & Stability,High,Closed,David Kim,4.0,5.0,LATAM,Technology
+T00092,C0085,SMB,2023-03-18,2023-03,Q1 2023,Email,Data & Reporting,Low,In Progress,David Kim,,,LATAM,Media
+T00093,C0228,Mid-Market,2024-08-09,2024-08,Q3 2024,Email,Security & Compliance,Medium,Resolved,Sarah Chen,59.0,1.6,LATAM,Logistics
+T00094,C0047,Mid-Market,2024-09-10,2024-09,Q3 2024,Email,Data & Reporting,Medium,Resolved,Carlos Rivera,14.0,5.0,APAC,Healthcare
+T00095,C0287,Startup,2024-09-26,2024-09,Q3 2024,Chat,Feature Request,Medium,Open,Aisha Williams,,,APAC,Technology
+T00096,C0281,Enterprise,2024-06-18,2024-06,Q2 2024,Chat,Access & Authentication,Low,Closed,Emma Thompson,74.0,2.1,LATAM,Media
+T00097,C0111,SMB,2024-04-13,2024-04,Q2 2024,Email,Data & Reporting,Low,Resolved,David Kim,153.0,1.9,EMEA,Retail
+T00098,C0003,SMB,2024-06-27,2024-06,Q2 2024,Chat,Performance & Stability,Medium,Closed,Carlos Rivera,30.0,1.8,EMEA,Media
+T00099,C0259,SMB,2024-01-29,2024-01,Q1 2024,Email,User Management,Low,Closed,Aisha Williams,59.0,2.7,LATAM,Manufacturing
+T00100,C0281,Enterprise,2023-11-18,2023-11,Q4 2023,Email,User Management,Medium,Resolved,Carlos Rivera,24.0,3.0,LATAM,Media
+T00101,C0060,Startup,2023-12-27,2023-12,Q4 2023,Phone,Performance & Stability,Low,Resolved,Emma Thompson,157.0,1.8,LATAM,Manufacturing
+T00102,C0075,SMB,2023-02-24,2023-02,Q1 2023,Email,Billing & Payments,Low,Resolved,Sarah Chen,99.0,2.1,North America,Technology
+T00103,C0184,Startup,2024-04-08,2024-04,Q2 2024,Self-Service Portal,Security & Compliance,Low,Closed,Emma Thompson,36.0,4.3,APAC,Education
+T00104,C0214,SMB,2024-12-02,2024-12,Q4 2024,Email,Access & Authentication,Low,Closed,James O'Brien,163.0,3.7,LATAM,Technology
+T00105,C0100,Mid-Market,2023-10-29,2023-10,Q4 2023,Self-Service Portal,Product Education,High,Closed,Aisha Williams,16.0,3.3,LATAM,Retail
+T00106,C0067,SMB,2023-06-14,2023-06,Q2 2023,Phone,Data & Reporting,Medium,In Progress,David Kim,,,EMEA,Education
+T00107,C0294,Enterprise,2024-07-17,2024-07,Q3 2024,Email,Positive Feedback,Medium,In Progress,Emma Thompson,,,North America,Media
+T00108,C0048,SMB,2023-12-24,2023-12,Q4 2023,Chat,Billing & Payments,Medium,In Progress,Carlos Rivera,,,LATAM,Education
+T00109,C0229,SMB,2023-09-04,2023-09,Q3 2023,Email,User Management,High,Closed,Aisha Williams,7.0,4.1,North America,Technology
+T00110,C0013,Mid-Market,2024-06-13,2024-06,Q2 2024,Email,Positive Feedback,Medium,Closed,Sarah Chen,18.0,3.0,APAC,Logistics
+T00111,C0034,Enterprise,2023-08-04,2023-08,Q3 2023,Chat,Positive Feedback,Low,In Progress,Sarah Chen,,,North America,Manufacturing
+T00112,C0236,SMB,2023-12-06,2023-12,Q4 2023,Email,Access & Authentication,High,Open,David Kim,,,LATAM,Retail
+T00113,C0208,Mid-Market,2024-03-19,2024-03,Q1 2024,Email,Data & Reporting,High,Closed,Marcus Johnson,22.0,3.6,APAC,Retail
+T00114,C0149,SMB,2024-12-03,2024-12,Q4 2024,Chat,Access & Authentication,Low,Resolved,Emma Thompson,160.0,2.2,North America,Education
+T00115,C0280,Enterprise,2023-10-30,2023-10,Q4 2023,Self-Service Portal,Data & Reporting,Low,Closed,Emma Thompson,55.0,1.6,APAC,Healthcare
+T00116,C0276,Enterprise,2024-07-14,2024-07,Q3 2024,Phone,Billing & Payments,Low,In Progress,Aisha Williams,,,LATAM,Manufacturing
+T00117,C0100,Mid-Market,2023-04-28,2023-04,Q2 2023,Self-Service Portal,Positive Feedback,Low,Closed,Aisha Williams,98.0,3.5,LATAM,Retail
+T00118,C0051,SMB,2023-07-22,2023-07,Q3 2023,Email,Integration & API,Medium,Resolved,David Kim,16.0,3.5,APAC,Manufacturing
+T00119,C0169,SMB,2024-09-23,2024-09,Q3 2024,Chat,Feature Request,High,Closed,James O'Brien,9.0,3.2,LATAM,Manufacturing
+T00120,C0224,Mid-Market,2023-10-11,2023-10,Q4 2023,Chat,Feature Request,Medium,Resolved,Marcus Johnson,21.0,4.4,LATAM,Media
+T00121,C0144,SMB,2023-05-24,2023-05,Q2 2023,Email,Data & Reporting,Low,Open,James O'Brien,,,North America,Healthcare
+T00122,C0019,SMB,2024-07-18,2024-07,Q3 2024,Phone,Security & Compliance,Medium,In Progress,David Kim,,,APAC,Media
+T00123,C0257,Enterprise,2024-06-06,2024-06,Q2 2024,Email,Data & Reporting,Critical,Closed,Priya Patel,3.0,3.0,LATAM,Technology
+T00124,C0248,Enterprise,2024-01-03,2024-01,Q1 2024,Email,Feature Request,High,In Progress,David Kim,,,North America,Media
+T00125,C0233,Enterprise,2023-02-17,2023-02,Q1 2023,Chat,Data & Reporting,Low,Closed,Carlos Rivera,120.0,3.5,LATAM,Media
+T00126,C0040,Startup,2024-06-13,2024-06,Q2 2024,Chat,Product Education,High,Closed,Priya Patel,19.0,4.0,EMEA,Retail
+T00127,C0226,Enterprise,2023-06-19,2023-06,Q2 2023,Email,Integration & API,Medium,In Progress,Marcus Johnson,,,EMEA,Technology
+T00128,C0247,Startup,2024-11-22,2024-11,Q4 2024,Phone,Billing & Payments,High,Open,Sarah Chen,,,LATAM,Technology
+T00129,C0294,Enterprise,2023-05-31,2023-05,Q2 2023,Self-Service Portal,Data & Reporting,High,Resolved,David Kim,13.0,3.8,North America,Media
+T00130,C0247,Startup,2023-06-24,2023-06,Q2 2023,Chat,Data & Reporting,High,Closed,Marcus Johnson,9.0,4.3,LATAM,Technology
+T00131,C0118,SMB,2024-01-23,2024-01,Q1 2024,Self-Service Portal,Access & Authentication,High,Resolved,Sarah Chen,8.0,3.9,EMEA,Manufacturing
+T00132,C0273,Enterprise,2024-05-30,2024-05,Q2 2024,Chat,Integration & API,High,Closed,Emma Thompson,20.0,5.0,North America,Education
+T00133,C0118,SMB,2024-05-08,2024-05,Q2 2024,Phone,Performance & Stability,Low,Resolved,James O'Brien,89.0,2.9,EMEA,Manufacturing
+T00134,C0043,Enterprise,2023-10-18,2023-10,Q4 2023,Email,Performance & Stability,Medium,Closed,James O'Brien,23.0,2.5,LATAM,Technology
+T00135,C0162,SMB,2024-02-23,2024-02,Q1 2024,Email,Billing & Payments,Medium,Closed,Emma Thompson,54.0,4.5,APAC,Retail
+T00136,C0105,Startup,2024-02-28,2024-02,Q1 2024,Chat,Performance & Stability,High,Resolved,Marcus Johnson,22.0,4.7,APAC,Retail
+T00137,C0118,SMB,2024-04-02,2024-04,Q2 2024,Phone,Access & Authentication,Medium,Closed,Priya Patel,57.0,3.9,EMEA,Manufacturing
+T00138,C0242,SMB,2024-09-06,2024-09,Q3 2024,Email,Access & Authentication,High,Open,Priya Patel,,,North America,Manufacturing
+T00139,C0254,Startup,2024-03-25,2024-03,Q1 2024,Chat,Security & Compliance,Low,In Progress,Carlos Rivera,,,EMEA,Manufacturing
+T00140,C0123,Enterprise,2024-11-01,2024-11,Q4 2024,Chat,Access & Authentication,Medium,Resolved,Marcus Johnson,33.0,1.5,EMEA,Technology
+T00141,C0047,Mid-Market,2024-07-16,2024-07,Q3 2024,Email,Positive Feedback,Low,Closed,Sarah Chen,140.0,4.3,APAC,Healthcare
+T00142,C0134,Mid-Market,2023-06-29,2023-06,Q2 2023,Email,Access & Authentication,High,Closed,David Kim,21.0,5.0,LATAM,Manufacturing
+T00143,C0125,Mid-Market,2023-12-14,2023-12,Q4 2023,Email,Integration & API,Medium,In Progress,Carlos Rivera,,,APAC,Technology
+T00144,C0212,Mid-Market,2023-12-28,2023-12,Q4 2023,Email,Access & Authentication,Low,Open,Carlos Rivera,,,North America,Media
+T00145,C0182,Enterprise,2023-08-12,2023-08,Q3 2023,Self-Service Portal,Billing & Payments,Low,In Progress,James O'Brien,,,North America,Logistics
+T00146,C0118,SMB,2023-07-27,2023-07,Q3 2023,Email,Performance & Stability,High,Closed,David Kim,23.0,5.0,EMEA,Manufacturing
+T00147,C0191,Startup,2024-09-27,2024-09,Q3 2024,Chat,Security & Compliance,Low,Resolved,Priya Patel,125.0,2.2,LATAM,Education
+T00148,C0028,Enterprise,2024-06-22,2024-06,Q2 2024,Email,User Management,Critical,Closed,Sarah Chen,3.0,3.9,EMEA,Manufacturing
+T00149,C0007,Startup,2024-11-21,2024-11,Q4 2024,Chat,Performance & Stability,Medium,Resolved,Carlos Rivera,42.0,4.4,LATAM,Healthcare
+T00150,C0188,Mid-Market,2023-07-08,2023-07,Q3 2023,Chat,Billing & Payments,Low,Closed,James O'Brien,57.0,4.4,APAC,Financial Services
+T00151,C0052,Enterprise,2023-10-04,2023-10,Q4 2023,Email,Integration & API,Medium,Closed,Priya Patel,9.0,3.8,LATAM,Technology
+T00152,C0265,SMB,2024-06-30,2024-06,Q2 2024,Chat,Positive Feedback,Medium,Resolved,Aisha Williams,28.0,2.1,EMEA,Media
+T00153,C0244,Mid-Market,2024-10-06,2024-10,Q4 2024,Chat,Feature Request,Medium,Resolved,James O'Brien,10.0,2.9,LATAM,Retail
+T00154,C0296,Enterprise,2024-08-12,2024-08,Q3 2024,Email,Integration & API,Low,Resolved,David Kim,121.0,3.3,North America,Financial Services
+T00155,C0075,SMB,2023-06-21,2023-06,Q2 2023,Chat,User Management,Medium,Resolved,Carlos Rivera,28.0,2.2,North America,Technology
+T00156,C0150,Startup,2024-12-28,2024-12,Q4 2024,Chat,Performance & Stability,Medium,Closed,Sarah Chen,65.0,2.0,LATAM,Media
+T00157,C0065,Startup,2023-08-29,2023-08,Q3 2023,Email,User Management,Low,In Progress,Sarah Chen,,,EMEA,Education
+T00158,C0014,SMB,2024-02-11,2024-02,Q1 2024,Chat,Product Education,High,Open,Aisha Williams,,,North America,Education
+T00159,C0227,Enterprise,2024-10-03,2024-10,Q4 2024,Email,Integration & API,High,Resolved,David Kim,19.0,5.0,APAC,Media
+T00160,C0070,Mid-Market,2024-12-15,2024-12,Q4 2024,Phone,Performance & Stability,Medium,Closed,James O'Brien,47.0,2.9,APAC,Media
+T00161,C0046,Mid-Market,2024-03-28,2024-03,Q1 2024,Email,Data & Reporting,High,Resolved,David Kim,15.0,4.1,North America,Media
+T00162,C0245,SMB,2023-11-03,2023-11,Q4 2023,Email,Integration & API,Medium,Open,Emma Thompson,,,APAC,Retail
+T00163,C0203,Enterprise,2023-09-13,2023-09,Q3 2023,Chat,Feature Request,Medium,Resolved,Aisha Williams,38.0,3.8,EMEA,Manufacturing
+T00164,C0146,Mid-Market,2024-10-26,2024-10,Q4 2024,Self-Service Portal,Positive Feedback,Medium,In Progress,Aisha Williams,,,APAC,Healthcare
+T00165,C0252,SMB,2023-07-12,2023-07,Q3 2023,Email,Billing & Payments,Low,Closed,James O'Brien,136.0,3.7,LATAM,Media
+T00166,C0047,Mid-Market,2023-06-04,2023-06,Q2 2023,Phone,Billing & Payments,Medium,Resolved,Priya Patel,12.0,2.7,APAC,Healthcare
+T00167,C0029,Enterprise,2023-09-30,2023-09,Q3 2023,Self-Service Portal,Performance & Stability,High,Resolved,David Kim,4.0,3.7,EMEA,Logistics
+T00168,C0127,Enterprise,2023-02-04,2023-02,Q1 2023,Phone,Feature Request,High,In Progress,Sarah Chen,,,EMEA,Education
+T00169,C0282,SMB,2024-06-17,2024-06,Q2 2024,Chat,Integration & API,Medium,Open,Carlos Rivera,,,EMEA,Retail
+T00170,C0008,Mid-Market,2023-06-21,2023-06,Q2 2023,Email,Access & Authentication,Low,Open,Marcus Johnson,,,North America,Manufacturing
+T00171,C0128,SMB,2023-06-11,2023-06,Q2 2023,Self-Service Portal,Feature Request,Medium,Closed,Marcus Johnson,53.0,3.6,APAC,Technology
+T00172,C0065,Startup,2024-05-14,2024-05,Q2 2024,Phone,Product Education,Low,Closed,Priya Patel,120.0,2.6,EMEA,Education
+T00173,C0129,SMB,2023-02-10,2023-02,Q1 2023,Phone,Integration & API,Medium,In Progress,David Kim,,,North America,Healthcare
+T00174,C0141,Startup,2024-09-05,2024-09,Q3 2024,Email,Access & Authentication,High,Resolved,Priya Patel,18.0,3.6,APAC,Financial Services
+T00175,C0010,Enterprise,2024-09-26,2024-09,Q3 2024,Email,Performance & Stability,Medium,Closed,Aisha Williams,71.0,2.0,EMEA,Education
+T00176,C0166,SMB,2024-02-24,2024-02,Q1 2024,Email,Access & Authentication,Medium,Closed,James O'Brien,12.0,2.8,LATAM,Retail
+T00177,C0051,SMB,2023-02-02,2023-02,Q1 2023,Chat,Positive Feedback,Medium,Closed,Marcus Johnson,54.0,3.3,APAC,Manufacturing
+T00178,C0007,Startup,2023-08-02,2023-08,Q3 2023,Chat,User Management,Low,Resolved,Sarah Chen,118.0,3.9,LATAM,Healthcare
+T00179,C0137,Enterprise,2024-06-25,2024-06,Q2 2024,Self-Service Portal,Access & Authentication,Medium,Closed,James O'Brien,37.0,2.7,North America,Healthcare
+T00180,C0270,Mid-Market,2024-11-03,2024-11,Q4 2024,Phone,Performance & Stability,High,Resolved,Emma Thompson,24.0,3.6,North America,Healthcare
+T00181,C0054,Enterprise,2023-06-20,2023-06,Q2 2023,Email,Data & Reporting,Medium,Closed,Carlos Rivera,48.0,4.5,North America,Technology
+T00182,C0191,Startup,2024-02-27,2024-02,Q1 2024,Email,Positive Feedback,Medium,Resolved,David Kim,40.0,4.4,LATAM,Education
+T00183,C0204,SMB,2023-01-01,2023-01,Q1 2023,Chat,Product Education,Medium,Closed,Carlos Rivera,46.0,2.1,LATAM,Manufacturing
+T00184,C0012,Enterprise,2024-12-07,2024-12,Q4 2024,Self-Service Portal,Performance & Stability,Medium,In Progress,Priya Patel,,,North America,Financial Services
+T00185,C0136,SMB,2024-01-11,2024-01,Q1 2024,Email,Billing & Payments,Low,Resolved,Marcus Johnson,147.0,2.0,LATAM,Education
+T00186,C0154,Enterprise,2023-02-08,2023-02,Q1 2023,Email,Performance & Stability,High,Closed,James O'Brien,17.0,5.0,EMEA,Technology
+T00187,C0006,Startup,2024-10-11,2024-10,Q4 2024,Email,Access & Authentication,Medium,Resolved,Emma Thompson,36.0,1.7,EMEA,Education
+T00188,C0229,SMB,2024-09-01,2024-09,Q3 2024,Phone,Access & Authentication,Medium,In Progress,Emma Thompson,,,North America,Technology
+T00189,C0135,Startup,2023-03-29,2023-03,Q1 2023,Phone,Integration & API,Medium,Resolved,James O'Brien,58.0,3.2,LATAM,Technology
+T00190,C0125,Mid-Market,2023-03-15,2023-03,Q1 2023,Chat,Integration & API,Medium,In Progress,James O'Brien,,,APAC,Technology
+T00191,C0165,Enterprise,2023-12-19,2023-12,Q4 2023,Self-Service Portal,Access & Authentication,Medium,Resolved,James O'Brien,26.0,1.6,EMEA,Retail
+T00192,C0103,SMB,2024-12-02,2024-12,Q4 2024,Email,Feature Request,Low,Open,Marcus Johnson,,,EMEA,Education
+T00193,C0157,Mid-Market,2024-04-05,2024-04,Q2 2024,Email,Data & Reporting,Low,Resolved,Sarah Chen,60.0,3.6,North America,Manufacturing
+T00194,C0193,Mid-Market,2024-08-19,2024-08,Q3 2024,Email,Access & Authentication,High,Closed,Aisha Williams,5.0,2.7,LATAM,Manufacturing
+T00195,C0185,Mid-Market,2023-04-21,2023-04,Q2 2023,Email,Security & Compliance,Medium,Resolved,James O'Brien,70.0,1.8,LATAM,Retail
+T00196,C0257,Enterprise,2024-04-13,2024-04,Q2 2024,Self-Service Portal,Feature Request,Critical,Resolved,Carlos Rivera,8.0,3.5,LATAM,Technology
+T00197,C0182,Enterprise,2024-10-02,2024-10,Q4 2024,Email,Product Education,Low,Open,Aisha Williams,,,North America,Logistics
+T00198,C0116,SMB,2023-06-05,2023-06,Q2 2023,Phone,Data & Reporting,High,Resolved,Aisha Williams,17.0,3.8,North America,Retail
+T00199,C0169,SMB,2024-04-04,2024-04,Q2 2024,Chat,Billing & Payments,High,Closed,Priya Patel,13.0,5.0,LATAM,Manufacturing
+T00200,C0290,SMB,2023-06-11,2023-06,Q2 2023,Email,Performance & Stability,Low,Resolved,Aisha Williams,129.0,4.4,North America,Media
+T00201,C0227,Enterprise,2024-10-14,2024-10,Q4 2024,Email,Billing & Payments,High,Open,James O'Brien,,,APAC,Media
+T00202,C0014,SMB,2024-01-03,2024-01,Q1 2024,Phone,Positive Feedback,High,Resolved,Priya Patel,9.0,3.9,North America,Education
+T00203,C0099,SMB,2023-08-20,2023-08,Q3 2023,Email,Feature Request,Critical,Resolved,David Kim,4.0,5.0,LATAM,Retail
+T00204,C0251,Mid-Market,2024-12-05,2024-12,Q4 2024,Chat,Integration & API,High,Open,Sarah Chen,,,EMEA,Retail
+T00205,C0267,SMB,2023-04-22,2023-04,Q2 2023,Self-Service Portal,Positive Feedback,Critical,Resolved,Sarah Chen,7.0,4.8,APAC,Manufacturing
+T00206,C0098,Mid-Market,2023-10-26,2023-10,Q4 2023,Email,Security & Compliance,Low,In Progress,Priya Patel,,,LATAM,Financial Services
+T00207,C0238,Mid-Market,2024-10-23,2024-10,Q4 2024,Phone,Feature Request,High,Closed,Priya Patel,16.0,3.9,EMEA,Logistics
+T00208,C0233,Enterprise,2024-08-27,2024-08,Q3 2024,Email,Billing & Payments,Medium,Resolved,Carlos Rivera,19.0,4.6,LATAM,Media
+T00209,C0044,SMB,2024-06-20,2024-06,Q2 2024,Chat,Feature Request,Low,In Progress,Priya Patel,,,APAC,Media
+T00210,C0084,Startup,2023-05-29,2023-05,Q2 2023,Email,Feature Request,Medium,Closed,James O'Brien,31.0,4.2,North America,Manufacturing
+T00211,C0002,SMB,2024-09-29,2024-09,Q3 2024,Chat,Integration & API,Low,Open,David Kim,,,North America,Financial Services
+T00212,C0210,Startup,2024-03-28,2024-03,Q1 2024,Chat,Performance & Stability,High,Resolved,Carlos Rivera,5.0,2.7,APAC,Technology
+T00213,C0019,SMB,2023-05-29,2023-05,Q2 2023,Email,Performance & Stability,Medium,Open,Aisha Williams,,,APAC,Media
+T00214,C0294,Enterprise,2024-07-29,2024-07,Q3 2024,Email,Feature Request,Medium,Closed,Marcus Johnson,56.0,3.8,North America,Media
+T00215,C0150,Startup,2024-04-27,2024-04,Q2 2024,Chat,Feature Request,Medium,Resolved,Marcus Johnson,15.0,4.2,LATAM,Media
+T00216,C0248,Enterprise,2024-12-06,2024-12,Q4 2024,Chat,Positive Feedback,Low,Closed,David Kim,57.0,3.3,North America,Media
+T00217,C0267,SMB,2024-10-09,2024-10,Q4 2024,Email,Positive Feedback,Low,Resolved,Marcus Johnson,30.0,2.9,APAC,Manufacturing
+T00218,C0107,Startup,2024-09-22,2024-09,Q3 2024,Phone,Access & Authentication,Medium,In Progress,Aisha Williams,,,APAC,Media
+T00219,C0154,Enterprise,2024-06-02,2024-06,Q2 2024,Email,Feature Request,High,Resolved,David Kim,9.0,5.0,EMEA,Technology
+T00220,C0243,Enterprise,2023-02-06,2023-02,Q1 2023,Self-Service Portal,Integration & API,Medium,Resolved,Aisha Williams,60.0,4.0,North America,Education
+T00221,C0290,SMB,2024-11-25,2024-11,Q4 2024,Phone,Integration & API,High,Closed,Carlos Rivera,6.0,5.0,North America,Media
+T00222,C0193,Mid-Market,2024-10-03,2024-10,Q4 2024,Email,Billing & Payments,Medium,In Progress,Emma Thompson,,,LATAM,Manufacturing
+T00223,C0045,Enterprise,2024-05-23,2024-05,Q2 2024,Email,Integration & API,Low,Resolved,David Kim,75.0,4.2,APAC,Media
+T00224,C0260,SMB,2023-01-26,2023-01,Q1 2023,Self-Service Portal,Integration & API,High,Closed,Priya Patel,14.0,5.0,LATAM,Logistics
+T00225,C0106,Mid-Market,2023-02-07,2023-02,Q1 2023,Email,Feature Request,Medium,Closed,Aisha Williams,67.0,1.8,North America,Retail
+T00226,C0012,Enterprise,2024-08-14,2024-08,Q3 2024,Email,Security & Compliance,Medium,Resolved,Aisha Williams,23.0,2.9,North America,Financial Services
+T00227,C0059,Enterprise,2023-01-16,2023-01,Q1 2023,Chat,Integration & API,High,Resolved,Carlos Rivera,13.0,2.7,LATAM,Media
+T00228,C0277,SMB,2024-03-30,2024-03,Q1 2024,Email,Access & Authentication,Low,Resolved,David Kim,69.0,3.6,North America,Media
+T00229,C0183,SMB,2023-11-16,2023-11,Q4 2023,Phone,Billing & Payments,Low,Open,David Kim,,,APAC,Logistics
+T00230,C0050,Mid-Market,2024-04-11,2024-04,Q2 2024,Chat,Performance & Stability,Low,Closed,Carlos Rivera,117.0,2.7,LATAM,Education
+T00231,C0167,SMB,2024-04-09,2024-04,Q2 2024,Chat,Access & Authentication,High,Closed,Marcus Johnson,15.0,2.8,LATAM,Financial Services
+T00232,C0167,SMB,2024-07-23,2024-07,Q3 2024,Chat,Positive Feedback,Medium,Resolved,Carlos Rivera,28.0,2.7,LATAM,Financial Services
+T00233,C0107,Startup,2024-12-11,2024-12,Q4 2024,Phone,Positive Feedback,Medium,Resolved,David Kim,17.0,2.8,APAC,Media
+T00234,C0167,SMB,2024-07-22,2024-07,Q3 2024,Chat,Integration & API,Medium,Resolved,Priya Patel,71.0,1.8,LATAM,Financial Services
+T00235,C0298,SMB,2024-10-13,2024-10,Q4 2024,Chat,Billing & Payments,High,Resolved,Aisha Williams,10.0,3.4,EMEA,Retail
+T00236,C0223,SMB,2023-12-19,2023-12,Q4 2023,Chat,Access & Authentication,Low,In Progress,Sarah Chen,,,LATAM,Technology
+T00237,C0001,SMB,2024-12-21,2024-12,Q4 2024,Email,Product Education,High,Open,Emma Thompson,,,APAC,Financial Services
+T00238,C0208,Mid-Market,2024-01-26,2024-01,Q1 2024,Email,Billing & Payments,High,Resolved,Priya Patel,17.0,5.0,APAC,Retail
+T00239,C0069,Enterprise,2023-01-12,2023-01,Q1 2023,Chat,Access & Authentication,Low,Resolved,Emma Thompson,130.0,4.1,North America,Technology
+T00240,C0093,Startup,2024-04-10,2024-04,Q2 2024,Chat,Performance & Stability,Medium,In Progress,Aisha Williams,,,LATAM,Media
+T00241,C0211,Mid-Market,2024-07-13,2024-07,Q3 2024,Chat,Access & Authentication,Critical,Resolved,Aisha Williams,8.0,5.0,North America,Financial Services
+T00242,C0239,SMB,2024-06-13,2024-06,Q2 2024,Chat,Security & Compliance,High,Closed,Sarah Chen,24.0,4.2,North America,Education
+T00243,C0241,Startup,2024-04-09,2024-04,Q2 2024,Chat,Integration & API,Low,Closed,Aisha Williams,33.0,3.6,EMEA,Logistics
+T00244,C0289,SMB,2023-09-24,2023-09,Q3 2023,Email,Integration & API,High,Closed,Marcus Johnson,13.0,2.9,LATAM,Healthcare
+T00245,C0143,Enterprise,2023-09-16,2023-09,Q3 2023,Email,Data & Reporting,Low,In Progress,Carlos Rivera,,,LATAM,Technology
+T00246,C0090,Mid-Market,2023-09-25,2023-09,Q3 2023,Self-Service Portal,Integration & API,Low,Resolved,Emma Thompson,150.0,3.8,APAC,Logistics
+T00247,C0197,SMB,2023-09-01,2023-09,Q3 2023,Chat,Feature Request,High,Closed,David Kim,24.0,1.7,North America,Retail
+T00248,C0205,Enterprise,2024-05-02,2024-05,Q2 2024,Chat,Feature Request,Low,Resolved,Emma Thompson,61.0,3.1,LATAM,Media
+T00249,C0007,Startup,2023-10-23,2023-10,Q4 2023,Phone,Feature Request,Low,Open,Aisha Williams,,,LATAM,Healthcare
+T00250,C0137,Enterprise,2023-04-11,2023-04,Q2 2023,Phone,Performance & Stability,Medium,In Progress,Carlos Rivera,,,North America,Healthcare
+T00251,C0281,Enterprise,2023-01-11,2023-01,Q1 2023,Email,Positive Feedback,Critical,In Progress,Aisha Williams,,,LATAM,Media
+T00252,C0099,SMB,2023-02-04,2023-02,Q1 2023,Phone,Access & Authentication,Low,Closed,Priya Patel,57.0,2.6,LATAM,Retail
+T00253,C0057,SMB,2024-12-13,2024-12,Q4 2024,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,49.0,2.0,APAC,Technology
+T00254,C0142,Mid-Market,2023-03-05,2023-03,Q1 2023,Self-Service Portal,Data & Reporting,High,Resolved,Priya Patel,6.0,4.3,EMEA,Retail
+T00255,C0252,SMB,2023-04-22,2023-04,Q2 2023,Chat,Feature Request,High,Closed,Aisha Williams,7.0,2.7,LATAM,Media
+T00256,C0229,SMB,2023-01-20,2023-01,Q1 2023,Email,Performance & Stability,Critical,Resolved,David Kim,3.0,4.0,North America,Technology
+T00257,C0245,SMB,2024-03-22,2024-03,Q1 2024,Email,Feature Request,Low,In Progress,Carlos Rivera,,,APAC,Retail
+T00258,C0171,Mid-Market,2024-11-29,2024-11,Q4 2024,Chat,Access & Authentication,Low,Resolved,Priya Patel,98.0,3.4,APAC,Retail
+T00259,C0284,SMB,2023-02-10,2023-02,Q1 2023,Self-Service Portal,Billing & Payments,Medium,Resolved,Priya Patel,18.0,4.7,LATAM,Technology
+T00260,C0019,SMB,2023-07-17,2023-07,Q3 2023,Chat,Product Education,High,Closed,Sarah Chen,19.0,2.6,APAC,Media
+T00261,C0173,Startup,2023-02-13,2023-02,Q1 2023,Chat,Billing & Payments,Medium,Closed,Priya Patel,37.0,1.6,EMEA,Education
+T00262,C0251,Mid-Market,2024-10-31,2024-10,Q4 2024,Email,User Management,Medium,Resolved,Marcus Johnson,14.0,5.0,EMEA,Retail
+T00263,C0234,Startup,2024-09-17,2024-09,Q3 2024,Email,Performance & Stability,Low,Resolved,Emma Thompson,133.0,2.5,APAC,Logistics
+T00264,C0167,SMB,2023-05-04,2023-05,Q2 2023,Self-Service Portal,Performance & Stability,Medium,In Progress,Marcus Johnson,,,LATAM,Financial Services
+T00265,C0062,SMB,2023-10-08,2023-10,Q4 2023,Chat,Data & Reporting,Medium,Resolved,Sarah Chen,20.0,4.8,EMEA,Logistics
+T00266,C0250,Enterprise,2023-03-24,2023-03,Q1 2023,Phone,Billing & Payments,High,Closed,Aisha Williams,19.0,2.9,EMEA,Manufacturing
+T00267,C0268,Enterprise,2024-04-06,2024-04,Q2 2024,Email,User Management,Medium,In Progress,Carlos Rivera,,,EMEA,Healthcare
+T00268,C0215,Startup,2023-01-05,2023-01,Q1 2023,Self-Service Portal,Billing & Payments,Low,Resolved,Marcus Johnson,94.0,1.7,EMEA,Logistics
+T00269,C0077,Mid-Market,2024-12-02,2024-12,Q4 2024,Email,Billing & Payments,Medium,Resolved,David Kim,63.0,2.5,LATAM,Education
+T00270,C0023,Mid-Market,2023-04-17,2023-04,Q2 2023,Phone,User Management,High,Resolved,Carlos Rivera,6.0,4.3,LATAM,Media
+T00271,C0215,Startup,2023-07-23,2023-07,Q3 2023,Email,Security & Compliance,High,In Progress,James O'Brien,,,EMEA,Logistics
+T00272,C0038,Enterprise,2024-04-27,2024-04,Q2 2024,Email,Access & Authentication,Medium,Resolved,James O'Brien,55.0,2.9,North America,Retail
+T00273,C0184,Startup,2023-10-04,2023-10,Q4 2023,Email,Access & Authentication,Medium,In Progress,Carlos Rivera,,,APAC,Education
+T00274,C0113,SMB,2023-10-30,2023-10,Q4 2023,Chat,Positive Feedback,Medium,In Progress,David Kim,,,APAC,Media
+T00275,C0111,SMB,2024-08-28,2024-08,Q3 2024,Chat,Integration & API,Critical,Closed,Priya Patel,4.0,5.0,EMEA,Retail
+T00276,C0294,Enterprise,2023-01-06,2023-01,Q1 2023,Phone,Access & Authentication,Medium,Open,David Kim,,,North America,Media
+T00277,C0124,Startup,2023-03-27,2023-03,Q1 2023,Self-Service Portal,Access & Authentication,Low,In Progress,David Kim,,,LATAM,Healthcare
+T00278,C0157,Mid-Market,2023-06-15,2023-06,Q2 2023,Email,Security & Compliance,Low,Resolved,Sarah Chen,118.0,3.4,North America,Manufacturing
+T00279,C0037,SMB,2024-01-30,2024-01,Q1 2024,Phone,Integration & API,Medium,Resolved,Carlos Rivera,50.0,3.0,EMEA,Manufacturing
+T00280,C0027,Mid-Market,2023-04-24,2023-04,Q2 2023,Chat,Integration & API,Critical,Resolved,James O'Brien,2.0,5.0,APAC,Media
+T00281,C0277,SMB,2023-04-27,2023-04,Q2 2023,Self-Service Portal,Feature Request,Low,Closed,Emma Thompson,92.0,3.0,North America,Media
+T00282,C0142,Mid-Market,2023-02-25,2023-02,Q1 2023,Chat,Data & Reporting,Medium,In Progress,James O'Brien,,,EMEA,Retail
+T00283,C0235,Startup,2023-03-31,2023-03,Q1 2023,Self-Service Portal,Security & Compliance,Medium,In Progress,Priya Patel,,,North America,Manufacturing
+T00284,C0105,Startup,2024-06-17,2024-06,Q2 2024,Chat,Data & Reporting,Low,In Progress,Aisha Williams,,,APAC,Retail
+T00285,C0097,SMB,2023-03-06,2023-03,Q1 2023,Chat,Positive Feedback,Low,Resolved,David Kim,148.0,3.3,LATAM,Manufacturing
+T00286,C0235,Startup,2023-11-08,2023-11,Q4 2023,Phone,Security & Compliance,Medium,In Progress,Carlos Rivera,,,North America,Manufacturing
+T00287,C0146,Mid-Market,2024-04-11,2024-04,Q2 2024,Email,User Management,Low,Closed,Carlos Rivera,53.0,1.6,APAC,Healthcare
+T00288,C0295,SMB,2023-05-10,2023-05,Q2 2023,Phone,Data & Reporting,High,Resolved,Priya Patel,8.0,4.1,APAC,Logistics
+T00289,C0274,SMB,2023-11-05,2023-11,Q4 2023,Phone,Access & Authentication,Low,Closed,Carlos Rivera,163.0,4.4,APAC,Media
+T00290,C0152,SMB,2024-04-30,2024-04,Q2 2024,Email,Product Education,Medium,Resolved,Priya Patel,22.0,5.0,APAC,Media
+T00291,C0283,Mid-Market,2023-04-30,2023-04,Q2 2023,Chat,Data & Reporting,Low,Open,James O'Brien,,,APAC,Media
+T00292,C0143,Enterprise,2023-07-20,2023-07,Q3 2023,Phone,Integration & API,Medium,Open,Sarah Chen,,,LATAM,Technology
+T00293,C0185,Mid-Market,2024-02-12,2024-02,Q1 2024,Chat,Security & Compliance,Medium,Resolved,David Kim,65.0,1.8,LATAM,Retail
+T00294,C0213,Mid-Market,2024-03-29,2024-03,Q1 2024,Chat,Positive Feedback,Low,Closed,David Kim,60.0,2.1,APAC,Logistics
+T00295,C0269,Mid-Market,2023-12-10,2023-12,Q4 2023,Email,Product Education,Low,Resolved,Priya Patel,166.0,2.9,North America,Media
+T00296,C0103,SMB,2023-07-10,2023-07,Q3 2023,Phone,Performance & Stability,Critical,Closed,Sarah Chen,5.0,2.6,EMEA,Education
+T00297,C0079,Enterprise,2023-09-26,2023-09,Q3 2023,Phone,Positive Feedback,Medium,Closed,Aisha Williams,70.0,1.6,EMEA,Retail
+T00298,C0253,SMB,2023-03-10,2023-03,Q1 2023,Chat,Data & Reporting,Medium,Resolved,Sarah Chen,55.0,3.7,EMEA,Media
+T00299,C0133,Enterprise,2023-06-16,2023-06,Q2 2023,Phone,Billing & Payments,Medium,Resolved,Carlos Rivera,54.0,3.4,APAC,Healthcare
+T00300,C0025,Mid-Market,2023-10-24,2023-10,Q4 2023,Email,Performance & Stability,High,Resolved,Carlos Rivera,23.0,3.5,North America,Technology
+T00301,C0155,SMB,2023-10-05,2023-10,Q4 2023,Chat,Feature Request,High,Closed,Emma Thompson,8.0,4.8,APAC,Logistics
+T00302,C0175,Mid-Market,2023-06-16,2023-06,Q2 2023,Email,Billing & Payments,High,Closed,Priya Patel,17.0,2.8,North America,Financial Services
+T00303,C0009,SMB,2024-05-06,2024-05,Q2 2024,Chat,Feature Request,High,Closed,Marcus Johnson,9.0,4.7,EMEA,Manufacturing
+T00304,C0114,Mid-Market,2023-05-12,2023-05,Q2 2023,Email,Feature Request,Medium,Closed,Emma Thompson,17.0,4.8,APAC,Education
+T00305,C0022,SMB,2023-07-21,2023-07,Q3 2023,Email,Positive Feedback,Medium,In Progress,Sarah Chen,,,EMEA,Logistics
+T00306,C0050,Mid-Market,2023-05-07,2023-05,Q2 2023,Phone,Performance & Stability,High,Open,Priya Patel,,,LATAM,Education
+T00307,C0257,Enterprise,2024-09-19,2024-09,Q3 2024,Chat,Performance & Stability,High,Open,Sarah Chen,,,LATAM,Technology
+T00308,C0051,SMB,2023-08-08,2023-08,Q3 2023,Chat,Feature Request,Medium,Resolved,James O'Brien,53.0,2.8,APAC,Manufacturing
+T00309,C0209,Startup,2023-04-26,2023-04,Q2 2023,Chat,Integration & API,Medium,Resolved,Marcus Johnson,13.0,3.5,LATAM,Logistics
+T00310,C0198,SMB,2023-10-18,2023-10,Q4 2023,Phone,Feature Request,Medium,In Progress,Marcus Johnson,,,EMEA,Healthcare
+T00311,C0244,Mid-Market,2024-11-26,2024-11,Q4 2024,Phone,Access & Authentication,Medium,Resolved,Marcus Johnson,26.0,2.7,LATAM,Retail
+T00312,C0087,SMB,2023-03-08,2023-03,Q1 2023,Self-Service Portal,Data & Reporting,Medium,In Progress,Emma Thompson,,,North America,Retail
+T00313,C0183,SMB,2024-05-02,2024-05,Q2 2024,Chat,User Management,Low,In Progress,David Kim,,,APAC,Logistics
+T00314,C0255,Mid-Market,2023-08-25,2023-08,Q3 2023,Phone,Access & Authentication,Low,Resolved,Marcus Johnson,107.0,2.0,EMEA,Manufacturing
+T00315,C0040,Startup,2024-11-07,2024-11,Q4 2024,Email,Integration & API,Medium,Resolved,Sarah Chen,51.0,3.1,EMEA,Retail
+T00316,C0221,SMB,2023-05-02,2023-05,Q2 2023,Chat,Data & Reporting,Medium,Open,Priya Patel,,,APAC,Technology
+T00317,C0160,Startup,2024-02-03,2024-02,Q1 2024,Phone,Access & Authentication,Medium,Resolved,Aisha Williams,28.0,1.7,APAC,Retail
+T00318,C0254,Startup,2024-08-28,2024-08,Q3 2024,Email,Feature Request,Low,Open,Sarah Chen,,,EMEA,Manufacturing
+T00319,C0175,Mid-Market,2024-01-25,2024-01,Q1 2024,Chat,Data & Reporting,Medium,Resolved,Marcus Johnson,47.0,4.2,North America,Financial Services
+T00320,C0157,Mid-Market,2023-04-28,2023-04,Q2 2023,Chat,Access & Authentication,Medium,Closed,Carlos Rivera,10.0,4.3,North America,Manufacturing
+T00321,C0194,Enterprise,2024-08-07,2024-08,Q3 2024,Email,Performance & Stability,Low,Resolved,Aisha Williams,110.0,2.0,LATAM,Healthcare
+T00322,C0187,Mid-Market,2024-03-22,2024-03,Q1 2024,Email,Performance & Stability,Low,Closed,Emma Thompson,36.0,2.4,APAC,Manufacturing
+T00323,C0116,SMB,2024-10-01,2024-10,Q4 2024,Chat,Feature Request,Medium,Resolved,Aisha Williams,34.0,3.9,North America,Retail
+T00324,C0259,SMB,2023-11-04,2023-11,Q4 2023,Chat,Integration & API,High,Resolved,Priya Patel,21.0,4.4,LATAM,Manufacturing
+T00325,C0296,Enterprise,2024-05-26,2024-05,Q2 2024,Chat,Product Education,Low,Closed,David Kim,157.0,2.1,North America,Financial Services
+T00326,C0076,SMB,2023-09-04,2023-09,Q3 2023,Chat,Feature Request,Medium,Resolved,Aisha Williams,34.0,2.3,LATAM,Logistics
+T00327,C0083,Startup,2023-09-20,2023-09,Q3 2023,Email,Billing & Payments,High,Open,Emma Thompson,,,LATAM,Media
+T00328,C0217,SMB,2024-10-24,2024-10,Q4 2024,Email,Billing & Payments,High,Closed,Sarah Chen,24.0,3.8,APAC,Financial Services
+T00329,C0043,Enterprise,2023-11-18,2023-11,Q4 2023,Chat,Security & Compliance,Low,Resolved,Marcus Johnson,84.0,1.8,LATAM,Technology
+T00330,C0268,Enterprise,2024-11-11,2024-11,Q4 2024,Self-Service Portal,User Management,Medium,In Progress,James O'Brien,,,EMEA,Healthcare
+T00331,C0217,SMB,2023-08-12,2023-08,Q3 2023,Chat,Billing & Payments,Low,Resolved,Emma Thompson,52.0,2.4,APAC,Financial Services
+T00332,C0244,Mid-Market,2024-11-30,2024-11,Q4 2024,Chat,Security & Compliance,Low,Closed,James O'Brien,37.0,3.6,LATAM,Retail
+T00333,C0130,Enterprise,2024-07-19,2024-07,Q3 2024,Self-Service Portal,Performance & Stability,Low,Resolved,Emma Thompson,26.0,4.2,EMEA,Financial Services
+T00334,C0131,SMB,2023-11-05,2023-11,Q4 2023,Email,Positive Feedback,High,Closed,Aisha Williams,24.0,3.9,LATAM,Healthcare
+T00335,C0042,Startup,2024-05-18,2024-05,Q2 2024,Phone,Data & Reporting,Low,Closed,Emma Thompson,153.0,1.7,EMEA,Technology
+T00336,C0281,Enterprise,2023-12-01,2023-12,Q4 2023,Chat,Access & Authentication,High,Resolved,Carlos Rivera,4.0,4.4,LATAM,Media
+T00337,C0295,SMB,2023-03-26,2023-03,Q1 2023,Phone,Data & Reporting,Low,Resolved,Priya Patel,105.0,2.9,APAC,Logistics
+T00338,C0134,Mid-Market,2023-06-27,2023-06,Q2 2023,Email,Positive Feedback,Low,Resolved,Sarah Chen,81.0,1.6,LATAM,Manufacturing
+T00339,C0286,Mid-Market,2024-10-24,2024-10,Q4 2024,Chat,Billing & Payments,High,Resolved,Priya Patel,5.0,4.3,LATAM,Technology
+T00340,C0046,Mid-Market,2024-01-12,2024-01,Q1 2024,Chat,Access & Authentication,Low,Closed,James O'Brien,81.0,3.6,North America,Media
+T00341,C0137,Enterprise,2023-10-22,2023-10,Q4 2023,Email,Data & Reporting,Medium,In Progress,Emma Thompson,,,North America,Healthcare
+T00342,C0075,SMB,2023-01-30,2023-01,Q1 2023,Email,Billing & Payments,Medium,Resolved,Carlos Rivera,9.0,2.9,North America,Technology
+T00343,C0204,SMB,2024-12-04,2024-12,Q4 2024,Chat,Data & Reporting,Medium,Open,David Kim,,,LATAM,Manufacturing
+T00344,C0182,Enterprise,2024-09-12,2024-09,Q3 2024,Email,Performance & Stability,Low,Resolved,Sarah Chen,118.0,1.9,North America,Logistics
+T00345,C0298,SMB,2023-07-03,2023-07,Q3 2023,Self-Service Portal,Integration & API,Low,In Progress,Aisha Williams,,,EMEA,Retail
+T00346,C0060,Startup,2023-11-17,2023-11,Q4 2023,Email,Integration & API,Low,Resolved,Emma Thompson,91.0,3.1,LATAM,Manufacturing
+T00347,C0085,SMB,2023-11-20,2023-11,Q4 2023,Self-Service Portal,Feature Request,High,Resolved,Priya Patel,5.0,2.7,LATAM,Media
+T00348,C0019,SMB,2024-04-26,2024-04,Q2 2024,Self-Service Portal,Feature Request,Medium,Closed,David Kim,53.0,3.0,APAC,Media
+T00349,C0058,Mid-Market,2023-06-01,2023-06,Q2 2023,Email,Access & Authentication,Low,In Progress,Priya Patel,,,EMEA,Retail
+T00350,C0214,SMB,2023-03-20,2023-03,Q1 2023,Email,Integration & API,High,Resolved,Priya Patel,16.0,5.0,LATAM,Technology
+T00351,C0015,Startup,2023-03-25,2023-03,Q1 2023,Chat,Feature Request,Medium,Resolved,Priya Patel,13.0,3.5,North America,Retail
+T00352,C0109,SMB,2023-02-19,2023-02,Q1 2023,Email,Data & Reporting,High,Closed,Emma Thompson,6.0,3.0,North America,Financial Services
+T00353,C0046,Mid-Market,2023-01-22,2023-01,Q1 2023,Chat,Data & Reporting,Medium,Closed,Aisha Williams,46.0,3.9,North America,Media
+T00354,C0068,Startup,2024-01-03,2024-01,Q1 2024,Chat,Positive Feedback,Medium,Closed,Carlos Rivera,62.0,3.8,North America,Healthcare
+T00355,C0096,Mid-Market,2024-03-20,2024-03,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Resolved,Marcus Johnson,18.0,3.9,APAC,Technology
+T00356,C0245,SMB,2023-11-04,2023-11,Q4 2023,Email,Feature Request,Medium,Resolved,Emma Thompson,17.0,4.0,APAC,Retail
+T00357,C0212,Mid-Market,2023-04-07,2023-04,Q2 2023,Chat,Feature Request,Low,Resolved,Emma Thompson,69.0,3.9,North America,Media
+T00358,C0024,SMB,2023-03-27,2023-03,Q1 2023,Phone,Feature Request,Medium,Closed,Priya Patel,41.0,4.4,EMEA,Healthcare
+T00359,C0109,SMB,2023-07-09,2023-07,Q3 2023,Phone,Product Education,Medium,Resolved,David Kim,58.0,1.5,North America,Financial Services
+T00360,C0236,SMB,2024-12-09,2024-12,Q4 2024,Phone,Performance & Stability,Low,Resolved,Sarah Chen,46.0,1.9,LATAM,Retail
+T00361,C0098,Mid-Market,2023-04-25,2023-04,Q2 2023,Email,Product Education,Low,Resolved,David Kim,46.0,2.4,LATAM,Financial Services
+T00362,C0076,SMB,2024-04-30,2024-04,Q2 2024,Phone,Access & Authentication,Low,Resolved,James O'Brien,139.0,3.3,LATAM,Logistics
+T00363,C0151,Startup,2024-08-06,2024-08,Q3 2024,Phone,Data & Reporting,High,Resolved,David Kim,19.0,4.0,APAC,Logistics
+T00364,C0263,Mid-Market,2024-08-28,2024-08,Q3 2024,Self-Service Portal,User Management,Low,In Progress,Carlos Rivera,,,LATAM,Logistics
+T00365,C0284,SMB,2023-03-07,2023-03,Q1 2023,Email,Performance & Stability,Low,Resolved,James O'Brien,29.0,2.0,LATAM,Technology
+T00366,C0241,Startup,2023-12-19,2023-12,Q4 2023,Phone,Integration & API,Medium,Closed,Carlos Rivera,45.0,4.4,EMEA,Logistics
+T00367,C0242,SMB,2023-06-15,2023-06,Q2 2023,Phone,Data & Reporting,Low,In Progress,Emma Thompson,,,North America,Manufacturing
+T00368,C0253,SMB,2023-11-07,2023-11,Q4 2023,Chat,Performance & Stability,Low,Resolved,Carlos Rivera,32.0,3.9,EMEA,Media
+T00369,C0221,SMB,2023-04-27,2023-04,Q2 2023,Email,Access & Authentication,High,Resolved,Marcus Johnson,5.0,5.0,APAC,Technology
+T00370,C0026,Startup,2024-03-24,2024-03,Q1 2024,Phone,Feature Request,Low,Resolved,Marcus Johnson,153.0,1.8,EMEA,Technology
+T00371,C0106,Mid-Market,2024-01-06,2024-01,Q1 2024,Chat,Data & Reporting,Medium,Closed,Marcus Johnson,54.0,4.0,North America,Retail
+T00372,C0104,Mid-Market,2024-03-25,2024-03,Q1 2024,Phone,Feature Request,High,Resolved,Emma Thompson,6.0,4.6,LATAM,Logistics
+T00373,C0185,Mid-Market,2024-10-06,2024-10,Q4 2024,Chat,Billing & Payments,Low,In Progress,Carlos Rivera,,,LATAM,Retail
+T00374,C0016,SMB,2024-03-29,2024-03,Q1 2024,Self-Service Portal,Access & Authentication,Low,Open,Sarah Chen,,,APAC,Financial Services
+T00375,C0202,SMB,2023-02-07,2023-02,Q1 2023,Email,Performance & Stability,Low,Resolved,Carlos Rivera,165.0,4.1,EMEA,Retail
+T00376,C0177,Enterprise,2023-01-09,2023-01,Q1 2023,Phone,Integration & API,Low,Resolved,Emma Thompson,112.0,4.2,North America,Logistics
+T00377,C0102,Startup,2023-11-05,2023-11,Q4 2023,Phone,Integration & API,Medium,Closed,Carlos Rivera,19.0,4.2,EMEA,Logistics
+T00378,C0082,SMB,2023-01-24,2023-01,Q1 2023,Email,Positive Feedback,Medium,Closed,Aisha Williams,22.0,5.0,LATAM,Logistics
+T00379,C0260,SMB,2023-12-29,2023-12,Q4 2023,Chat,Feature Request,Low,Resolved,James O'Brien,84.0,3.9,LATAM,Logistics
+T00380,C0180,Mid-Market,2023-11-03,2023-11,Q4 2023,Phone,Positive Feedback,Low,Closed,Carlos Rivera,156.0,3.2,APAC,Healthcare
+T00381,C0233,Enterprise,2023-04-11,2023-04,Q2 2023,Email,Integration & API,Medium,Resolved,Emma Thompson,35.0,1.7,LATAM,Media
+T00382,C0287,Startup,2024-06-15,2024-06,Q2 2024,Chat,Data & Reporting,Medium,Resolved,David Kim,28.0,3.0,APAC,Technology
+T00383,C0235,Startup,2023-05-13,2023-05,Q2 2023,Email,Security & Compliance,High,Resolved,Emma Thompson,21.0,4.3,North America,Manufacturing
+T00384,C0057,SMB,2023-05-04,2023-05,Q2 2023,Email,Data & Reporting,Medium,Resolved,Priya Patel,45.0,1.6,APAC,Technology
+T00385,C0073,SMB,2024-08-26,2024-08,Q3 2024,Email,User Management,Medium,In Progress,Carlos Rivera,,,APAC,Media
+T00386,C0035,Startup,2023-02-15,2023-02,Q1 2023,Self-Service Portal,Performance & Stability,Medium,Closed,David Kim,24.0,3.0,APAC,Retail
+T00387,C0231,Mid-Market,2024-11-14,2024-11,Q4 2024,Phone,Security & Compliance,Medium,Resolved,Sarah Chen,37.0,2.5,EMEA,Logistics
+T00388,C0227,Enterprise,2023-10-12,2023-10,Q4 2023,Chat,Security & Compliance,Low,Closed,Sarah Chen,167.0,1.8,APAC,Media
+T00389,C0292,SMB,2024-06-18,2024-06,Q2 2024,Email,Integration & API,Low,Closed,David Kim,76.0,2.2,APAC,Media
+T00390,C0044,SMB,2024-06-30,2024-06,Q2 2024,Self-Service Portal,Data & Reporting,Critical,Open,Carlos Rivera,,,APAC,Media
+T00391,C0196,SMB,2023-09-21,2023-09,Q3 2023,Email,Product Education,Medium,In Progress,Priya Patel,,,North America,Technology
+T00392,C0031,Mid-Market,2024-09-21,2024-09,Q3 2024,Chat,Access & Authentication,High,Resolved,Marcus Johnson,14.0,5.0,APAC,Education
+T00393,C0027,Mid-Market,2023-07-27,2023-07,Q3 2023,Chat,Performance & Stability,High,Resolved,Emma Thompson,12.0,3.9,APAC,Media
+T00394,C0034,Enterprise,2024-05-10,2024-05,Q2 2024,Email,Performance & Stability,Low,Resolved,David Kim,101.0,3.2,North America,Manufacturing
+T00395,C0043,Enterprise,2024-10-13,2024-10,Q4 2024,Chat,Positive Feedback,High,In Progress,David Kim,,,LATAM,Technology
+T00396,C0022,SMB,2023-01-02,2023-01,Q1 2023,Email,Performance & Stability,Medium,Open,Carlos Rivera,,,EMEA,Logistics
+T00397,C0109,SMB,2024-08-22,2024-08,Q3 2024,Chat,Access & Authentication,Low,Resolved,Emma Thompson,166.0,4.5,North America,Financial Services
+T00398,C0108,Startup,2024-09-17,2024-09,Q3 2024,Email,Data & Reporting,Medium,Resolved,David Kim,39.0,2.5,LATAM,Healthcare
+T00399,C0169,SMB,2023-01-17,2023-01,Q1 2023,Chat,Performance & Stability,Critical,Closed,Marcus Johnson,3.0,4.1,LATAM,Manufacturing
+T00400,C0276,Enterprise,2023-02-01,2023-02,Q1 2023,Phone,Feature Request,Medium,Closed,Carlos Rivera,30.0,1.9,LATAM,Manufacturing
+T00401,C0099,SMB,2024-03-31,2024-03,Q1 2024,Phone,Feature Request,Low,Closed,David Kim,80.0,2.2,LATAM,Retail
+T00402,C0186,SMB,2023-02-07,2023-02,Q1 2023,Email,User Management,Low,In Progress,David Kim,,,LATAM,Healthcare
+T00403,C0088,Mid-Market,2024-07-19,2024-07,Q3 2024,Chat,Feature Request,Medium,In Progress,James O'Brien,,,LATAM,Manufacturing
+T00404,C0268,Enterprise,2023-10-08,2023-10,Q4 2023,Phone,Feature Request,Low,Resolved,Sarah Chen,24.0,4.3,EMEA,Healthcare
+T00405,C0166,SMB,2024-03-18,2024-03,Q1 2024,Chat,Access & Authentication,Medium,Resolved,David Kim,14.0,5.0,LATAM,Retail
+T00406,C0162,SMB,2023-01-06,2023-01,Q1 2023,Phone,Data & Reporting,Low,Closed,Carlos Rivera,87.0,2.1,APAC,Retail
+T00407,C0160,Startup,2023-03-06,2023-03,Q1 2023,Phone,Access & Authentication,Medium,Resolved,Carlos Rivera,39.0,2.9,APAC,Retail
+T00408,C0028,Enterprise,2023-12-08,2023-12,Q4 2023,Chat,Billing & Payments,High,Resolved,Sarah Chen,24.0,1.8,EMEA,Manufacturing
+T00409,C0018,SMB,2024-01-22,2024-01,Q1 2024,Email,Security & Compliance,High,Closed,Sarah Chen,5.0,2.7,APAC,Retail
+T00410,C0287,Startup,2023-02-23,2023-02,Q1 2023,Phone,Data & Reporting,High,In Progress,Emma Thompson,,,APAC,Technology
+T00411,C0052,Enterprise,2023-12-14,2023-12,Q4 2023,Email,Positive Feedback,Medium,In Progress,Priya Patel,,,LATAM,Technology
+T00412,C0261,Mid-Market,2023-09-20,2023-09,Q3 2023,Email,Integration & API,Medium,In Progress,Emma Thompson,,,EMEA,Financial Services
+T00413,C0263,Mid-Market,2024-10-29,2024-10,Q4 2024,Email,Performance & Stability,Medium,Resolved,Priya Patel,55.0,3.1,LATAM,Logistics
+T00414,C0030,SMB,2023-09-01,2023-09,Q3 2023,Chat,Positive Feedback,Low,In Progress,Carlos Rivera,,,LATAM,Technology
+T00415,C0097,SMB,2024-11-14,2024-11,Q4 2024,Phone,Feature Request,Medium,Closed,Marcus Johnson,46.0,2.5,LATAM,Manufacturing
+T00416,C0233,Enterprise,2023-02-13,2023-02,Q1 2023,Phone,User Management,Medium,Resolved,Emma Thompson,69.0,3.9,LATAM,Media
+T00417,C0106,Mid-Market,2024-02-14,2024-02,Q1 2024,Email,Product Education,Medium,Open,James O'Brien,,,North America,Retail
+T00418,C0300,SMB,2024-01-04,2024-01,Q1 2024,Email,Billing & Payments,Medium,Resolved,Priya Patel,39.0,2.1,APAC,Retail
+T00419,C0135,Startup,2023-04-14,2023-04,Q2 2023,Phone,Feature Request,Medium,In Progress,Carlos Rivera,,,LATAM,Technology
+T00420,C0191,Startup,2024-11-07,2024-11,Q4 2024,Self-Service Portal,Product Education,Low,Closed,James O'Brien,57.0,3.9,LATAM,Education
+T00421,C0273,Enterprise,2024-01-23,2024-01,Q1 2024,Chat,Data & Reporting,Medium,Closed,Sarah Chen,45.0,2.5,North America,Education
+T00422,C0144,SMB,2023-05-10,2023-05,Q2 2023,Email,Security & Compliance,High,Resolved,David Kim,9.0,3.6,North America,Healthcare
+T00423,C0092,Startup,2023-11-26,2023-11,Q4 2023,Self-Service Portal,Integration & API,Medium,Resolved,James O'Brien,12.0,3.2,North America,Manufacturing
+T00424,C0232,SMB,2023-08-29,2023-08,Q3 2023,Chat,Data & Reporting,Low,Closed,Aisha Williams,58.0,3.8,EMEA,Manufacturing
+T00425,C0228,Mid-Market,2024-06-15,2024-06,Q2 2024,Chat,Performance & Stability,Medium,Resolved,Carlos Rivera,60.0,3.9,LATAM,Logistics
+T00426,C0140,Mid-Market,2024-01-27,2024-01,Q1 2024,Email,Integration & API,Medium,Closed,Marcus Johnson,18.0,5.0,APAC,Healthcare
+T00427,C0061,SMB,2023-03-15,2023-03,Q1 2023,Phone,Performance & Stability,Medium,Resolved,Sarah Chen,25.0,4.2,LATAM,Manufacturing
+T00428,C0154,Enterprise,2023-10-16,2023-10,Q4 2023,Phone,Product Education,Low,Closed,James O'Brien,125.0,2.2,EMEA,Technology
+T00429,C0243,Enterprise,2023-08-28,2023-08,Q3 2023,Phone,Positive Feedback,Low,Resolved,Emma Thompson,133.0,3.8,North America,Education
+T00430,C0108,Startup,2024-03-25,2024-03,Q1 2024,Chat,Performance & Stability,Medium,In Progress,James O'Brien,,,LATAM,Healthcare
+T00431,C0215,Startup,2024-03-11,2024-03,Q1 2024,Chat,Data & Reporting,Low,Resolved,Carlos Rivera,59.0,2.0,EMEA,Logistics
+T00432,C0291,SMB,2024-10-06,2024-10,Q4 2024,Self-Service Portal,Performance & Stability,Low,In Progress,David Kim,,,North America,Education
+T00433,C0056,Mid-Market,2023-12-03,2023-12,Q4 2023,Email,Performance & Stability,Medium,Resolved,Marcus Johnson,70.0,2.1,APAC,Technology
+T00434,C0198,SMB,2023-10-18,2023-10,Q4 2023,Chat,Data & Reporting,Medium,Resolved,Marcus Johnson,49.0,2.7,EMEA,Healthcare
+T00435,C0067,SMB,2024-07-03,2024-07,Q3 2024,Self-Service Portal,Feature Request,Medium,In Progress,Priya Patel,,,EMEA,Education
+T00436,C0295,SMB,2023-11-14,2023-11,Q4 2023,Email,Integration & API,Medium,Open,James O'Brien,,,APAC,Logistics
+T00437,C0270,Mid-Market,2023-12-03,2023-12,Q4 2023,Email,Integration & API,Medium,Open,Priya Patel,,,North America,Healthcare
+T00438,C0213,Mid-Market,2023-09-13,2023-09,Q3 2023,Chat,Performance & Stability,Medium,Resolved,Priya Patel,13.0,5.0,APAC,Logistics
+T00439,C0141,Startup,2024-10-05,2024-10,Q4 2024,Phone,Performance & Stability,High,Closed,Marcus Johnson,17.0,2.7,APAC,Financial Services
+T00440,C0259,SMB,2023-11-30,2023-11,Q4 2023,Email,Billing & Payments,High,Open,James O'Brien,,,LATAM,Manufacturing
+T00441,C0204,SMB,2023-02-08,2023-02,Q1 2023,Email,Access & Authentication,Low,Closed,James O'Brien,45.0,3.1,LATAM,Manufacturing
+T00442,C0225,Mid-Market,2023-05-24,2023-05,Q2 2023,Phone,Data & Reporting,High,Resolved,Priya Patel,13.0,4.7,APAC,Logistics
+T00443,C0040,Startup,2024-11-18,2024-11,Q4 2024,Email,Data & Reporting,Medium,Closed,Marcus Johnson,14.0,4.4,EMEA,Retail
+T00444,C0200,Mid-Market,2024-12-07,2024-12,Q4 2024,Phone,Access & Authentication,Critical,Closed,Emma Thompson,4.0,2.8,APAC,Retail
+T00445,C0015,Startup,2023-01-15,2023-01,Q1 2023,Email,Billing & Payments,Medium,Closed,Carlos Rivera,13.0,4.0,North America,Retail
+T00446,C0166,SMB,2024-07-29,2024-07,Q3 2024,Chat,Performance & Stability,Low,Resolved,Sarah Chen,115.0,2.5,LATAM,Retail
+T00447,C0206,SMB,2024-10-31,2024-10,Q4 2024,Email,Data & Reporting,Medium,Closed,David Kim,16.0,3.7,LATAM,Education
+T00448,C0053,SMB,2024-12-30,2024-12,Q4 2024,Email,Product Education,Low,Closed,Carlos Rivera,58.0,2.5,EMEA,Technology
+T00449,C0247,Startup,2023-03-11,2023-03,Q1 2023,Chat,Performance & Stability,Medium,Resolved,Marcus Johnson,9.0,2.6,LATAM,Technology
+T00450,C0159,Startup,2023-08-31,2023-08,Q3 2023,Email,Feature Request,Medium,Resolved,Sarah Chen,27.0,2.1,North America,Education
+T00451,C0122,SMB,2024-09-04,2024-09,Q3 2024,Email,Security & Compliance,High,Closed,James O'Brien,20.0,4.8,APAC,Logistics
+T00452,C0170,Startup,2023-12-17,2023-12,Q4 2023,Phone,Integration & API,Low,In Progress,Carlos Rivera,,,LATAM,Financial Services
+T00453,C0094,Startup,2024-03-28,2024-03,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Open,Priya Patel,,,LATAM,Education
+T00454,C0282,SMB,2023-07-29,2023-07,Q3 2023,Email,Access & Authentication,Low,Closed,David Kim,87.0,2.4,EMEA,Retail
+T00455,C0104,Mid-Market,2023-10-06,2023-10,Q4 2023,Chat,User Management,Medium,Resolved,David Kim,63.0,4.0,LATAM,Logistics
+T00456,C0011,Mid-Market,2024-01-26,2024-01,Q1 2024,Email,Access & Authentication,Low,Resolved,Aisha Williams,142.0,2.4,LATAM,Manufacturing
+T00457,C0193,Mid-Market,2024-07-29,2024-07,Q3 2024,Chat,Access & Authentication,High,In Progress,Carlos Rivera,,,LATAM,Manufacturing
+T00458,C0252,SMB,2024-02-19,2024-02,Q1 2024,Chat,Product Education,Medium,Resolved,Priya Patel,12.0,3.7,LATAM,Media
+T00459,C0100,Mid-Market,2024-03-22,2024-03,Q1 2024,Chat,User Management,Low,Resolved,James O'Brien,132.0,3.7,LATAM,Retail
+T00460,C0245,SMB,2023-02-05,2023-02,Q1 2023,Phone,Feature Request,Critical,In Progress,Priya Patel,,,APAC,Retail
+T00461,C0007,Startup,2023-04-30,2023-04,Q2 2023,Phone,Feature Request,Medium,Closed,Emma Thompson,32.0,2.0,LATAM,Healthcare
+T00462,C0130,Enterprise,2024-12-09,2024-12,Q4 2024,Chat,Product Education,Medium,Resolved,Aisha Williams,21.0,4.9,EMEA,Financial Services
+T00463,C0108,Startup,2024-02-12,2024-02,Q1 2024,Chat,Access & Authentication,High,Open,Emma Thompson,,,LATAM,Healthcare
+T00464,C0088,Mid-Market,2023-06-30,2023-06,Q2 2023,Email,Feature Request,High,Closed,Priya Patel,22.0,3.1,LATAM,Manufacturing
+T00465,C0099,SMB,2023-09-23,2023-09,Q3 2023,Self-Service Portal,Performance & Stability,Medium,In Progress,Aisha Williams,,,LATAM,Retail
+T00466,C0033,Enterprise,2023-12-17,2023-12,Q4 2023,Phone,Billing & Payments,Medium,Open,James O'Brien,,,APAC,Technology
+T00467,C0268,Enterprise,2023-01-08,2023-01,Q1 2023,Email,Integration & API,Low,Resolved,Carlos Rivera,110.0,2.6,EMEA,Healthcare
+T00468,C0162,SMB,2023-09-03,2023-09,Q3 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Priya Patel,66.0,3.7,APAC,Retail
+T00469,C0014,SMB,2024-09-08,2024-09,Q3 2024,Phone,Integration & API,Low,In Progress,Emma Thompson,,,North America,Education
+T00470,C0097,SMB,2023-01-04,2023-01,Q1 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Marcus Johnson,37.0,2.7,LATAM,Manufacturing
+T00471,C0179,Startup,2024-03-14,2024-03,Q1 2024,Phone,Security & Compliance,Low,Resolved,Marcus Johnson,32.0,1.9,LATAM,Financial Services
+T00472,C0155,SMB,2024-11-20,2024-11,Q4 2024,Self-Service Portal,Integration & API,Low,Resolved,Marcus Johnson,67.0,3.8,APAC,Logistics
+T00473,C0055,Startup,2024-03-21,2024-03,Q1 2024,Self-Service Portal,Billing & Payments,Low,Closed,David Kim,55.0,3.5,LATAM,Logistics
+T00474,C0047,Mid-Market,2024-12-09,2024-12,Q4 2024,Self-Service Portal,Billing & Payments,Medium,Open,Emma Thompson,,,APAC,Healthcare
+T00475,C0120,Enterprise,2023-08-17,2023-08,Q3 2023,Email,Data & Reporting,High,Resolved,Emma Thompson,7.0,5.0,North America,Media
+T00476,C0296,Enterprise,2023-01-02,2023-01,Q1 2023,Chat,Performance & Stability,High,Resolved,David Kim,8.0,3.7,North America,Financial Services
+T00477,C0162,SMB,2023-05-29,2023-05,Q2 2023,Email,Billing & Payments,Medium,Resolved,Marcus Johnson,48.0,3.0,APAC,Retail
+T00478,C0141,Startup,2024-12-24,2024-12,Q4 2024,Email,Performance & Stability,High,Closed,James O'Brien,14.0,5.0,APAC,Financial Services
+T00479,C0027,Mid-Market,2023-07-03,2023-07,Q3 2023,Phone,Data & Reporting,Low,Closed,David Kim,110.0,2.8,APAC,Media
+T00480,C0179,Startup,2024-02-05,2024-02,Q1 2024,Phone,Integration & API,Medium,In Progress,Sarah Chen,,,LATAM,Financial Services
+T00481,C0156,SMB,2024-04-13,2024-04,Q2 2024,Chat,Performance & Stability,Medium,Closed,Marcus Johnson,33.0,2.6,APAC,Financial Services
+T00482,C0076,SMB,2024-01-21,2024-01,Q1 2024,Email,Security & Compliance,Low,Closed,Emma Thompson,155.0,3.5,LATAM,Logistics
+T00483,C0077,Mid-Market,2024-10-04,2024-10,Q4 2024,Chat,Data & Reporting,High,Resolved,Emma Thompson,24.0,3.8,LATAM,Education
+T00484,C0141,Startup,2024-10-09,2024-10,Q4 2024,Email,Data & Reporting,High,Resolved,Marcus Johnson,4.0,4.6,APAC,Financial Services
+T00485,C0093,Startup,2024-01-29,2024-01,Q1 2024,Email,Feature Request,Medium,Resolved,David Kim,10.0,4.2,LATAM,Media
+T00486,C0033,Enterprise,2024-06-15,2024-06,Q2 2024,Email,Feature Request,Low,Closed,Carlos Rivera,25.0,3.2,APAC,Technology
+T00487,C0063,Enterprise,2023-02-10,2023-02,Q1 2023,Chat,Billing & Payments,High,Closed,Priya Patel,6.0,3.4,EMEA,Media
+T00488,C0217,SMB,2024-11-04,2024-11,Q4 2024,Chat,Data & Reporting,Low,Closed,Carlos Rivera,104.0,3.1,APAC,Financial Services
+T00489,C0276,Enterprise,2024-06-06,2024-06,Q2 2024,Email,Access & Authentication,Low,In Progress,James O'Brien,,,LATAM,Manufacturing
+T00490,C0184,Startup,2023-10-12,2023-10,Q4 2023,Email,Performance & Stability,High,Resolved,Emma Thompson,16.0,5.0,APAC,Education
+T00491,C0074,Mid-Market,2024-07-02,2024-07,Q3 2024,Chat,Performance & Stability,Medium,Resolved,Carlos Rivera,28.0,4.0,APAC,Manufacturing
+T00492,C0223,SMB,2024-01-24,2024-01,Q1 2024,Chat,Data & Reporting,Medium,Resolved,Carlos Rivera,50.0,2.6,LATAM,Technology
+T00493,C0140,Mid-Market,2023-05-30,2023-05,Q2 2023,Self-Service Portal,Access & Authentication,Medium,Resolved,Aisha Williams,30.0,3.7,APAC,Healthcare
+T00494,C0251,Mid-Market,2023-04-08,2023-04,Q2 2023,Chat,Feature Request,Low,Resolved,Emma Thompson,123.0,2.0,EMEA,Retail
+T00495,C0245,SMB,2024-08-29,2024-08,Q3 2024,Email,Access & Authentication,Medium,In Progress,Carlos Rivera,,,APAC,Retail
+T00496,C0128,SMB,2024-11-25,2024-11,Q4 2024,Self-Service Portal,Feature Request,High,Closed,James O'Brien,12.0,5.0,APAC,Technology
+T00497,C0157,Mid-Market,2024-10-12,2024-10,Q4 2024,Email,Data & Reporting,Medium,Open,Marcus Johnson,,,North America,Manufacturing
+T00498,C0147,Mid-Market,2024-07-21,2024-07,Q3 2024,Chat,Security & Compliance,Low,Resolved,Marcus Johnson,155.0,3.6,North America,Financial Services
+T00499,C0208,Mid-Market,2023-01-15,2023-01,Q1 2023,Phone,User Management,Low,Closed,James O'Brien,138.0,4.4,APAC,Retail
+T00500,C0090,Mid-Market,2023-03-18,2023-03,Q1 2023,Email,Access & Authentication,Medium,Resolved,James O'Brien,22.0,5.0,APAC,Logistics
+T00501,C0277,SMB,2023-05-01,2023-05,Q2 2023,Email,Integration & API,Medium,Resolved,Sarah Chen,47.0,4.0,North America,Media
+T00502,C0238,Mid-Market,2024-09-24,2024-09,Q3 2024,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,31.0,2.6,EMEA,Logistics
+T00503,C0221,SMB,2024-05-18,2024-05,Q2 2024,Chat,Integration & API,Low,Closed,Carlos Rivera,81.0,2.9,APAC,Technology
+T00504,C0154,Enterprise,2024-01-09,2024-01,Q1 2024,Email,Billing & Payments,Low,Resolved,Sarah Chen,114.0,3.7,EMEA,Technology
+T00505,C0184,Startup,2024-12-27,2024-12,Q4 2024,Chat,Billing & Payments,Critical,Closed,Aisha Williams,1.0,5.0,APAC,Education
+T00506,C0061,SMB,2024-03-07,2024-03,Q1 2024,Email,Integration & API,Medium,Closed,Marcus Johnson,57.0,1.8,LATAM,Manufacturing
+T00507,C0011,Mid-Market,2023-05-10,2023-05,Q2 2023,Email,Integration & API,Low,Resolved,Aisha Williams,135.0,2.9,LATAM,Manufacturing
+T00508,C0249,SMB,2023-03-26,2023-03,Q1 2023,Email,Performance & Stability,Low,Resolved,Marcus Johnson,133.0,2.1,EMEA,Financial Services
+T00509,C0258,Startup,2024-09-17,2024-09,Q3 2024,Chat,Product Education,Medium,In Progress,James O'Brien,,,LATAM,Healthcare
+T00510,C0075,SMB,2024-03-12,2024-03,Q1 2024,Chat,Billing & Payments,Low,Resolved,Emma Thompson,133.0,2.9,North America,Technology
+T00511,C0027,Mid-Market,2023-11-08,2023-11,Q4 2023,Phone,Data & Reporting,Low,In Progress,Sarah Chen,,,APAC,Media
+T00512,C0165,Enterprise,2023-08-06,2023-08,Q3 2023,Chat,Data & Reporting,Medium,Resolved,Sarah Chen,50.0,1.8,EMEA,Retail
+T00513,C0283,Mid-Market,2023-05-14,2023-05,Q2 2023,Phone,Feature Request,Medium,Resolved,Marcus Johnson,43.0,3.3,APAC,Media
+T00514,C0055,Startup,2023-05-14,2023-05,Q2 2023,Self-Service Portal,Performance & Stability,Critical,Closed,Carlos Rivera,4.0,2.7,LATAM,Logistics
+T00515,C0155,SMB,2024-04-30,2024-04,Q2 2024,Email,Feature Request,Critical,Resolved,Marcus Johnson,5.0,3.8,APAC,Logistics
+T00516,C0224,Mid-Market,2023-03-11,2023-03,Q1 2023,Phone,Integration & API,Low,In Progress,Sarah Chen,,,LATAM,Media
+T00517,C0098,Mid-Market,2024-02-12,2024-02,Q1 2024,Email,Integration & API,Medium,Resolved,James O'Brien,57.0,3.3,LATAM,Financial Services
+T00518,C0095,SMB,2023-01-04,2023-01,Q1 2023,Self-Service Portal,Billing & Payments,Medium,Closed,Aisha Williams,41.0,4.1,APAC,Education
+T00519,C0138,SMB,2024-07-19,2024-07,Q3 2024,Email,Billing & Payments,Medium,Resolved,James O'Brien,42.0,3.4,North America,Education
+T00520,C0108,Startup,2024-07-01,2024-07,Q3 2024,Self-Service Portal,Performance & Stability,Medium,Resolved,Sarah Chen,60.0,2.5,LATAM,Healthcare
+T00521,C0006,Startup,2023-12-31,2023-12,Q4 2023,Self-Service Portal,Product Education,High,Resolved,David Kim,16.0,3.1,EMEA,Education
+T00522,C0113,SMB,2023-11-29,2023-11,Q4 2023,Phone,Performance & Stability,Low,In Progress,David Kim,,,APAC,Media
+T00523,C0048,SMB,2024-05-22,2024-05,Q2 2024,Email,Billing & Payments,Low,Resolved,Priya Patel,29.0,2.4,LATAM,Education
+T00524,C0202,SMB,2024-12-04,2024-12,Q4 2024,Email,Access & Authentication,High,Closed,Emma Thompson,7.0,4.3,EMEA,Retail
+T00525,C0197,SMB,2023-01-22,2023-01,Q1 2023,Self-Service Portal,Access & Authentication,Low,In Progress,Sarah Chen,,,North America,Retail
+T00526,C0055,Startup,2024-07-09,2024-07,Q3 2024,Email,Data & Reporting,Low,Resolved,James O'Brien,108.0,2.9,LATAM,Logistics
+T00527,C0029,Enterprise,2024-07-10,2024-07,Q3 2024,Phone,Performance & Stability,High,In Progress,Sarah Chen,,,EMEA,Logistics
+T00528,C0115,SMB,2023-01-25,2023-01,Q1 2023,Email,Data & Reporting,Medium,Closed,James O'Brien,70.0,4.5,LATAM,Financial Services
+T00529,C0053,SMB,2023-10-16,2023-10,Q4 2023,Self-Service Portal,Performance & Stability,High,Closed,Carlos Rivera,23.0,3.8,EMEA,Technology
+T00530,C0093,Startup,2024-11-26,2024-11,Q4 2024,Chat,Security & Compliance,Medium,Resolved,Marcus Johnson,71.0,4.3,LATAM,Media
+T00531,C0002,SMB,2023-06-02,2023-06,Q2 2023,Phone,Data & Reporting,Medium,Closed,Aisha Williams,22.0,5.0,North America,Financial Services
+T00532,C0075,SMB,2023-04-03,2023-04,Q2 2023,Email,Billing & Payments,Medium,Resolved,James O'Brien,50.0,3.9,North America,Technology
+T00533,C0197,SMB,2024-03-04,2024-03,Q1 2024,Chat,Integration & API,Medium,In Progress,James O'Brien,,,North America,Retail
+T00534,C0045,Enterprise,2023-08-29,2023-08,Q3 2023,Chat,Billing & Payments,Low,Resolved,Priya Patel,113.0,2.6,APAC,Media
+T00535,C0151,Startup,2024-04-16,2024-04,Q2 2024,Self-Service Portal,Security & Compliance,Low,In Progress,Priya Patel,,,APAC,Logistics
+T00536,C0194,Enterprise,2023-01-27,2023-01,Q1 2023,Phone,Data & Reporting,Low,Open,Priya Patel,,,LATAM,Healthcare
+T00537,C0041,SMB,2023-09-08,2023-09,Q3 2023,Email,Performance & Stability,Low,In Progress,Emma Thompson,,,EMEA,Media
+T00538,C0173,Startup,2024-03-30,2024-03,Q1 2024,Email,Access & Authentication,High,Resolved,Emma Thompson,20.0,3.7,EMEA,Education
+T00539,C0233,Enterprise,2024-07-21,2024-07,Q3 2024,Email,Data & Reporting,Medium,In Progress,Emma Thompson,,,LATAM,Media
+T00540,C0065,Startup,2023-08-05,2023-08,Q3 2023,Phone,Access & Authentication,Medium,Closed,Emma Thompson,69.0,3.5,EMEA,Education
+T00541,C0195,SMB,2023-06-18,2023-06,Q2 2023,Email,Data & Reporting,Medium,In Progress,James O'Brien,,,APAC,Healthcare
+T00542,C0145,Mid-Market,2023-06-16,2023-06,Q2 2023,Phone,Access & Authentication,Medium,Resolved,Sarah Chen,12.0,3.3,LATAM,Media
+T00543,C0289,SMB,2024-05-10,2024-05,Q2 2024,Email,Data & Reporting,Low,Resolved,Emma Thompson,73.0,2.4,LATAM,Healthcare
+T00544,C0183,SMB,2023-05-13,2023-05,Q2 2023,Phone,Access & Authentication,Medium,In Progress,Sarah Chen,,,APAC,Logistics
+T00545,C0149,SMB,2023-06-15,2023-06,Q2 2023,Email,Integration & API,Low,Closed,Carlos Rivera,65.0,4.5,North America,Education
+T00546,C0230,Enterprise,2023-05-15,2023-05,Q2 2023,Chat,Data & Reporting,Low,Closed,David Kim,43.0,4.4,North America,Manufacturing
+T00547,C0050,Mid-Market,2023-01-16,2023-01,Q1 2023,Self-Service Portal,Security & Compliance,Medium,Closed,Aisha Williams,20.0,3.4,LATAM,Education
+T00548,C0083,Startup,2023-03-11,2023-03,Q1 2023,Email,Data & Reporting,High,Closed,Priya Patel,19.0,4.5,LATAM,Media
+T00549,C0064,SMB,2024-08-05,2024-08,Q3 2024,Chat,Data & Reporting,Medium,Resolved,Carlos Rivera,54.0,4.0,LATAM,Education
+T00550,C0192,SMB,2023-03-27,2023-03,Q1 2023,Self-Service Portal,Integration & API,Medium,Resolved,Aisha Williams,9.0,5.0,North America,Technology
+T00551,C0193,Mid-Market,2023-06-12,2023-06,Q2 2023,Self-Service Portal,Security & Compliance,High,Resolved,David Kim,18.0,5.0,LATAM,Manufacturing
+T00552,C0056,Mid-Market,2023-03-29,2023-03,Q1 2023,Chat,Access & Authentication,Low,Resolved,David Kim,105.0,2.5,APAC,Technology
+T00553,C0109,SMB,2024-12-20,2024-12,Q4 2024,Chat,Access & Authentication,Medium,Closed,Emma Thompson,35.0,3.2,North America,Financial Services
+T00554,C0032,Enterprise,2024-01-06,2024-01,Q1 2024,Email,Billing & Payments,High,Closed,Marcus Johnson,12.0,2.8,LATAM,Manufacturing
+T00555,C0141,Startup,2024-02-19,2024-02,Q1 2024,Chat,Security & Compliance,Medium,In Progress,Emma Thompson,,,APAC,Financial Services
+T00556,C0176,Enterprise,2023-11-01,2023-11,Q4 2023,Chat,Data & Reporting,Medium,Resolved,James O'Brien,53.0,4.0,EMEA,Manufacturing
+T00557,C0040,Startup,2024-11-14,2024-11,Q4 2024,Phone,Billing & Payments,Medium,Closed,David Kim,27.0,4.3,EMEA,Retail
+T00558,C0163,Enterprise,2023-04-27,2023-04,Q2 2023,Self-Service Portal,Data & Reporting,Low,Closed,James O'Brien,48.0,1.6,APAC,Healthcare
+T00559,C0216,Mid-Market,2024-12-14,2024-12,Q4 2024,Email,Billing & Payments,Medium,Closed,Aisha Williams,54.0,2.4,APAC,Manufacturing
+T00560,C0258,Startup,2023-05-08,2023-05,Q2 2023,Chat,Performance & Stability,Medium,Resolved,David Kim,50.0,4.3,LATAM,Healthcare
+T00561,C0220,Mid-Market,2024-01-18,2024-01,Q1 2024,Chat,Performance & Stability,Medium,Closed,Marcus Johnson,44.0,4.5,EMEA,Media
+T00562,C0046,Mid-Market,2024-10-27,2024-10,Q4 2024,Phone,User Management,High,Resolved,Sarah Chen,24.0,3.2,North America,Media
+T00563,C0149,SMB,2024-03-06,2024-03,Q1 2024,Email,Positive Feedback,Medium,Closed,Emma Thompson,67.0,4.2,North America,Education
+T00564,C0004,Mid-Market,2024-01-19,2024-01,Q1 2024,Email,Data & Reporting,Low,Closed,Sarah Chen,130.0,1.6,EMEA,Retail
+T00565,C0079,Enterprise,2024-01-19,2024-01,Q1 2024,Email,Feature Request,Medium,Resolved,Emma Thompson,58.0,3.3,EMEA,Retail
+T00566,C0027,Mid-Market,2024-08-14,2024-08,Q3 2024,Phone,User Management,Medium,Resolved,Priya Patel,28.0,2.2,APAC,Media
+T00567,C0259,SMB,2023-05-02,2023-05,Q2 2023,Chat,Positive Feedback,Low,Resolved,Emma Thompson,47.0,1.8,LATAM,Manufacturing
+T00568,C0006,Startup,2024-10-05,2024-10,Q4 2024,Self-Service Portal,Access & Authentication,Low,Open,Carlos Rivera,,,EMEA,Education
+T00569,C0096,Mid-Market,2023-09-03,2023-09,Q3 2023,Phone,Billing & Payments,High,Closed,Priya Patel,12.0,2.7,APAC,Technology
+T00570,C0012,Enterprise,2024-10-15,2024-10,Q4 2024,Chat,Access & Authentication,Medium,In Progress,Marcus Johnson,,,North America,Financial Services
+T00571,C0254,Startup,2024-01-06,2024-01,Q1 2024,Chat,Access & Authentication,Low,Resolved,David Kim,120.0,4.2,EMEA,Manufacturing
+T00572,C0083,Startup,2023-07-04,2023-07,Q3 2023,Chat,User Management,Medium,Closed,Sarah Chen,52.0,4.5,LATAM,Media
+T00573,C0082,SMB,2024-06-18,2024-06,Q2 2024,Email,User Management,High,Open,James O'Brien,,,LATAM,Logistics
+T00574,C0016,SMB,2023-12-02,2023-12,Q4 2023,Email,Access & Authentication,Medium,Resolved,David Kim,52.0,3.5,APAC,Financial Services
+T00575,C0254,Startup,2024-03-22,2024-03,Q1 2024,Email,User Management,Medium,Closed,James O'Brien,21.0,3.0,EMEA,Manufacturing
+T00576,C0250,Enterprise,2024-03-19,2024-03,Q1 2024,Email,Performance & Stability,Medium,In Progress,Carlos Rivera,,,EMEA,Manufacturing
+T00577,C0033,Enterprise,2024-04-05,2024-04,Q2 2024,Chat,Access & Authentication,Medium,Resolved,Carlos Rivera,11.0,3.0,APAC,Technology
+T00578,C0220,Mid-Market,2023-07-10,2023-07,Q3 2023,Chat,Access & Authentication,Medium,Closed,James O'Brien,48.0,3.7,EMEA,Media
+T00579,C0239,SMB,2024-08-04,2024-08,Q3 2024,Email,Billing & Payments,High,In Progress,Emma Thompson,,,North America,Education
+T00580,C0223,SMB,2023-11-22,2023-11,Q4 2023,Chat,Billing & Payments,Low,Closed,Carlos Rivera,139.0,2.0,LATAM,Technology
+T00581,C0197,SMB,2023-08-31,2023-08,Q3 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Sarah Chen,24.0,1.6,North America,Retail
+T00582,C0173,Startup,2024-10-22,2024-10,Q4 2024,Chat,Integration & API,Low,Resolved,Carlos Rivera,44.0,3.2,EMEA,Education
+T00583,C0253,SMB,2024-09-19,2024-09,Q3 2024,Chat,Data & Reporting,Low,Resolved,Sarah Chen,31.0,2.2,EMEA,Media
+T00584,C0072,SMB,2023-04-18,2023-04,Q2 2023,Email,Feature Request,Medium,In Progress,Aisha Williams,,,APAC,Manufacturing
+T00585,C0023,Mid-Market,2023-04-24,2023-04,Q2 2023,Chat,Access & Authentication,Medium,Closed,Carlos Rivera,25.0,1.9,LATAM,Media
+T00586,C0076,SMB,2024-08-21,2024-08,Q3 2024,Chat,Integration & API,High,Resolved,Aisha Williams,12.0,3.2,LATAM,Logistics
+T00587,C0152,SMB,2024-12-29,2024-12,Q4 2024,Phone,Performance & Stability,Low,Closed,Sarah Chen,150.0,1.7,APAC,Media
+T00588,C0111,SMB,2024-04-24,2024-04,Q2 2024,Phone,Integration & API,Medium,Closed,Marcus Johnson,66.0,4.0,EMEA,Retail
+T00589,C0067,SMB,2023-08-13,2023-08,Q3 2023,Chat,Product Education,Low,Closed,Aisha Williams,132.0,2.0,EMEA,Education
+T00590,C0296,Enterprise,2024-10-25,2024-10,Q4 2024,Email,Integration & API,High,Open,David Kim,,,North America,Financial Services
+T00591,C0272,Mid-Market,2024-04-08,2024-04,Q2 2024,Chat,Access & Authentication,Medium,In Progress,Carlos Rivera,,,APAC,Logistics
+T00592,C0028,Enterprise,2024-03-27,2024-03,Q1 2024,Phone,Access & Authentication,Medium,Resolved,David Kim,59.0,3.3,EMEA,Manufacturing
+T00593,C0266,Mid-Market,2024-03-19,2024-03,Q1 2024,Email,Access & Authentication,High,In Progress,Marcus Johnson,,,LATAM,Logistics
+T00594,C0273,Enterprise,2023-04-14,2023-04,Q2 2023,Chat,Security & Compliance,Medium,Resolved,James O'Brien,71.0,2.0,North America,Education
+T00595,C0178,SMB,2024-10-14,2024-10,Q4 2024,Email,Performance & Stability,Low,Resolved,Marcus Johnson,67.0,2.4,LATAM,Technology
+T00596,C0086,SMB,2023-07-11,2023-07,Q3 2023,Phone,Integration & API,Low,Resolved,Sarah Chen,43.0,2.0,EMEA,Healthcare
+T00597,C0181,Enterprise,2024-04-30,2024-04,Q2 2024,Email,Integration & API,High,Closed,Marcus Johnson,11.0,4.8,APAC,Education
+T00598,C0052,Enterprise,2023-11-08,2023-11,Q4 2023,Self-Service Portal,Integration & API,Low,Resolved,Carlos Rivera,141.0,1.5,LATAM,Technology
+T00599,C0155,SMB,2024-12-28,2024-12,Q4 2024,Self-Service Portal,Integration & API,Medium,Closed,Sarah Chen,42.0,3.7,APAC,Logistics
+T00600,C0076,SMB,2024-02-25,2024-02,Q1 2024,Email,Product Education,Medium,Resolved,Emma Thompson,34.0,2.1,LATAM,Logistics
+T00601,C0056,Mid-Market,2023-10-08,2023-10,Q4 2023,Self-Service Portal,Performance & Stability,Low,Closed,Emma Thompson,108.0,2.7,APAC,Technology
+T00602,C0142,Mid-Market,2023-11-13,2023-11,Q4 2023,Phone,Performance & Stability,Low,In Progress,Marcus Johnson,,,EMEA,Retail
+T00603,C0005,SMB,2024-05-25,2024-05,Q2 2024,Self-Service Portal,Integration & API,High,Resolved,Aisha Williams,13.0,2.7,LATAM,Financial Services
+T00604,C0008,Mid-Market,2024-04-09,2024-04,Q2 2024,Email,Data & Reporting,Medium,Resolved,Carlos Rivera,8.0,3.3,North America,Manufacturing
+T00605,C0146,Mid-Market,2024-05-29,2024-05,Q2 2024,Phone,Performance & Stability,Low,In Progress,James O'Brien,,,APAC,Healthcare
+T00606,C0017,Mid-Market,2024-04-29,2024-04,Q2 2024,Chat,Positive Feedback,Medium,Closed,Emma Thompson,46.0,2.0,North America,Healthcare
+T00607,C0166,SMB,2024-08-15,2024-08,Q3 2024,Chat,Feature Request,Medium,In Progress,Priya Patel,,,LATAM,Retail
+T00608,C0193,Mid-Market,2024-03-23,2024-03,Q1 2024,Chat,Integration & API,Medium,Resolved,Emma Thompson,53.0,2.9,LATAM,Manufacturing
+T00609,C0237,Mid-Market,2023-01-29,2023-01,Q1 2023,Phone,User Management,Medium,Resolved,Aisha Williams,55.0,3.4,EMEA,Technology
+T00610,C0028,Enterprise,2024-02-07,2024-02,Q1 2024,Phone,Feature Request,Medium,Resolved,Marcus Johnson,15.0,5.0,EMEA,Manufacturing
+T00611,C0171,Mid-Market,2024-08-31,2024-08,Q3 2024,Email,Data & Reporting,Medium,Open,David Kim,,,APAC,Retail
+T00612,C0070,Mid-Market,2023-08-17,2023-08,Q3 2023,Email,Security & Compliance,Medium,Closed,Priya Patel,33.0,1.7,APAC,Media
+T00613,C0062,SMB,2024-06-16,2024-06,Q2 2024,Phone,Billing & Payments,Medium,Resolved,Priya Patel,46.0,3.0,EMEA,Logistics
+T00614,C0121,SMB,2024-07-13,2024-07,Q3 2024,Phone,Performance & Stability,Medium,In Progress,Priya Patel,,,North America,Education
+T00615,C0124,Startup,2023-06-24,2023-06,Q2 2023,Chat,Feature Request,High,Resolved,Emma Thompson,22.0,4.5,LATAM,Healthcare
+T00616,C0198,SMB,2024-12-15,2024-12,Q4 2024,Email,Data & Reporting,Medium,Resolved,David Kim,46.0,3.4,EMEA,Healthcare
+T00617,C0022,SMB,2023-12-30,2023-12,Q4 2023,Email,Security & Compliance,Medium,In Progress,Marcus Johnson,,,EMEA,Logistics
+T00618,C0090,Mid-Market,2024-11-02,2024-11,Q4 2024,Chat,Performance & Stability,Medium,Closed,David Kim,46.0,1.7,APAC,Logistics
+T00619,C0193,Mid-Market,2024-04-28,2024-04,Q2 2024,Chat,Billing & Payments,Low,Resolved,Emma Thompson,113.0,3.3,LATAM,Manufacturing
+T00620,C0035,Startup,2023-02-16,2023-02,Q1 2023,Phone,Feature Request,High,Resolved,Priya Patel,14.0,2.8,APAC,Retail
+T00621,C0197,SMB,2024-03-06,2024-03,Q1 2024,Phone,Performance & Stability,High,Open,Carlos Rivera,,,North America,Retail
+T00622,C0056,Mid-Market,2024-12-16,2024-12,Q4 2024,Chat,Access & Authentication,Medium,In Progress,James O'Brien,,,APAC,Technology
+T00623,C0083,Startup,2024-03-20,2024-03,Q1 2024,Email,Positive Feedback,High,Closed,Carlos Rivera,10.0,5.0,LATAM,Media
+T00624,C0209,Startup,2024-08-04,2024-08,Q3 2024,Phone,Access & Authentication,High,Closed,Carlos Rivera,10.0,4.0,LATAM,Logistics
+T00625,C0287,Startup,2023-05-22,2023-05,Q2 2023,Email,Integration & API,Medium,Open,James O'Brien,,,APAC,Technology
+T00626,C0027,Mid-Market,2024-09-07,2024-09,Q3 2024,Email,Access & Authentication,Low,Closed,Marcus Johnson,64.0,4.4,APAC,Media
+T00627,C0274,SMB,2024-08-12,2024-08,Q3 2024,Email,Integration & API,Medium,Resolved,Sarah Chen,68.0,3.5,APAC,Media
+T00628,C0174,SMB,2024-03-07,2024-03,Q1 2024,Email,Data & Reporting,Low,Resolved,Sarah Chen,150.0,1.7,North America,Retail
+T00629,C0178,SMB,2023-03-14,2023-03,Q1 2023,Self-Service Portal,Feature Request,Low,Resolved,James O'Brien,50.0,1.6,LATAM,Technology
+T00630,C0180,Mid-Market,2024-03-17,2024-03,Q1 2024,Email,Positive Feedback,Low,Closed,Sarah Chen,28.0,3.2,APAC,Healthcare
+T00631,C0199,Enterprise,2024-01-22,2024-01,Q1 2024,Email,Integration & API,Medium,Resolved,Sarah Chen,32.0,2.8,EMEA,Retail
+T00632,C0122,SMB,2023-08-26,2023-08,Q3 2023,Phone,Access & Authentication,Medium,Closed,Priya Patel,39.0,1.7,APAC,Logistics
+T00633,C0225,Mid-Market,2023-07-04,2023-07,Q3 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Marcus Johnson,58.0,3.5,APAC,Logistics
+T00634,C0040,Startup,2023-09-14,2023-09,Q3 2023,Chat,Integration & API,Low,Closed,Aisha Williams,117.0,3.8,EMEA,Retail
+T00635,C0126,Mid-Market,2024-06-23,2024-06,Q2 2024,Email,Feature Request,Medium,Closed,James O'Brien,18.0,5.0,North America,Technology
+T00636,C0157,Mid-Market,2024-07-20,2024-07,Q3 2024,Email,Data & Reporting,Low,Closed,Sarah Chen,53.0,1.6,North America,Manufacturing
+T00637,C0139,Startup,2023-10-12,2023-10,Q4 2023,Email,Data & Reporting,Low,Closed,Sarah Chen,121.0,2.7,APAC,Manufacturing
+T00638,C0115,SMB,2023-07-30,2023-07,Q3 2023,Phone,Performance & Stability,Medium,Open,James O'Brien,,,LATAM,Financial Services
+T00639,C0015,Startup,2023-12-16,2023-12,Q4 2023,Phone,Performance & Stability,Low,Closed,David Kim,97.0,4.1,North America,Retail
+T00640,C0218,SMB,2024-08-09,2024-08,Q3 2024,Self-Service Portal,Feature Request,Medium,Resolved,Aisha Williams,9.0,4.9,EMEA,Manufacturing
+T00641,C0044,SMB,2023-09-13,2023-09,Q3 2023,Chat,Data & Reporting,Medium,Resolved,Carlos Rivera,9.0,3.4,APAC,Media
+T00642,C0136,SMB,2023-07-03,2023-07,Q3 2023,Email,Access & Authentication,Critical,Resolved,Carlos Rivera,4.0,3.3,LATAM,Education
+T00643,C0033,Enterprise,2024-03-27,2024-03,Q1 2024,Self-Service Portal,Feature Request,Medium,In Progress,Marcus Johnson,,,APAC,Technology
+T00644,C0020,Mid-Market,2023-07-08,2023-07,Q3 2023,Email,Security & Compliance,Medium,Closed,Carlos Rivera,40.0,3.5,EMEA,Technology
+T00645,C0277,SMB,2023-02-15,2023-02,Q1 2023,Chat,Data & Reporting,High,Resolved,Emma Thompson,10.0,5.0,North America,Media
+T00646,C0037,SMB,2024-10-19,2024-10,Q4 2024,Chat,Data & Reporting,Critical,Resolved,Aisha Williams,7.0,5.0,EMEA,Manufacturing
+T00647,C0016,SMB,2023-06-14,2023-06,Q2 2023,Chat,Data & Reporting,High,In Progress,Emma Thompson,,,APAC,Financial Services
+T00648,C0299,SMB,2023-02-03,2023-02,Q1 2023,Chat,Billing & Payments,Low,Closed,Marcus Johnson,164.0,3.7,North America,Media
+T00649,C0271,SMB,2023-02-22,2023-02,Q1 2023,Email,Performance & Stability,Medium,In Progress,Carlos Rivera,,,North America,Retail
+T00650,C0119,SMB,2024-04-11,2024-04,Q2 2024,Chat,Product Education,Medium,Closed,Marcus Johnson,18.0,4.2,EMEA,Healthcare
+T00651,C0186,SMB,2024-10-31,2024-10,Q4 2024,Email,Billing & Payments,Low,Closed,Priya Patel,128.0,3.5,LATAM,Healthcare
+T00652,C0134,Mid-Market,2023-10-21,2023-10,Q4 2023,Chat,Access & Authentication,Medium,In Progress,David Kim,,,LATAM,Manufacturing
+T00653,C0008,Mid-Market,2023-06-20,2023-06,Q2 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Marcus Johnson,63.0,3.6,North America,Manufacturing
+T00654,C0068,Startup,2024-06-11,2024-06,Q2 2024,Email,Data & Reporting,Medium,Resolved,Carlos Rivera,23.0,5.0,North America,Healthcare
+T00655,C0056,Mid-Market,2023-02-16,2023-02,Q1 2023,Self-Service Portal,User Management,Low,Resolved,Marcus Johnson,58.0,3.7,APAC,Technology
+T00656,C0078,Mid-Market,2023-01-08,2023-01,Q1 2023,Chat,Data & Reporting,Medium,Resolved,Sarah Chen,37.0,3.0,APAC,Logistics
+T00657,C0289,SMB,2024-06-14,2024-06,Q2 2024,Email,Integration & API,Low,Resolved,Aisha Williams,77.0,2.8,LATAM,Healthcare
+T00658,C0295,SMB,2024-09-22,2024-09,Q3 2024,Email,Data & Reporting,High,Resolved,Marcus Johnson,9.0,5.0,APAC,Logistics
+T00659,C0119,SMB,2024-11-13,2024-11,Q4 2024,Chat,Access & Authentication,Medium,In Progress,David Kim,,,EMEA,Healthcare
+T00660,C0014,SMB,2024-01-14,2024-01,Q1 2024,Phone,User Management,Medium,Resolved,Emma Thompson,22.0,3.8,North America,Education
+T00661,C0253,SMB,2023-09-27,2023-09,Q3 2023,Phone,Access & Authentication,Medium,Closed,Carlos Rivera,17.0,3.0,EMEA,Media
+T00662,C0142,Mid-Market,2024-04-09,2024-04,Q2 2024,Phone,Integration & API,Low,Resolved,Sarah Chen,157.0,2.5,EMEA,Retail
+T00663,C0005,SMB,2023-09-09,2023-09,Q3 2023,Phone,Data & Reporting,Low,Resolved,James O'Brien,151.0,2.3,LATAM,Financial Services
+T00664,C0046,Mid-Market,2024-06-12,2024-06,Q2 2024,Chat,Billing & Payments,Medium,Resolved,James O'Brien,61.0,3.3,North America,Media
+T00665,C0179,Startup,2024-05-10,2024-05,Q2 2024,Phone,User Management,Low,Closed,Aisha Williams,115.0,3.1,LATAM,Financial Services
+T00666,C0050,Mid-Market,2023-08-13,2023-08,Q3 2023,Chat,Security & Compliance,Low,Resolved,Carlos Rivera,69.0,2.9,LATAM,Education
+T00667,C0059,Enterprise,2023-12-22,2023-12,Q4 2023,Chat,Feature Request,Low,Closed,Aisha Williams,84.0,1.6,LATAM,Media
+T00668,C0260,SMB,2023-08-09,2023-08,Q3 2023,Phone,Performance & Stability,Medium,Resolved,Aisha Williams,59.0,4.2,LATAM,Logistics
+T00669,C0249,SMB,2023-08-13,2023-08,Q3 2023,Chat,Positive Feedback,Medium,Resolved,Carlos Rivera,34.0,4.3,EMEA,Financial Services
+T00670,C0067,SMB,2024-09-11,2024-09,Q3 2024,Chat,User Management,Critical,Closed,Carlos Rivera,6.0,4.1,EMEA,Education
+T00671,C0275,Enterprise,2023-07-23,2023-07,Q3 2023,Email,Integration & API,Low,Closed,James O'Brien,79.0,3.2,EMEA,Media
+T00672,C0007,Startup,2023-02-06,2023-02,Q1 2023,Chat,User Management,High,Resolved,James O'Brien,13.0,3.2,LATAM,Healthcare
+T00673,C0018,SMB,2023-10-06,2023-10,Q4 2023,Chat,Positive Feedback,Medium,Closed,Emma Thompson,17.0,4.0,APAC,Retail
+T00674,C0011,Mid-Market,2023-01-16,2023-01,Q1 2023,Email,Performance & Stability,Low,Resolved,Sarah Chen,106.0,2.8,LATAM,Manufacturing
+T00675,C0155,SMB,2023-10-08,2023-10,Q4 2023,Chat,Access & Authentication,Low,Resolved,David Kim,128.0,3.2,APAC,Logistics
+T00676,C0146,Mid-Market,2024-12-20,2024-12,Q4 2024,Chat,Data & Reporting,Critical,Resolved,Sarah Chen,6.0,3.2,APAC,Healthcare
+T00677,C0204,SMB,2023-08-26,2023-08,Q3 2023,Email,Integration & API,High,In Progress,David Kim,,,LATAM,Manufacturing
+T00678,C0128,SMB,2023-03-27,2023-03,Q1 2023,Phone,Performance & Stability,Medium,Resolved,Carlos Rivera,71.0,2.7,APAC,Technology
+T00679,C0078,Mid-Market,2023-02-07,2023-02,Q1 2023,Email,Performance & Stability,Medium,Resolved,James O'Brien,71.0,4.4,APAC,Logistics
+T00680,C0165,Enterprise,2024-04-17,2024-04,Q2 2024,Self-Service Portal,Integration & API,Low,Open,Priya Patel,,,EMEA,Retail
+T00681,C0007,Startup,2023-06-15,2023-06,Q2 2023,Self-Service Portal,Access & Authentication,High,In Progress,David Kim,,,LATAM,Healthcare
+T00682,C0072,SMB,2024-07-14,2024-07,Q3 2024,Self-Service Portal,Access & Authentication,High,Closed,Priya Patel,20.0,4.2,APAC,Manufacturing
+T00683,C0073,SMB,2023-10-25,2023-10,Q4 2023,Phone,Billing & Payments,Medium,Resolved,Priya Patel,67.0,4.3,APAC,Media
+T00684,C0085,SMB,2024-06-20,2024-06,Q2 2024,Email,Integration & API,Medium,Resolved,David Kim,32.0,3.6,LATAM,Media
+T00685,C0170,Startup,2023-04-07,2023-04,Q2 2023,Chat,Integration & API,High,Resolved,Emma Thompson,15.0,3.3,LATAM,Financial Services
+T00686,C0300,SMB,2023-11-10,2023-11,Q4 2023,Chat,Feature Request,Low,Resolved,Aisha Williams,50.0,3.7,APAC,Retail
+T00687,C0092,Startup,2023-09-27,2023-09,Q3 2023,Chat,Access & Authentication,Medium,Resolved,James O'Brien,68.0,2.0,North America,Manufacturing
+T00688,C0111,SMB,2023-04-04,2023-04,Q2 2023,Email,Billing & Payments,Medium,Open,David Kim,,,EMEA,Retail
+T00689,C0168,SMB,2023-11-06,2023-11,Q4 2023,Chat,Access & Authentication,Medium,Resolved,Marcus Johnson,47.0,2.5,EMEA,Logistics
+T00690,C0110,Mid-Market,2023-06-20,2023-06,Q2 2023,Chat,Data & Reporting,High,Resolved,Carlos Rivera,7.0,3.0,EMEA,Media
+T00691,C0239,SMB,2024-11-17,2024-11,Q4 2024,Self-Service Portal,Integration & API,Medium,Closed,Sarah Chen,55.0,4.3,North America,Education
+T00692,C0101,SMB,2024-03-28,2024-03,Q1 2024,Email,Billing & Payments,Medium,Closed,Aisha Williams,9.0,2.6,APAC,Media
+T00693,C0246,Startup,2024-02-12,2024-02,Q1 2024,Email,Feature Request,Medium,Resolved,Marcus Johnson,66.0,2.0,APAC,Financial Services
+T00694,C0020,Mid-Market,2024-01-14,2024-01,Q1 2024,Phone,Security & Compliance,High,Closed,Sarah Chen,6.0,2.7,EMEA,Technology
+T00695,C0161,SMB,2023-04-10,2023-04,Q2 2023,Chat,Product Education,High,Open,Sarah Chen,,,North America,Education
+T00696,C0207,SMB,2024-03-02,2024-03,Q1 2024,Phone,Access & Authentication,High,In Progress,Sarah Chen,,,LATAM,Manufacturing
+T00697,C0142,Mid-Market,2024-09-15,2024-09,Q3 2024,Phone,Integration & API,High,Closed,Carlos Rivera,13.0,3.6,EMEA,Retail
+T00698,C0239,SMB,2024-08-04,2024-08,Q3 2024,Email,Performance & Stability,Medium,Open,Priya Patel,,,North America,Education
+T00699,C0006,Startup,2023-08-11,2023-08,Q3 2023,Self-Service Portal,Integration & API,Low,Resolved,Aisha Williams,37.0,2.6,EMEA,Education
+T00700,C0092,Startup,2023-10-13,2023-10,Q4 2023,Email,Data & Reporting,High,Closed,David Kim,13.0,3.3,North America,Manufacturing
+T00701,C0182,Enterprise,2024-08-15,2024-08,Q3 2024,Phone,Positive Feedback,Medium,Resolved,James O'Brien,57.0,3.1,North America,Logistics
+T00702,C0223,SMB,2023-12-22,2023-12,Q4 2023,Email,Feature Request,Medium,Closed,Aisha Williams,34.0,2.2,LATAM,Technology
+T00703,C0017,Mid-Market,2023-04-29,2023-04,Q2 2023,Chat,Performance & Stability,Medium,Resolved,Carlos Rivera,12.0,4.6,North America,Healthcare
+T00704,C0005,SMB,2023-06-12,2023-06,Q2 2023,Email,Data & Reporting,Medium,Closed,Sarah Chen,67.0,2.1,LATAM,Financial Services
+T00705,C0225,Mid-Market,2024-09-23,2024-09,Q3 2024,Chat,Performance & Stability,Medium,Closed,Aisha Williams,51.0,3.5,APAC,Logistics
+T00706,C0021,Startup,2023-08-28,2023-08,Q3 2023,Self-Service Portal,Integration & API,Low,Resolved,James O'Brien,100.0,4.2,North America,Education
+T00707,C0291,SMB,2023-05-23,2023-05,Q2 2023,Self-Service Portal,Data & Reporting,Low,Resolved,Sarah Chen,125.0,2.0,North America,Education
+T00708,C0076,SMB,2023-07-25,2023-07,Q3 2023,Self-Service Portal,Data & Reporting,High,Resolved,Carlos Rivera,8.0,3.9,LATAM,Logistics
+T00709,C0052,Enterprise,2024-04-27,2024-04,Q2 2024,Chat,Data & Reporting,High,Resolved,Priya Patel,11.0,2.9,LATAM,Technology
+T00710,C0205,Enterprise,2023-12-01,2023-12,Q4 2023,Chat,Feature Request,Low,Resolved,Priya Patel,80.0,4.2,LATAM,Media
+T00711,C0121,SMB,2024-01-13,2024-01,Q1 2024,Chat,Integration & API,Critical,Resolved,Sarah Chen,2.0,4.0,North America,Education
+T00712,C0109,SMB,2023-11-06,2023-11,Q4 2023,Chat,Data & Reporting,Medium,Resolved,Emma Thompson,12.0,5.0,North America,Financial Services
+T00713,C0092,Startup,2023-06-17,2023-06,Q2 2023,Phone,Integration & API,High,Resolved,Priya Patel,24.0,2.0,North America,Manufacturing
+T00714,C0295,SMB,2024-06-03,2024-06,Q2 2024,Self-Service Portal,Integration & API,Medium,Resolved,Marcus Johnson,62.0,3.7,APAC,Logistics
+T00715,C0231,Mid-Market,2024-05-29,2024-05,Q2 2024,Chat,Integration & API,Medium,Resolved,Carlos Rivera,57.0,2.0,EMEA,Logistics
+T00716,C0133,Enterprise,2023-07-22,2023-07,Q3 2023,Chat,Performance & Stability,Low,Resolved,Carlos Rivera,141.0,2.6,APAC,Healthcare
+T00717,C0130,Enterprise,2024-03-11,2024-03,Q1 2024,Chat,Data & Reporting,Low,In Progress,Carlos Rivera,,,EMEA,Financial Services
+T00718,C0153,SMB,2024-10-13,2024-10,Q4 2024,Chat,Access & Authentication,Low,Resolved,David Kim,56.0,3.7,APAC,Technology
+T00719,C0221,SMB,2023-10-09,2023-10,Q4 2023,Phone,Feature Request,High,Closed,Priya Patel,5.0,3.6,APAC,Technology
+T00720,C0052,Enterprise,2024-01-27,2024-01,Q1 2024,Phone,Access & Authentication,Low,Resolved,Emma Thompson,44.0,4.0,LATAM,Technology
+T00721,C0060,Startup,2023-07-16,2023-07,Q3 2023,Chat,Product Education,Medium,Closed,Emma Thompson,68.0,3.8,LATAM,Manufacturing
+T00722,C0141,Startup,2024-12-06,2024-12,Q4 2024,Chat,Integration & API,Critical,In Progress,James O'Brien,,,APAC,Financial Services
+T00723,C0010,Enterprise,2024-02-29,2024-02,Q1 2024,Phone,Data & Reporting,Medium,Resolved,James O'Brien,36.0,3.6,EMEA,Education
+T00724,C0033,Enterprise,2024-09-18,2024-09,Q3 2024,Chat,Feature Request,Low,Resolved,Sarah Chen,145.0,4.3,APAC,Technology
+T00725,C0176,Enterprise,2023-12-15,2023-12,Q4 2023,Self-Service Portal,Positive Feedback,High,Resolved,Marcus Johnson,16.0,2.6,EMEA,Manufacturing
+T00726,C0250,Enterprise,2024-07-28,2024-07,Q3 2024,Chat,Billing & Payments,Low,Resolved,Priya Patel,31.0,2.0,EMEA,Manufacturing
+T00727,C0181,Enterprise,2024-08-01,2024-08,Q3 2024,Self-Service Portal,Product Education,Critical,Resolved,Marcus Johnson,8.0,2.9,APAC,Education
+T00728,C0050,Mid-Market,2024-02-10,2024-02,Q1 2024,Email,Product Education,Medium,In Progress,James O'Brien,,,LATAM,Education
+T00729,C0215,Startup,2024-09-05,2024-09,Q3 2024,Phone,Positive Feedback,Medium,Resolved,David Kim,58.0,4.1,EMEA,Logistics
+T00730,C0238,Mid-Market,2023-10-21,2023-10,Q4 2023,Email,User Management,High,Resolved,Emma Thompson,18.0,3.7,EMEA,Logistics
+T00731,C0215,Startup,2024-02-25,2024-02,Q1 2024,Chat,Access & Authentication,High,Resolved,James O'Brien,23.0,3.5,EMEA,Logistics
+T00732,C0086,SMB,2024-08-05,2024-08,Q3 2024,Email,Feature Request,Low,Resolved,James O'Brien,65.0,2.9,EMEA,Healthcare
+T00733,C0090,Mid-Market,2024-04-28,2024-04,Q2 2024,Email,Billing & Payments,High,Open,James O'Brien,,,APAC,Logistics
+T00734,C0091,SMB,2024-04-17,2024-04,Q2 2024,Email,Access & Authentication,Medium,Closed,Sarah Chen,67.0,1.5,APAC,Media
+T00735,C0209,Startup,2024-06-16,2024-06,Q2 2024,Self-Service Portal,Data & Reporting,Low,Closed,Sarah Chen,136.0,2.9,LATAM,Logistics
+T00736,C0150,Startup,2024-02-12,2024-02,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Resolved,Aisha Williams,23.0,2.9,LATAM,Media
+T00737,C0297,Startup,2023-04-25,2023-04,Q2 2023,Email,Data & Reporting,Medium,In Progress,Carlos Rivera,,,EMEA,Technology
+T00738,C0038,Enterprise,2024-04-14,2024-04,Q2 2024,Email,Feature Request,Low,Resolved,Priya Patel,94.0,3.3,North America,Retail
+T00739,C0076,SMB,2024-06-18,2024-06,Q2 2024,Chat,Billing & Payments,Medium,Resolved,Aisha Williams,47.0,3.6,LATAM,Logistics
+T00740,C0080,Startup,2024-12-12,2024-12,Q4 2024,Email,Performance & Stability,Low,In Progress,Sarah Chen,,,APAC,Technology
+T00741,C0133,Enterprise,2024-01-08,2024-01,Q1 2024,Chat,Feature Request,Low,Resolved,Carlos Rivera,152.0,2.4,APAC,Healthcare
+T00742,C0194,Enterprise,2024-05-11,2024-05,Q2 2024,Chat,Security & Compliance,Medium,Resolved,Priya Patel,36.0,2.1,LATAM,Healthcare
+T00743,C0143,Enterprise,2024-09-15,2024-09,Q3 2024,Chat,Access & Authentication,High,Resolved,Sarah Chen,20.0,3.6,LATAM,Technology
+T00744,C0205,Enterprise,2024-10-03,2024-10,Q4 2024,Self-Service Portal,Integration & API,Medium,Closed,Aisha Williams,65.0,2.2,LATAM,Media
+T00745,C0094,Startup,2024-12-07,2024-12,Q4 2024,Chat,Data & Reporting,Medium,Open,James O'Brien,,,LATAM,Education
+T00746,C0033,Enterprise,2023-05-16,2023-05,Q2 2023,Chat,Access & Authentication,High,Resolved,Marcus Johnson,7.0,4.9,APAC,Technology
+T00747,C0101,SMB,2024-05-04,2024-05,Q2 2024,Chat,Access & Authentication,High,In Progress,Marcus Johnson,,,APAC,Media
+T00748,C0227,Enterprise,2024-10-20,2024-10,Q4 2024,Chat,Positive Feedback,Medium,Open,Priya Patel,,,APAC,Media
+T00749,C0169,SMB,2024-06-03,2024-06,Q2 2024,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,72.0,3.4,LATAM,Manufacturing
+T00750,C0094,Startup,2024-05-14,2024-05,Q2 2024,Chat,Security & Compliance,Medium,In Progress,Carlos Rivera,,,LATAM,Education
+T00751,C0276,Enterprise,2023-07-07,2023-07,Q3 2023,Email,Access & Authentication,High,Resolved,Priya Patel,7.0,4.2,LATAM,Manufacturing
+T00752,C0166,SMB,2023-06-10,2023-06,Q2 2023,Email,Data & Reporting,High,Resolved,Aisha Williams,20.0,4.8,LATAM,Retail
+T00753,C0118,SMB,2023-09-27,2023-09,Q3 2023,Email,Security & Compliance,Medium,Resolved,Emma Thompson,65.0,2.8,EMEA,Manufacturing
+T00754,C0214,SMB,2023-01-06,2023-01,Q1 2023,Phone,Product Education,Medium,Closed,Aisha Williams,33.0,3.5,LATAM,Technology
+T00755,C0151,Startup,2024-01-18,2024-01,Q1 2024,Chat,Integration & API,Medium,Closed,Marcus Johnson,72.0,4.1,APAC,Logistics
+T00756,C0039,Mid-Market,2023-09-06,2023-09,Q3 2023,Chat,Feature Request,Low,Closed,Emma Thompson,87.0,2.3,APAC,Financial Services
+T00757,C0031,Mid-Market,2023-04-14,2023-04,Q2 2023,Chat,Data & Reporting,Medium,Resolved,Emma Thompson,17.0,5.0,APAC,Education
+T00758,C0078,Mid-Market,2023-06-04,2023-06,Q2 2023,Chat,Performance & Stability,Medium,Resolved,Marcus Johnson,45.0,1.9,APAC,Logistics
+T00759,C0161,SMB,2024-01-05,2024-01,Q1 2024,Chat,Security & Compliance,High,Resolved,Sarah Chen,10.0,4.3,North America,Education
+T00760,C0072,SMB,2023-05-03,2023-05,Q2 2023,Phone,Integration & API,Low,Closed,Sarah Chen,28.0,3.2,APAC,Manufacturing
+T00761,C0259,SMB,2023-12-01,2023-12,Q4 2023,Email,Data & Reporting,Medium,Open,Priya Patel,,,LATAM,Manufacturing
+T00762,C0263,Mid-Market,2023-03-31,2023-03,Q1 2023,Email,Integration & API,Medium,Open,Priya Patel,,,LATAM,Logistics
+T00763,C0170,Startup,2023-03-16,2023-03,Q1 2023,Phone,Performance & Stability,Medium,Closed,Emma Thompson,59.0,1.5,LATAM,Financial Services
+T00764,C0010,Enterprise,2023-01-09,2023-01,Q1 2023,Email,Integration & API,Medium,Resolved,Carlos Rivera,66.0,3.8,EMEA,Education
+T00765,C0296,Enterprise,2023-06-06,2023-06,Q2 2023,Email,Billing & Payments,Medium,Resolved,Carlos Rivera,52.0,2.5,North America,Financial Services
+T00766,C0118,SMB,2024-11-04,2024-11,Q4 2024,Email,Data & Reporting,Medium,Closed,David Kim,11.0,5.0,EMEA,Manufacturing
+T00767,C0064,SMB,2024-01-20,2024-01,Q1 2024,Email,Security & Compliance,Low,Open,Emma Thompson,,,LATAM,Education
+T00768,C0064,SMB,2023-04-06,2023-04,Q2 2023,Email,User Management,Low,Closed,James O'Brien,105.0,2.7,LATAM,Education
+T00769,C0047,Mid-Market,2024-06-03,2024-06,Q2 2024,Chat,Data & Reporting,High,Open,Carlos Rivera,,,APAC,Healthcare
+T00770,C0159,Startup,2023-03-08,2023-03,Q1 2023,Phone,Performance & Stability,High,Resolved,Carlos Rivera,19.0,4.7,North America,Education
+T00771,C0024,SMB,2023-05-25,2023-05,Q2 2023,Email,Performance & Stability,High,Resolved,Emma Thompson,5.0,3.6,EMEA,Healthcare
+T00772,C0081,Mid-Market,2024-03-05,2024-03,Q1 2024,Phone,User Management,Low,Closed,James O'Brien,65.0,1.6,APAC,Financial Services
+T00773,C0157,Mid-Market,2024-02-18,2024-02,Q1 2024,Email,User Management,Medium,Closed,Priya Patel,68.0,3.7,North America,Manufacturing
+T00774,C0209,Startup,2023-02-17,2023-02,Q1 2023,Email,Feature Request,Low,In Progress,Marcus Johnson,,,LATAM,Logistics
+T00775,C0058,Mid-Market,2024-05-02,2024-05,Q2 2024,Email,Security & Compliance,Medium,Resolved,Aisha Williams,68.0,4.2,EMEA,Retail
+T00776,C0066,Startup,2023-11-27,2023-11,Q4 2023,Phone,Data & Reporting,Medium,Resolved,Priya Patel,36.0,1.9,EMEA,Retail
+T00777,C0116,SMB,2024-11-06,2024-11,Q4 2024,Self-Service Portal,Access & Authentication,Medium,In Progress,Carlos Rivera,,,North America,Retail
+T00778,C0237,Mid-Market,2024-11-15,2024-11,Q4 2024,Email,Integration & API,Low,Closed,Sarah Chen,61.0,3.2,EMEA,Technology
+T00779,C0198,SMB,2024-10-09,2024-10,Q4 2024,Email,Billing & Payments,High,Open,Sarah Chen,,,EMEA,Healthcare
+T00780,C0293,Mid-Market,2024-05-07,2024-05,Q2 2024,Phone,Data & Reporting,Medium,Resolved,Marcus Johnson,66.0,3.1,LATAM,Media
+T00781,C0144,SMB,2024-11-02,2024-11,Q4 2024,Email,Data & Reporting,Low,Resolved,Carlos Rivera,48.0,3.5,North America,Healthcare
+T00782,C0266,Mid-Market,2023-09-27,2023-09,Q3 2023,Self-Service Portal,Data & Reporting,Medium,In Progress,Aisha Williams,,,LATAM,Logistics
+T00783,C0065,Startup,2023-12-22,2023-12,Q4 2023,Email,Integration & API,Low,Closed,James O'Brien,60.0,4.0,EMEA,Education
+T00784,C0009,SMB,2023-07-23,2023-07,Q3 2023,Email,Data & Reporting,Medium,Closed,Priya Patel,54.0,2.2,EMEA,Manufacturing
+T00785,C0192,SMB,2023-06-12,2023-06,Q2 2023,Chat,Billing & Payments,Medium,Closed,Emma Thompson,62.0,2.3,North America,Technology
+T00786,C0152,SMB,2024-02-04,2024-02,Q1 2024,Email,Security & Compliance,Medium,Closed,James O'Brien,40.0,3.5,APAC,Media
+T00787,C0035,Startup,2023-03-02,2023-03,Q1 2023,Phone,Billing & Payments,Low,Closed,James O'Brien,131.0,2.7,APAC,Retail
+T00788,C0128,SMB,2023-12-25,2023-12,Q4 2023,Self-Service Portal,Product Education,Medium,In Progress,Aisha Williams,,,APAC,Technology
+T00789,C0168,SMB,2023-01-12,2023-01,Q1 2023,Phone,Integration & API,Medium,Resolved,David Kim,46.0,3.1,EMEA,Logistics
+T00790,C0079,Enterprise,2023-03-14,2023-03,Q1 2023,Email,Security & Compliance,Low,Closed,David Kim,133.0,3.3,EMEA,Retail
+T00791,C0150,Startup,2023-08-19,2023-08,Q3 2023,Self-Service Portal,Access & Authentication,Low,Closed,Marcus Johnson,131.0,1.7,LATAM,Media
+T00792,C0144,SMB,2023-10-10,2023-10,Q4 2023,Phone,Integration & API,Medium,Closed,David Kim,20.0,3.2,North America,Healthcare
+T00793,C0114,Mid-Market,2024-08-28,2024-08,Q3 2024,Phone,Data & Reporting,Low,Resolved,Marcus Johnson,34.0,3.3,APAC,Education
+T00794,C0295,SMB,2023-04-08,2023-04,Q2 2023,Phone,Billing & Payments,Medium,Resolved,Sarah Chen,52.0,4.1,APAC,Logistics
+T00795,C0205,Enterprise,2024-10-05,2024-10,Q4 2024,Email,Integration & API,Low,In Progress,Sarah Chen,,,LATAM,Media
+T00796,C0234,Startup,2023-09-17,2023-09,Q3 2023,Self-Service Portal,Feature Request,Medium,Resolved,Priya Patel,66.0,3.8,APAC,Logistics
+T00797,C0108,Startup,2024-07-25,2024-07,Q3 2024,Email,Data & Reporting,Medium,Closed,James O'Brien,50.0,3.3,LATAM,Healthcare
+T00798,C0163,Enterprise,2023-11-10,2023-11,Q4 2023,Email,Feature Request,Medium,Resolved,David Kim,33.0,4.1,APAC,Healthcare
+T00799,C0180,Mid-Market,2023-12-12,2023-12,Q4 2023,Email,Data & Reporting,High,Open,Aisha Williams,,,APAC,Healthcare
+T00800,C0287,Startup,2024-07-05,2024-07,Q3 2024,Email,Performance & Stability,High,Closed,Emma Thompson,12.0,4.1,APAC,Technology
+T00801,C0069,Enterprise,2024-01-30,2024-01,Q1 2024,Self-Service Portal,User Management,Low,Resolved,James O'Brien,137.0,4.0,North America,Technology
+T00802,C0281,Enterprise,2023-06-08,2023-06,Q2 2023,Phone,Access & Authentication,High,In Progress,Sarah Chen,,,LATAM,Media
+T00803,C0152,SMB,2023-09-07,2023-09,Q3 2023,Chat,Performance & Stability,Low,Resolved,Emma Thompson,156.0,3.2,APAC,Media
+T00804,C0134,Mid-Market,2024-12-24,2024-12,Q4 2024,Chat,Positive Feedback,Medium,Closed,Priya Patel,53.0,4.4,LATAM,Manufacturing
+T00805,C0165,Enterprise,2024-12-20,2024-12,Q4 2024,Self-Service Portal,Integration & API,High,Closed,James O'Brien,21.0,4.9,EMEA,Retail
+T00806,C0179,Startup,2024-12-19,2024-12,Q4 2024,Email,Positive Feedback,High,Closed,Marcus Johnson,23.0,4.3,LATAM,Financial Services
+T00807,C0088,Mid-Market,2023-01-23,2023-01,Q1 2023,Email,Performance & Stability,High,Closed,Aisha Williams,6.0,5.0,LATAM,Manufacturing
+T00808,C0292,SMB,2023-09-16,2023-09,Q3 2023,Phone,Feature Request,Medium,Closed,Aisha Williams,65.0,3.1,APAC,Media
+T00809,C0170,Startup,2023-08-27,2023-08,Q3 2023,Email,Security & Compliance,Low,Resolved,Marcus Johnson,115.0,3.3,LATAM,Financial Services
+T00810,C0033,Enterprise,2024-06-26,2024-06,Q2 2024,Self-Service Portal,Billing & Payments,High,Closed,Carlos Rivera,9.0,4.7,APAC,Technology
+T00811,C0046,Mid-Market,2023-04-07,2023-04,Q2 2023,Phone,Feature Request,Medium,Resolved,Carlos Rivera,51.0,1.8,North America,Media
+T00812,C0091,SMB,2024-12-25,2024-12,Q4 2024,Email,Data & Reporting,High,In Progress,David Kim,,,APAC,Media
+T00813,C0049,SMB,2024-06-20,2024-06,Q2 2024,Chat,Security & Compliance,High,Resolved,Carlos Rivera,9.0,2.5,APAC,Retail
+T00814,C0197,SMB,2023-11-10,2023-11,Q4 2023,Self-Service Portal,User Management,Medium,Closed,Carlos Rivera,71.0,3.1,North America,Retail
+T00815,C0050,Mid-Market,2024-11-30,2024-11,Q4 2024,Chat,Data & Reporting,High,Closed,Sarah Chen,20.0,2.6,LATAM,Education
+T00816,C0276,Enterprise,2023-05-04,2023-05,Q2 2023,Email,Data & Reporting,Medium,Resolved,Carlos Rivera,32.0,4.5,LATAM,Manufacturing
+T00817,C0233,Enterprise,2024-11-05,2024-11,Q4 2024,Email,Data & Reporting,Medium,Resolved,David Kim,54.0,2.2,LATAM,Media
+T00818,C0097,SMB,2024-02-18,2024-02,Q1 2024,Chat,Access & Authentication,Low,Closed,Emma Thompson,106.0,4.2,LATAM,Manufacturing
+T00819,C0280,Enterprise,2024-10-20,2024-10,Q4 2024,Email,Data & Reporting,Medium,Closed,Sarah Chen,63.0,1.7,APAC,Healthcare
+T00820,C0252,SMB,2023-04-17,2023-04,Q2 2023,Chat,Integration & API,Medium,Closed,Aisha Williams,13.0,5.0,LATAM,Media
+T00821,C0293,Mid-Market,2024-07-09,2024-07,Q3 2024,Email,Data & Reporting,Critical,Closed,Emma Thompson,7.0,2.7,LATAM,Media
+T00822,C0261,Mid-Market,2024-06-20,2024-06,Q2 2024,Self-Service Portal,Data & Reporting,Medium,Open,James O'Brien,,,EMEA,Financial Services
+T00823,C0254,Startup,2023-07-31,2023-07,Q3 2023,Chat,Performance & Stability,Critical,Closed,Carlos Rivera,2.0,4.5,EMEA,Manufacturing
+T00824,C0091,SMB,2024-02-04,2024-02,Q1 2024,Email,User Management,Medium,Resolved,Aisha Williams,47.0,4.3,APAC,Media
+T00825,C0210,Startup,2024-12-07,2024-12,Q4 2024,Phone,Positive Feedback,Medium,In Progress,Sarah Chen,,,APAC,Technology
+T00826,C0230,Enterprise,2023-05-12,2023-05,Q2 2023,Email,Billing & Payments,Medium,Closed,Aisha Williams,31.0,2.5,North America,Manufacturing
+T00827,C0204,SMB,2023-10-19,2023-10,Q4 2023,Email,Data & Reporting,Medium,In Progress,Priya Patel,,,LATAM,Manufacturing
+T00828,C0266,Mid-Market,2023-02-06,2023-02,Q1 2023,Phone,Access & Authentication,High,In Progress,David Kim,,,LATAM,Logistics
+T00829,C0074,Mid-Market,2024-03-28,2024-03,Q1 2024,Phone,Access & Authentication,Low,In Progress,Priya Patel,,,APAC,Manufacturing
+T00830,C0175,Mid-Market,2023-09-14,2023-09,Q3 2023,Email,Integration & API,Low,Resolved,James O'Brien,81.0,2.1,North America,Financial Services
+T00831,C0172,Startup,2024-11-04,2024-11,Q4 2024,Phone,Access & Authentication,Medium,Resolved,Carlos Rivera,28.0,3.1,North America,Education
+T00832,C0030,SMB,2023-04-25,2023-04,Q2 2023,Chat,Data & Reporting,Medium,In Progress,Marcus Johnson,,,LATAM,Technology
+T00833,C0120,Enterprise,2023-01-07,2023-01,Q1 2023,Phone,Performance & Stability,Low,In Progress,Marcus Johnson,,,North America,Media
+T00834,C0011,Mid-Market,2024-10-26,2024-10,Q4 2024,Phone,Performance & Stability,Medium,Resolved,David Kim,40.0,4.4,LATAM,Manufacturing
+T00835,C0246,Startup,2023-06-06,2023-06,Q2 2023,Email,Security & Compliance,High,Closed,Emma Thompson,12.0,4.7,APAC,Financial Services
+T00836,C0154,Enterprise,2023-05-28,2023-05,Q2 2023,Self-Service Portal,Data & Reporting,Low,Closed,Emma Thompson,77.0,4.3,EMEA,Technology
+T00837,C0214,SMB,2024-04-16,2024-04,Q2 2024,Chat,Integration & API,Medium,Resolved,James O'Brien,34.0,2.2,LATAM,Technology
+T00838,C0292,SMB,2023-07-19,2023-07,Q3 2023,Chat,Positive Feedback,Medium,Closed,David Kim,47.0,2.7,APAC,Media
+T00839,C0056,Mid-Market,2024-07-09,2024-07,Q3 2024,Phone,Data & Reporting,Low,Resolved,Priya Patel,110.0,3.2,APAC,Technology
+T00840,C0197,SMB,2024-06-13,2024-06,Q2 2024,Email,User Management,Critical,Resolved,James O'Brien,3.0,4.2,North America,Retail
+T00841,C0078,Mid-Market,2024-02-26,2024-02,Q1 2024,Phone,Data & Reporting,Low,Resolved,Sarah Chen,45.0,1.6,APAC,Logistics
+T00842,C0170,Startup,2023-04-03,2023-04,Q2 2023,Email,User Management,High,In Progress,David Kim,,,LATAM,Financial Services
+T00843,C0174,SMB,2024-12-21,2024-12,Q4 2024,Email,Data & Reporting,Low,Closed,Emma Thompson,160.0,4.2,North America,Retail
+T00844,C0082,SMB,2024-07-29,2024-07,Q3 2024,Phone,Integration & API,Low,Closed,Priya Patel,48.0,3.8,LATAM,Logistics
+T00845,C0196,SMB,2024-04-29,2024-04,Q2 2024,Phone,Billing & Payments,Critical,Closed,David Kim,8.0,5.0,North America,Technology
+T00846,C0291,SMB,2023-12-19,2023-12,Q4 2023,Email,Security & Compliance,High,Resolved,Carlos Rivera,8.0,5.0,North America,Education
+T00847,C0150,Startup,2024-12-29,2024-12,Q4 2024,Email,Performance & Stability,Low,Closed,Aisha Williams,88.0,2.1,LATAM,Media
+T00848,C0267,SMB,2023-01-25,2023-01,Q1 2023,Email,User Management,High,Resolved,David Kim,17.0,3.3,APAC,Manufacturing
+T00849,C0042,Startup,2023-12-07,2023-12,Q4 2023,Chat,Access & Authentication,Low,Closed,Emma Thompson,75.0,4.2,EMEA,Technology
+T00850,C0199,Enterprise,2023-02-06,2023-02,Q1 2023,Chat,Data & Reporting,Medium,Resolved,Aisha Williams,51.0,4.3,EMEA,Retail
+T00851,C0283,Mid-Market,2023-07-17,2023-07,Q3 2023,Self-Service Portal,Data & Reporting,Low,Open,Priya Patel,,,APAC,Media
+T00852,C0055,Startup,2023-09-06,2023-09,Q3 2023,Phone,Data & Reporting,High,Closed,Marcus Johnson,4.0,5.0,LATAM,Logistics
+T00853,C0080,Startup,2024-08-19,2024-08,Q3 2024,Email,Product Education,Medium,Resolved,Marcus Johnson,25.0,4.3,APAC,Technology
+T00854,C0096,Mid-Market,2023-04-04,2023-04,Q2 2023,Email,Access & Authentication,Low,Open,James O'Brien,,,APAC,Technology
+T00855,C0244,Mid-Market,2023-07-22,2023-07,Q3 2023,Email,Performance & Stability,High,Resolved,Priya Patel,18.0,2.5,LATAM,Retail
+T00856,C0102,Startup,2023-09-27,2023-09,Q3 2023,Phone,Performance & Stability,Low,Closed,James O'Brien,106.0,3.8,EMEA,Logistics
+T00857,C0084,Startup,2024-02-09,2024-02,Q1 2024,Chat,Performance & Stability,Medium,Resolved,Aisha Williams,52.0,3.1,North America,Manufacturing
+T00858,C0145,Mid-Market,2023-06-15,2023-06,Q2 2023,Phone,Access & Authentication,Medium,Resolved,Marcus Johnson,65.0,4.4,LATAM,Media
+T00859,C0164,SMB,2024-08-25,2024-08,Q3 2024,Email,Feature Request,Medium,Resolved,Aisha Williams,53.0,2.6,APAC,Media
+T00860,C0251,Mid-Market,2023-11-17,2023-11,Q4 2023,Email,Billing & Payments,Medium,Resolved,David Kim,49.0,2.9,EMEA,Retail
+T00861,C0232,SMB,2023-06-06,2023-06,Q2 2023,Email,Feature Request,Medium,In Progress,Carlos Rivera,,,EMEA,Manufacturing
+T00862,C0008,Mid-Market,2024-03-20,2024-03,Q1 2024,Email,Billing & Payments,Medium,Open,Carlos Rivera,,,North America,Manufacturing
+T00863,C0102,Startup,2023-01-23,2023-01,Q1 2023,Self-Service Portal,Billing & Payments,Low,Resolved,Priya Patel,134.0,2.8,EMEA,Logistics
+T00864,C0250,Enterprise,2024-11-12,2024-11,Q4 2024,Email,Product Education,High,Resolved,James O'Brien,8.0,5.0,EMEA,Manufacturing
+T00865,C0214,SMB,2024-05-17,2024-05,Q2 2024,Email,Performance & Stability,Medium,Resolved,Carlos Rivera,24.0,2.3,LATAM,Technology
+T00866,C0066,Startup,2024-01-14,2024-01,Q1 2024,Chat,Access & Authentication,Medium,In Progress,Aisha Williams,,,EMEA,Retail
+T00867,C0285,Startup,2023-12-15,2023-12,Q4 2023,Email,Data & Reporting,High,Resolved,David Kim,22.0,4.0,LATAM,Education
+T00868,C0010,Enterprise,2023-11-17,2023-11,Q4 2023,Chat,Access & Authentication,Low,Open,David Kim,,,EMEA,Education
+T00869,C0200,Mid-Market,2023-07-17,2023-07,Q3 2023,Email,Billing & Payments,Low,In Progress,Priya Patel,,,APAC,Retail
+T00870,C0140,Mid-Market,2023-11-24,2023-11,Q4 2023,Phone,Performance & Stability,Medium,Resolved,Aisha Williams,15.0,4.1,APAC,Healthcare
+T00871,C0128,SMB,2024-01-21,2024-01,Q1 2024,Email,Positive Feedback,Critical,In Progress,Carlos Rivera,,,APAC,Technology
+T00872,C0239,SMB,2023-06-01,2023-06,Q2 2023,Chat,Data & Reporting,High,Resolved,David Kim,18.0,4.6,North America,Education
+T00873,C0146,Mid-Market,2023-06-16,2023-06,Q2 2023,Email,Data & Reporting,Critical,Resolved,Emma Thompson,8.0,5.0,APAC,Healthcare
+T00874,C0282,SMB,2023-01-27,2023-01,Q1 2023,Email,Performance & Stability,Medium,Closed,Sarah Chen,44.0,3.2,EMEA,Retail
+T00875,C0262,Mid-Market,2023-02-27,2023-02,Q1 2023,Self-Service Portal,Feature Request,Medium,In Progress,Marcus Johnson,,,APAC,Technology
+T00876,C0185,Mid-Market,2024-01-01,2024-01,Q1 2024,Chat,Data & Reporting,Low,Resolved,Marcus Johnson,63.0,3.1,LATAM,Retail
+T00877,C0107,Startup,2024-04-04,2024-04,Q2 2024,Email,Feature Request,Low,Open,Sarah Chen,,,APAC,Media
+T00878,C0022,SMB,2023-08-13,2023-08,Q3 2023,Email,User Management,High,Resolved,Emma Thompson,4.0,2.6,EMEA,Logistics
+T00879,C0282,SMB,2023-03-11,2023-03,Q1 2023,Chat,Performance & Stability,High,Open,Priya Patel,,,EMEA,Retail
+T00880,C0204,SMB,2023-08-06,2023-08,Q3 2023,Chat,Access & Authentication,Medium,Resolved,Aisha Williams,57.0,4.0,LATAM,Manufacturing
+T00881,C0172,Startup,2023-07-20,2023-07,Q3 2023,Email,Data & Reporting,High,Open,Sarah Chen,,,North America,Education
+T00882,C0199,Enterprise,2023-04-20,2023-04,Q2 2023,Chat,Security & Compliance,High,Closed,James O'Brien,22.0,3.9,EMEA,Retail
+T00883,C0291,SMB,2023-09-16,2023-09,Q3 2023,Phone,Access & Authentication,Critical,Closed,Emma Thompson,4.0,3.9,North America,Education
+T00884,C0085,SMB,2024-05-18,2024-05,Q2 2024,Phone,Performance & Stability,Low,Closed,Sarah Chen,24.0,4.1,LATAM,Media
+T00885,C0006,Startup,2023-10-08,2023-10,Q4 2023,Self-Service Portal,Integration & API,Low,Open,Carlos Rivera,,,EMEA,Education
+T00886,C0039,Mid-Market,2023-10-14,2023-10,Q4 2023,Self-Service Portal,Access & Authentication,Low,Resolved,Sarah Chen,54.0,4.3,APAC,Financial Services
+T00887,C0244,Mid-Market,2023-06-28,2023-06,Q2 2023,Self-Service Portal,Access & Authentication,High,Resolved,Priya Patel,12.0,3.9,LATAM,Retail
+T00888,C0111,SMB,2023-03-08,2023-03,Q1 2023,Chat,Data & Reporting,Critical,Resolved,Aisha Williams,3.0,5.0,EMEA,Retail
+T00889,C0145,Mid-Market,2024-05-05,2024-05,Q2 2024,Self-Service Portal,Data & Reporting,Medium,In Progress,Emma Thompson,,,LATAM,Media
+T00890,C0287,Startup,2024-12-20,2024-12,Q4 2024,Email,Billing & Payments,Low,Resolved,Carlos Rivera,163.0,2.0,APAC,Technology
+T00891,C0283,Mid-Market,2024-07-07,2024-07,Q3 2024,Email,Feature Request,Medium,Resolved,David Kim,45.0,3.9,APAC,Media
+T00892,C0278,Mid-Market,2024-02-22,2024-02,Q1 2024,Email,Access & Authentication,Medium,Closed,Priya Patel,29.0,2.5,LATAM,Retail
+T00893,C0175,Mid-Market,2024-07-07,2024-07,Q3 2024,Chat,Feature Request,Low,Closed,Sarah Chen,131.0,4.1,North America,Financial Services
+T00894,C0267,SMB,2023-04-17,2023-04,Q2 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Carlos Rivera,22.0,4.7,APAC,Manufacturing
+T00895,C0281,Enterprise,2024-02-09,2024-02,Q1 2024,Chat,Positive Feedback,High,Resolved,James O'Brien,11.0,5.0,LATAM,Media
+T00896,C0001,SMB,2024-05-31,2024-05,Q2 2024,Self-Service Portal,Billing & Payments,High,In Progress,Marcus Johnson,,,APAC,Financial Services
+T00897,C0098,Mid-Market,2023-01-25,2023-01,Q1 2023,Phone,Data & Reporting,High,Resolved,Carlos Rivera,12.0,3.8,LATAM,Financial Services
+T00898,C0207,SMB,2023-01-11,2023-01,Q1 2023,Email,Data & Reporting,Medium,Resolved,David Kim,13.0,5.0,LATAM,Manufacturing
+T00899,C0164,SMB,2023-12-26,2023-12,Q4 2023,Chat,Feature Request,Low,Resolved,Emma Thompson,149.0,4.5,APAC,Media
+T00900,C0020,Mid-Market,2024-05-14,2024-05,Q2 2024,Email,Data & Reporting,High,Closed,David Kim,18.0,3.2,EMEA,Technology
+T00901,C0018,SMB,2023-11-27,2023-11,Q4 2023,Email,Positive Feedback,Low,Resolved,Priya Patel,153.0,2.8,APAC,Retail
+T00902,C0238,Mid-Market,2023-10-09,2023-10,Q4 2023,Phone,Data & Reporting,Low,Open,David Kim,,,EMEA,Logistics
+T00903,C0151,Startup,2023-06-16,2023-06,Q2 2023,Phone,Performance & Stability,Medium,Closed,Emma Thompson,69.0,2.2,APAC,Logistics
+T00904,C0091,SMB,2024-01-21,2024-01,Q1 2024,Phone,Billing & Payments,Medium,Closed,Priya Patel,22.0,3.0,APAC,Media
+T00905,C0289,SMB,2023-01-25,2023-01,Q1 2023,Email,Data & Reporting,Medium,Resolved,Aisha Williams,21.0,3.9,LATAM,Healthcare
+T00906,C0224,Mid-Market,2024-07-24,2024-07,Q3 2024,Self-Service Portal,Access & Authentication,High,Resolved,Priya Patel,16.0,5.0,LATAM,Media
+T00907,C0062,SMB,2023-01-25,2023-01,Q1 2023,Chat,Performance & Stability,Medium,Closed,Priya Patel,41.0,1.7,EMEA,Logistics
+T00908,C0299,SMB,2024-02-28,2024-02,Q1 2024,Email,Access & Authentication,High,Closed,Sarah Chen,4.0,4.0,North America,Media
+T00909,C0058,Mid-Market,2024-06-21,2024-06,Q2 2024,Self-Service Portal,Performance & Stability,Critical,In Progress,David Kim,,,EMEA,Retail
+T00910,C0245,SMB,2024-05-05,2024-05,Q2 2024,Chat,Billing & Payments,Medium,Closed,Marcus Johnson,24.0,1.9,APAC,Retail
+T00911,C0245,SMB,2024-06-09,2024-06,Q2 2024,Chat,Billing & Payments,Medium,Resolved,Sarah Chen,60.0,3.8,APAC,Retail
+T00912,C0165,Enterprise,2024-02-09,2024-02,Q1 2024,Chat,Feature Request,Low,Resolved,Priya Patel,154.0,4.2,EMEA,Retail
+T00913,C0124,Startup,2024-09-05,2024-09,Q3 2024,Chat,Integration & API,High,Resolved,Aisha Williams,8.0,3.3,LATAM,Healthcare
+T00914,C0238,Mid-Market,2024-10-27,2024-10,Q4 2024,Self-Service Portal,Positive Feedback,Medium,Closed,Priya Patel,70.0,3.8,EMEA,Logistics
+T00915,C0241,Startup,2023-12-12,2023-12,Q4 2023,Chat,Integration & API,Medium,Resolved,James O'Brien,42.0,4.1,EMEA,Logistics
+T00916,C0161,SMB,2023-11-28,2023-11,Q4 2023,Email,Billing & Payments,Low,Resolved,James O'Brien,132.0,3.5,North America,Education
+T00917,C0072,SMB,2024-12-05,2024-12,Q4 2024,Chat,Feature Request,Medium,Resolved,Aisha Williams,30.0,3.7,APAC,Manufacturing
+T00918,C0127,Enterprise,2023-07-30,2023-07,Q3 2023,Self-Service Portal,Performance & Stability,Medium,Closed,David Kim,58.0,3.7,EMEA,Education
+T00919,C0276,Enterprise,2023-12-16,2023-12,Q4 2023,Self-Service Portal,Performance & Stability,Medium,Closed,Aisha Williams,16.0,4.9,LATAM,Manufacturing
+T00920,C0254,Startup,2024-04-10,2024-04,Q2 2024,Chat,Positive Feedback,Medium,Resolved,Emma Thompson,70.0,2.9,EMEA,Manufacturing
+T00921,C0161,SMB,2023-05-03,2023-05,Q2 2023,Self-Service Portal,Access & Authentication,Low,Open,Aisha Williams,,,North America,Education
+T00922,C0066,Startup,2023-04-09,2023-04,Q2 2023,Phone,Integration & API,Critical,Open,Emma Thompson,,,EMEA,Retail
+T00923,C0124,Startup,2023-08-25,2023-08,Q3 2023,Self-Service Portal,Performance & Stability,Low,Resolved,James O'Brien,165.0,3.3,LATAM,Healthcare
+T00924,C0088,Mid-Market,2024-01-28,2024-01,Q1 2024,Email,Performance & Stability,Low,Closed,Emma Thompson,48.0,2.2,LATAM,Manufacturing
+T00925,C0114,Mid-Market,2023-09-05,2023-09,Q3 2023,Email,Billing & Payments,High,In Progress,David Kim,,,APAC,Education
+T00926,C0110,Mid-Market,2023-08-26,2023-08,Q3 2023,Chat,Access & Authentication,Low,Closed,Aisha Williams,29.0,3.1,EMEA,Media
+T00927,C0106,Mid-Market,2024-11-20,2024-11,Q4 2024,Email,Positive Feedback,Medium,Resolved,Marcus Johnson,34.0,1.9,North America,Retail
+T00928,C0194,Enterprise,2023-06-22,2023-06,Q2 2023,Email,Billing & Payments,Medium,Closed,James O'Brien,68.0,3.6,LATAM,Healthcare
+T00929,C0034,Enterprise,2024-04-08,2024-04,Q2 2024,Chat,Access & Authentication,Medium,Open,Emma Thompson,,,North America,Manufacturing
+T00930,C0131,SMB,2023-12-23,2023-12,Q4 2023,Chat,Data & Reporting,Low,In Progress,Sarah Chen,,,LATAM,Healthcare
+T00931,C0118,SMB,2023-04-03,2023-04,Q2 2023,Chat,Billing & Payments,Medium,Resolved,Emma Thompson,27.0,1.9,EMEA,Manufacturing
+T00932,C0143,Enterprise,2023-07-10,2023-07,Q3 2023,Email,Data & Reporting,Medium,Open,David Kim,,,LATAM,Technology
+T00933,C0217,SMB,2023-06-21,2023-06,Q2 2023,Phone,Positive Feedback,High,Open,Marcus Johnson,,,APAC,Financial Services
+T00934,C0237,Mid-Market,2024-07-20,2024-07,Q3 2024,Email,Billing & Payments,Medium,Closed,Sarah Chen,42.0,3.9,EMEA,Technology
+T00935,C0202,SMB,2023-05-19,2023-05,Q2 2023,Email,Integration & API,Low,Resolved,Priya Patel,142.0,2.2,EMEA,Retail
+T00936,C0057,SMB,2024-12-31,2024-12,Q4 2024,Email,Performance & Stability,Low,Resolved,Emma Thompson,159.0,3.9,APAC,Technology
+T00937,C0282,SMB,2024-07-08,2024-07,Q3 2024,Chat,Security & Compliance,Medium,Resolved,David Kim,60.0,3.0,EMEA,Retail
+T00938,C0065,Startup,2023-02-07,2023-02,Q1 2023,Email,Performance & Stability,Medium,Resolved,Carlos Rivera,56.0,2.6,EMEA,Education
+T00939,C0250,Enterprise,2023-07-23,2023-07,Q3 2023,Email,Integration & API,Medium,Closed,Sarah Chen,46.0,2.2,EMEA,Manufacturing
+T00940,C0117,SMB,2024-03-25,2024-03,Q1 2024,Chat,Data & Reporting,Low,In Progress,Priya Patel,,,APAC,Healthcare
+T00941,C0052,Enterprise,2023-10-30,2023-10,Q4 2023,Self-Service Portal,Data & Reporting,Low,Closed,David Kim,114.0,4.0,LATAM,Technology
+T00942,C0021,Startup,2024-05-05,2024-05,Q2 2024,Chat,Data & Reporting,Medium,Open,Sarah Chen,,,North America,Education
+T00943,C0261,Mid-Market,2023-08-12,2023-08,Q3 2023,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,49.0,2.6,EMEA,Financial Services
+T00944,C0225,Mid-Market,2024-05-14,2024-05,Q2 2024,Chat,Integration & API,Medium,Closed,David Kim,56.0,3.5,APAC,Logistics
+T00945,C0137,Enterprise,2023-05-28,2023-05,Q2 2023,Chat,User Management,High,Resolved,James O'Brien,5.0,5.0,North America,Healthcare
+T00946,C0215,Startup,2024-08-05,2024-08,Q3 2024,Chat,Positive Feedback,Low,Resolved,Aisha Williams,65.0,4.1,EMEA,Logistics
+T00947,C0248,Enterprise,2023-03-09,2023-03,Q1 2023,Phone,User Management,High,In Progress,Aisha Williams,,,North America,Media
+T00948,C0296,Enterprise,2024-07-25,2024-07,Q3 2024,Chat,User Management,Low,Resolved,Sarah Chen,86.0,2.2,North America,Financial Services
+T00949,C0223,SMB,2024-05-09,2024-05,Q2 2024,Self-Service Portal,User Management,Medium,Closed,Priya Patel,46.0,1.8,LATAM,Technology
+T00950,C0285,Startup,2023-08-17,2023-08,Q3 2023,Email,User Management,Medium,Open,Carlos Rivera,,,LATAM,Education
+T00951,C0154,Enterprise,2023-03-25,2023-03,Q1 2023,Phone,Performance & Stability,Low,Closed,David Kim,134.0,2.0,EMEA,Technology
+T00952,C0016,SMB,2023-12-08,2023-12,Q4 2023,Self-Service Portal,Data & Reporting,Medium,Closed,James O'Brien,35.0,2.8,APAC,Financial Services
+T00953,C0147,Mid-Market,2023-09-07,2023-09,Q3 2023,Email,Billing & Payments,High,Resolved,Sarah Chen,7.0,4.9,North America,Financial Services
+T00954,C0077,Mid-Market,2024-07-07,2024-07,Q3 2024,Phone,Security & Compliance,Low,Resolved,Priya Patel,144.0,2.0,LATAM,Education
+T00955,C0150,Startup,2024-01-11,2024-01,Q1 2024,Phone,User Management,Medium,Open,Sarah Chen,,,LATAM,Media
+T00956,C0299,SMB,2023-03-26,2023-03,Q1 2023,Phone,Access & Authentication,Low,Closed,Marcus Johnson,98.0,3.3,North America,Media
+T00957,C0146,Mid-Market,2023-05-22,2023-05,Q2 2023,Chat,Performance & Stability,Medium,Resolved,Carlos Rivera,36.0,1.6,APAC,Healthcare
+T00958,C0084,Startup,2024-12-12,2024-12,Q4 2024,Email,Integration & API,Low,Resolved,James O'Brien,103.0,3.5,North America,Manufacturing
+T00959,C0124,Startup,2024-04-17,2024-04,Q2 2024,Chat,Billing & Payments,High,In Progress,Marcus Johnson,,,LATAM,Healthcare
+T00960,C0145,Mid-Market,2023-12-07,2023-12,Q4 2023,Chat,Performance & Stability,Low,In Progress,Carlos Rivera,,,LATAM,Media
+T00961,C0081,Mid-Market,2024-02-05,2024-02,Q1 2024,Self-Service Portal,Access & Authentication,Critical,Resolved,Carlos Rivera,3.0,4.9,APAC,Financial Services
+T00962,C0231,Mid-Market,2023-05-17,2023-05,Q2 2023,Email,Product Education,Medium,Closed,David Kim,29.0,2.7,EMEA,Logistics
+T00963,C0172,Startup,2023-06-01,2023-06,Q2 2023,Chat,Billing & Payments,Medium,Resolved,Carlos Rivera,61.0,3.8,North America,Education
+T00964,C0176,Enterprise,2024-09-21,2024-09,Q3 2024,Phone,Access & Authentication,Medium,Resolved,Emma Thompson,50.0,2.3,EMEA,Manufacturing
+T00965,C0271,SMB,2024-08-27,2024-08,Q3 2024,Self-Service Portal,Performance & Stability,Medium,Closed,David Kim,45.0,4.5,North America,Retail
+T00966,C0023,Mid-Market,2023-10-19,2023-10,Q4 2023,Phone,Data & Reporting,Medium,Resolved,James O'Brien,37.0,4.0,LATAM,Media
+T00967,C0231,Mid-Market,2023-09-29,2023-09,Q3 2023,Email,Performance & Stability,Critical,Closed,Sarah Chen,5.0,4.1,EMEA,Logistics
+T00968,C0114,Mid-Market,2024-04-05,2024-04,Q2 2024,Email,Access & Authentication,Critical,Closed,Sarah Chen,7.0,4.8,APAC,Education
+T00969,C0255,Mid-Market,2024-08-17,2024-08,Q3 2024,Email,Performance & Stability,Medium,In Progress,James O'Brien,,,EMEA,Manufacturing
+T00970,C0008,Mid-Market,2024-12-02,2024-12,Q4 2024,Chat,Data & Reporting,High,Open,Emma Thompson,,,North America,Manufacturing
+T00971,C0083,Startup,2024-03-12,2024-03,Q1 2024,Self-Service Portal,Billing & Payments,High,Resolved,Sarah Chen,6.0,5.0,LATAM,Media
+T00972,C0123,Enterprise,2023-03-09,2023-03,Q1 2023,Email,Access & Authentication,Medium,Closed,Aisha Williams,23.0,4.5,EMEA,Technology
+T00973,C0043,Enterprise,2023-12-31,2023-12,Q4 2023,Chat,Billing & Payments,Low,Resolved,Carlos Rivera,40.0,2.0,LATAM,Technology
+T00974,C0083,Startup,2024-06-18,2024-06,Q2 2024,Phone,Billing & Payments,Low,Resolved,Emma Thompson,50.0,3.9,LATAM,Media
+T00975,C0109,SMB,2023-06-21,2023-06,Q2 2023,Phone,Performance & Stability,Low,Open,Carlos Rivera,,,North America,Financial Services
+T00976,C0189,Mid-Market,2023-07-23,2023-07,Q3 2023,Chat,Integration & API,Critical,Closed,Sarah Chen,6.0,4.7,North America,Retail
+T00977,C0162,SMB,2024-04-19,2024-04,Q2 2024,Chat,Security & Compliance,Medium,In Progress,Carlos Rivera,,,APAC,Retail
+T00978,C0062,SMB,2024-10-01,2024-10,Q4 2024,Email,Positive Feedback,Medium,Closed,Priya Patel,21.0,5.0,EMEA,Logistics
+T00979,C0133,Enterprise,2024-01-24,2024-01,Q1 2024,Email,Data & Reporting,Medium,Resolved,Sarah Chen,47.0,2.7,APAC,Healthcare
+T00980,C0146,Mid-Market,2023-12-02,2023-12,Q4 2023,Chat,Access & Authentication,High,Resolved,Carlos Rivera,15.0,5.0,APAC,Healthcare
+T00981,C0163,Enterprise,2023-05-07,2023-05,Q2 2023,Email,Billing & Payments,Low,Resolved,Marcus Johnson,165.0,3.5,APAC,Healthcare
+T00982,C0207,SMB,2023-02-11,2023-02,Q1 2023,Email,Security & Compliance,High,Closed,David Kim,6.0,2.8,LATAM,Manufacturing
+T00983,C0022,SMB,2024-04-25,2024-04,Q2 2024,Chat,Performance & Stability,Medium,Resolved,Marcus Johnson,50.0,2.1,EMEA,Logistics
+T00984,C0009,SMB,2024-04-26,2024-04,Q2 2024,Self-Service Portal,Feature Request,High,Closed,James O'Brien,17.0,5.0,EMEA,Manufacturing
+T00985,C0253,SMB,2024-07-14,2024-07,Q3 2024,Chat,Integration & API,Medium,Closed,Emma Thompson,25.0,4.4,EMEA,Media
+T00986,C0297,Startup,2023-10-22,2023-10,Q4 2023,Phone,Performance & Stability,Low,Resolved,Aisha Williams,127.0,3.3,EMEA,Technology
+T00987,C0066,Startup,2024-08-13,2024-08,Q3 2024,Phone,Performance & Stability,High,In Progress,Marcus Johnson,,,EMEA,Retail
+T00988,C0203,Enterprise,2023-05-17,2023-05,Q2 2023,Phone,User Management,Medium,Closed,Priya Patel,21.0,3.1,EMEA,Manufacturing
+T00989,C0076,SMB,2024-10-25,2024-10,Q4 2024,Chat,Data & Reporting,Low,Resolved,Carlos Rivera,61.0,2.1,LATAM,Logistics
+T00990,C0097,SMB,2024-11-12,2024-11,Q4 2024,Chat,Integration & API,Low,Resolved,Sarah Chen,39.0,3.8,LATAM,Manufacturing
+T00991,C0235,Startup,2024-06-20,2024-06,Q2 2024,Email,Data & Reporting,Low,Resolved,David Kim,159.0,1.7,North America,Manufacturing
+T00992,C0179,Startup,2023-11-07,2023-11,Q4 2023,Email,Integration & API,Medium,Resolved,Priya Patel,28.0,2.2,LATAM,Financial Services
+T00993,C0009,SMB,2023-08-29,2023-08,Q3 2023,Chat,Data & Reporting,Low,Resolved,Marcus Johnson,118.0,3.1,EMEA,Manufacturing
+T00994,C0140,Mid-Market,2024-11-05,2024-11,Q4 2024,Email,Data & Reporting,Medium,Closed,Priya Patel,44.0,3.9,APAC,Healthcare
+T00995,C0255,Mid-Market,2024-06-25,2024-06,Q2 2024,Phone,User Management,Medium,Resolved,Aisha Williams,69.0,2.1,EMEA,Manufacturing
+T00996,C0218,SMB,2023-09-15,2023-09,Q3 2023,Chat,Data & Reporting,High,Closed,James O'Brien,7.0,4.4,EMEA,Manufacturing
+T00997,C0167,SMB,2023-02-16,2023-02,Q1 2023,Email,Integration & API,High,In Progress,Priya Patel,,,LATAM,Financial Services
+T00998,C0119,SMB,2024-02-25,2024-02,Q1 2024,Phone,Integration & API,Medium,In Progress,James O'Brien,,,EMEA,Healthcare
+T00999,C0190,Enterprise,2023-04-10,2023-04,Q2 2023,Email,Access & Authentication,Medium,Resolved,Marcus Johnson,19.0,5.0,APAC,Education
+T01000,C0048,SMB,2023-09-14,2023-09,Q3 2023,Email,Feature Request,Low,Resolved,David Kim,25.0,4.3,LATAM,Education
+T01001,C0111,SMB,2024-02-26,2024-02,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Resolved,Priya Patel,53.0,3.2,EMEA,Retail
+T01002,C0014,SMB,2023-04-10,2023-04,Q2 2023,Email,Access & Authentication,Medium,In Progress,James O'Brien,,,North America,Education
+T01003,C0068,Startup,2023-10-30,2023-10,Q4 2023,Email,Performance & Stability,High,In Progress,Priya Patel,,,North America,Healthcare
+T01004,C0033,Enterprise,2023-06-12,2023-06,Q2 2023,Chat,Access & Authentication,Medium,Resolved,Priya Patel,18.0,3.1,APAC,Technology
+T01005,C0213,Mid-Market,2023-04-22,2023-04,Q2 2023,Phone,Feature Request,High,Closed,James O'Brien,18.0,4.5,APAC,Logistics
+T01006,C0230,Enterprise,2024-03-11,2024-03,Q1 2024,Email,Positive Feedback,Medium,Resolved,David Kim,59.0,2.6,North America,Manufacturing
+T01007,C0047,Mid-Market,2024-08-18,2024-08,Q3 2024,Email,Feature Request,Low,Closed,Priya Patel,125.0,4.2,APAC,Healthcare
+T01008,C0028,Enterprise,2024-06-14,2024-06,Q2 2024,Email,Security & Compliance,Low,Open,Marcus Johnson,,,EMEA,Manufacturing
+T01009,C0133,Enterprise,2023-09-25,2023-09,Q3 2023,Chat,Access & Authentication,High,Closed,David Kim,8.0,4.1,APAC,Healthcare
+T01010,C0037,SMB,2024-03-08,2024-03,Q1 2024,Email,Performance & Stability,Low,In Progress,Sarah Chen,,,EMEA,Manufacturing
+T01011,C0014,SMB,2024-11-11,2024-11,Q4 2024,Email,Security & Compliance,Low,In Progress,Marcus Johnson,,,North America,Education
+T01012,C0225,Mid-Market,2024-07-05,2024-07,Q3 2024,Self-Service Portal,Access & Authentication,Medium,Open,Marcus Johnson,,,APAC,Logistics
+T01013,C0259,SMB,2024-10-23,2024-10,Q4 2024,Chat,Data & Reporting,High,In Progress,Marcus Johnson,,,LATAM,Manufacturing
+T01014,C0078,Mid-Market,2023-06-29,2023-06,Q2 2023,Chat,Performance & Stability,Critical,Open,Sarah Chen,,,APAC,Logistics
+T01015,C0002,SMB,2024-11-08,2024-11,Q4 2024,Email,Data & Reporting,Medium,Resolved,Marcus Johnson,27.0,2.6,North America,Financial Services
+T01016,C0121,SMB,2024-02-27,2024-02,Q1 2024,Email,Data & Reporting,High,Resolved,Sarah Chen,13.0,4.7,North America,Education
+T01017,C0241,Startup,2023-02-24,2023-02,Q1 2023,Chat,Data & Reporting,Medium,Resolved,Aisha Williams,31.0,1.7,EMEA,Logistics
+T01018,C0025,Mid-Market,2023-05-06,2023-05,Q2 2023,Chat,Positive Feedback,High,Resolved,David Kim,12.0,4.1,North America,Technology
+T01019,C0256,SMB,2023-09-12,2023-09,Q3 2023,Chat,Data & Reporting,Low,Open,Priya Patel,,,North America,Technology
+T01020,C0205,Enterprise,2024-09-25,2024-09,Q3 2024,Chat,Feature Request,Medium,Resolved,Emma Thompson,46.0,1.6,LATAM,Media
+T01021,C0067,SMB,2024-01-13,2024-01,Q1 2024,Email,Security & Compliance,Medium,Closed,Aisha Williams,67.0,4.0,EMEA,Education
+T01022,C0200,Mid-Market,2023-06-10,2023-06,Q2 2023,Self-Service Portal,Data & Reporting,Medium,In Progress,Priya Patel,,,APAC,Retail
+T01023,C0151,Startup,2023-07-16,2023-07,Q3 2023,Email,Performance & Stability,Medium,Closed,Marcus Johnson,72.0,3.8,APAC,Logistics
+T01024,C0189,Mid-Market,2023-09-05,2023-09,Q3 2023,Self-Service Portal,Integration & API,High,Resolved,Sarah Chen,18.0,2.6,North America,Retail
+T01025,C0150,Startup,2023-09-02,2023-09,Q3 2023,Phone,Billing & Payments,Low,In Progress,Emma Thompson,,,LATAM,Media
+T01026,C0114,Mid-Market,2023-05-25,2023-05,Q2 2023,Chat,Access & Authentication,Medium,Closed,Marcus Johnson,14.0,3.2,APAC,Education
+T01027,C0102,Startup,2024-05-19,2024-05,Q2 2024,Email,Data & Reporting,Medium,Closed,Carlos Rivera,18.0,4.0,EMEA,Logistics
+T01028,C0200,Mid-Market,2023-04-08,2023-04,Q2 2023,Phone,Security & Compliance,Low,Resolved,Sarah Chen,77.0,4.0,APAC,Retail
+T01029,C0055,Startup,2023-12-09,2023-12,Q4 2023,Chat,Performance & Stability,Low,Open,Aisha Williams,,,LATAM,Logistics
+T01030,C0146,Mid-Market,2024-09-02,2024-09,Q3 2024,Self-Service Portal,User Management,Low,Resolved,Marcus Johnson,58.0,4.2,APAC,Healthcare
+T01031,C0160,Startup,2024-09-10,2024-09,Q3 2024,Phone,Access & Authentication,Medium,Resolved,Carlos Rivera,37.0,3.1,APAC,Retail
+T01032,C0014,SMB,2024-08-23,2024-08,Q3 2024,Phone,Product Education,High,In Progress,Marcus Johnson,,,North America,Education
+T01033,C0123,Enterprise,2024-04-07,2024-04,Q2 2024,Email,Data & Reporting,High,Open,Carlos Rivera,,,EMEA,Technology
+T01034,C0011,Mid-Market,2023-12-12,2023-12,Q4 2023,Self-Service Portal,User Management,Medium,Closed,Sarah Chen,24.0,3.8,LATAM,Manufacturing
+T01035,C0022,SMB,2023-07-17,2023-07,Q3 2023,Chat,Security & Compliance,Medium,Resolved,James O'Brien,27.0,1.7,EMEA,Logistics
+T01036,C0052,Enterprise,2023-06-29,2023-06,Q2 2023,Phone,Security & Compliance,Medium,Resolved,David Kim,21.0,4.4,LATAM,Technology
+T01037,C0218,SMB,2024-07-28,2024-07,Q3 2024,Chat,Billing & Payments,High,Resolved,Sarah Chen,7.0,5.0,EMEA,Manufacturing
+T01038,C0271,SMB,2024-04-03,2024-04,Q2 2024,Phone,Data & Reporting,Medium,Resolved,Carlos Rivera,13.0,3.2,North America,Retail
+T01039,C0064,SMB,2023-02-24,2023-02,Q1 2023,Email,Data & Reporting,Medium,Closed,Priya Patel,16.0,3.4,LATAM,Education
+T01040,C0009,SMB,2024-04-08,2024-04,Q2 2024,Chat,Positive Feedback,Medium,Resolved,David Kim,56.0,4.0,EMEA,Manufacturing
+T01041,C0046,Mid-Market,2024-06-18,2024-06,Q2 2024,Chat,Integration & API,Medium,Closed,Sarah Chen,50.0,1.8,North America,Media
+T01042,C0257,Enterprise,2023-11-14,2023-11,Q4 2023,Self-Service Portal,Positive Feedback,Low,Closed,Emma Thompson,99.0,3.8,LATAM,Technology
+T01043,C0207,SMB,2024-07-31,2024-07,Q3 2024,Self-Service Portal,Data & Reporting,Medium,Resolved,Sarah Chen,23.0,4.8,LATAM,Manufacturing
+T01044,C0227,Enterprise,2023-06-28,2023-06,Q2 2023,Phone,Data & Reporting,Low,Resolved,Priya Patel,86.0,4.2,APAC,Media
+T01045,C0288,Startup,2023-01-18,2023-01,Q1 2023,Chat,Access & Authentication,Medium,Resolved,Priya Patel,63.0,1.6,EMEA,Technology
+T01046,C0208,Mid-Market,2024-08-27,2024-08,Q3 2024,Email,Feature Request,Medium,Closed,Marcus Johnson,56.0,2.7,APAC,Retail
+T01047,C0111,SMB,2023-01-16,2023-01,Q1 2023,Phone,Positive Feedback,High,Closed,Marcus Johnson,20.0,5.0,EMEA,Retail
+T01048,C0129,SMB,2023-07-16,2023-07,Q3 2023,Phone,Performance & Stability,High,Resolved,Priya Patel,24.0,4.0,North America,Healthcare
+T01049,C0245,SMB,2023-08-18,2023-08,Q3 2023,Chat,Performance & Stability,Medium,Closed,Emma Thompson,15.0,5.0,APAC,Retail
+T01050,C0258,Startup,2023-07-26,2023-07,Q3 2023,Email,Performance & Stability,Low,Closed,Aisha Williams,120.0,3.1,LATAM,Healthcare
+T01051,C0042,Startup,2023-10-28,2023-10,Q4 2023,Email,Access & Authentication,Low,Resolved,Priya Patel,137.0,3.4,EMEA,Technology
+T01052,C0026,Startup,2024-01-13,2024-01,Q1 2024,Chat,Data & Reporting,Critical,Resolved,David Kim,5.0,4.6,EMEA,Technology
+T01053,C0072,SMB,2024-02-17,2024-02,Q1 2024,Email,Access & Authentication,High,Closed,Priya Patel,24.0,4.3,APAC,Manufacturing
+T01054,C0290,SMB,2024-12-17,2024-12,Q4 2024,Chat,Feature Request,Medium,Resolved,James O'Brien,32.0,2.1,North America,Media
+T01055,C0046,Mid-Market,2023-05-16,2023-05,Q2 2023,Email,Feature Request,High,Closed,Priya Patel,18.0,2.5,North America,Media
+T01056,C0053,SMB,2023-03-22,2023-03,Q1 2023,Phone,Access & Authentication,High,In Progress,Carlos Rivera,,,EMEA,Technology
+T01057,C0193,Mid-Market,2023-05-05,2023-05,Q2 2023,Chat,Integration & API,Low,Resolved,Emma Thompson,36.0,1.9,LATAM,Manufacturing
+T01058,C0151,Startup,2024-06-06,2024-06,Q2 2024,Self-Service Portal,Access & Authentication,Medium,In Progress,David Kim,,,APAC,Logistics
+T01059,C0274,SMB,2023-04-21,2023-04,Q2 2023,Phone,Integration & API,Low,In Progress,Marcus Johnson,,,APAC,Media
+T01060,C0252,SMB,2024-08-26,2024-08,Q3 2024,Email,Billing & Payments,Medium,Closed,David Kim,51.0,3.9,LATAM,Media
+T01061,C0120,Enterprise,2024-03-12,2024-03,Q1 2024,Email,Positive Feedback,High,Resolved,David Kim,17.0,3.2,North America,Media
+T01062,C0012,Enterprise,2024-05-19,2024-05,Q2 2024,Chat,Performance & Stability,Medium,Closed,David Kim,69.0,2.7,North America,Financial Services
+T01063,C0121,SMB,2024-02-19,2024-02,Q1 2024,Email,Positive Feedback,Low,Closed,Priya Patel,45.0,3.5,North America,Education
+T01064,C0093,Startup,2023-08-18,2023-08,Q3 2023,Self-Service Portal,Data & Reporting,High,Resolved,Marcus Johnson,4.0,5.0,LATAM,Media
+T01065,C0136,SMB,2024-02-19,2024-02,Q1 2024,Phone,Feature Request,Medium,In Progress,Sarah Chen,,,LATAM,Education
+T01066,C0286,Mid-Market,2024-08-27,2024-08,Q3 2024,Chat,Feature Request,High,Resolved,Sarah Chen,9.0,5.0,LATAM,Technology
+T01067,C0118,SMB,2024-11-09,2024-11,Q4 2024,Phone,Product Education,Medium,Resolved,Carlos Rivera,24.0,4.1,EMEA,Manufacturing
+T01068,C0263,Mid-Market,2024-07-20,2024-07,Q3 2024,Chat,Performance & Stability,Medium,Resolved,Priya Patel,64.0,2.6,LATAM,Logistics
+T01069,C0121,SMB,2024-07-11,2024-07,Q3 2024,Phone,Data & Reporting,High,Resolved,Marcus Johnson,23.0,3.6,North America,Education
+T01070,C0033,Enterprise,2024-10-04,2024-10,Q4 2024,Chat,Integration & API,Medium,In Progress,Priya Patel,,,APAC,Technology
+T01071,C0164,SMB,2024-06-12,2024-06,Q2 2024,Phone,Integration & API,Low,Resolved,Aisha Williams,84.0,2.6,APAC,Media
+T01072,C0016,SMB,2024-11-10,2024-11,Q4 2024,Chat,Product Education,Medium,Resolved,Priya Patel,23.0,3.3,APAC,Financial Services
+T01073,C0176,Enterprise,2024-01-19,2024-01,Q1 2024,Chat,Billing & Payments,Medium,Resolved,Priya Patel,45.0,3.4,EMEA,Manufacturing
+T01074,C0273,Enterprise,2024-08-12,2024-08,Q3 2024,Self-Service Portal,Data & Reporting,Low,In Progress,Aisha Williams,,,North America,Education
+T01075,C0041,SMB,2024-12-01,2024-12,Q4 2024,Email,Data & Reporting,Medium,Closed,Priya Patel,51.0,2.0,EMEA,Media
+T01076,C0207,SMB,2024-08-26,2024-08,Q3 2024,Chat,Feature Request,Medium,Resolved,Emma Thompson,72.0,3.2,LATAM,Manufacturing
+T01077,C0190,Enterprise,2024-01-10,2024-01,Q1 2024,Chat,Integration & API,Medium,Closed,Aisha Williams,49.0,3.8,APAC,Education
+T01078,C0134,Mid-Market,2023-08-18,2023-08,Q3 2023,Self-Service Portal,Data & Reporting,Medium,Closed,James O'Brien,69.0,2.0,LATAM,Manufacturing
+T01079,C0268,Enterprise,2024-12-22,2024-12,Q4 2024,Email,Billing & Payments,Low,Resolved,Marcus Johnson,107.0,2.4,EMEA,Healthcare
+T01080,C0168,SMB,2023-12-02,2023-12,Q4 2023,Chat,Billing & Payments,High,In Progress,Emma Thompson,,,EMEA,Logistics
+T01081,C0230,Enterprise,2023-11-21,2023-11,Q4 2023,Phone,User Management,Medium,Resolved,Priya Patel,19.0,4.8,North America,Manufacturing
+T01082,C0234,Startup,2024-01-28,2024-01,Q1 2024,Chat,User Management,High,Resolved,Carlos Rivera,23.0,2.5,APAC,Logistics
+T01083,C0067,SMB,2023-08-29,2023-08,Q3 2023,Chat,Performance & Stability,Low,Closed,Carlos Rivera,130.0,1.7,EMEA,Education
+T01084,C0299,SMB,2024-06-02,2024-06,Q2 2024,Email,Feature Request,Medium,Closed,Aisha Williams,51.0,2.5,North America,Media
+T01085,C0278,Mid-Market,2024-10-09,2024-10,Q4 2024,Phone,Performance & Stability,Low,Resolved,Marcus Johnson,56.0,2.4,LATAM,Retail
+T01086,C0043,Enterprise,2024-12-10,2024-12,Q4 2024,Email,Access & Authentication,Low,Open,James O'Brien,,,LATAM,Technology
+T01087,C0038,Enterprise,2023-08-31,2023-08,Q3 2023,Phone,Security & Compliance,Low,Closed,David Kim,25.0,2.5,North America,Retail
+T01088,C0018,SMB,2024-06-18,2024-06,Q2 2024,Email,Performance & Stability,Medium,In Progress,David Kim,,,APAC,Retail
+T01089,C0074,Mid-Market,2024-05-26,2024-05,Q2 2024,Chat,Billing & Payments,Medium,Resolved,Priya Patel,60.0,3.7,APAC,Manufacturing
+T01090,C0188,Mid-Market,2024-06-11,2024-06,Q2 2024,Email,Billing & Payments,Medium,Closed,Marcus Johnson,21.0,3.1,APAC,Financial Services
+T01091,C0065,Startup,2023-07-24,2023-07,Q3 2023,Chat,Security & Compliance,Medium,Resolved,Emma Thompson,9.0,4.1,EMEA,Education
+T01092,C0135,Startup,2024-05-16,2024-05,Q2 2024,Email,Feature Request,Medium,In Progress,Priya Patel,,,LATAM,Technology
+T01093,C0093,Startup,2023-12-25,2023-12,Q4 2023,Chat,Data & Reporting,Low,Resolved,Sarah Chen,63.0,4.1,LATAM,Media
+T01094,C0167,SMB,2023-05-26,2023-05,Q2 2023,Phone,Integration & API,Low,Resolved,Priya Patel,37.0,3.1,LATAM,Financial Services
+T01095,C0226,Enterprise,2023-05-04,2023-05,Q2 2023,Email,Billing & Payments,Medium,Resolved,Priya Patel,31.0,2.5,EMEA,Technology
+T01096,C0080,Startup,2024-08-13,2024-08,Q3 2024,Self-Service Portal,Performance & Stability,Low,Closed,Priya Patel,101.0,2.2,APAC,Technology
+T01097,C0122,SMB,2023-06-20,2023-06,Q2 2023,Phone,Data & Reporting,Low,Closed,David Kim,92.0,2.8,APAC,Logistics
+T01098,C0238,Mid-Market,2024-05-19,2024-05,Q2 2024,Self-Service Portal,Positive Feedback,Medium,Resolved,David Kim,71.0,2.0,EMEA,Logistics
+T01099,C0299,SMB,2024-03-25,2024-03,Q1 2024,Email,Performance & Stability,Medium,Resolved,Carlos Rivera,71.0,2.1,North America,Media
+T01100,C0071,Enterprise,2024-08-16,2024-08,Q3 2024,Email,Integration & API,High,Resolved,Sarah Chen,8.0,4.7,LATAM,Education
+T01101,C0281,Enterprise,2023-07-12,2023-07,Q3 2023,Chat,Security & Compliance,Medium,Resolved,David Kim,72.0,4.1,LATAM,Media
+T01102,C0179,Startup,2024-12-01,2024-12,Q4 2024,Chat,Feature Request,Low,Resolved,Sarah Chen,39.0,3.9,LATAM,Financial Services
+T01103,C0104,Mid-Market,2023-01-18,2023-01,Q1 2023,Email,Billing & Payments,Medium,Resolved,Priya Patel,66.0,2.5,LATAM,Logistics
+T01104,C0108,Startup,2024-08-07,2024-08,Q3 2024,Email,Positive Feedback,Medium,Closed,Aisha Williams,19.0,3.1,LATAM,Healthcare
+T01105,C0262,Mid-Market,2023-07-17,2023-07,Q3 2023,Chat,Positive Feedback,Low,Closed,Marcus Johnson,47.0,3.3,APAC,Technology
+T01106,C0075,SMB,2024-02-12,2024-02,Q1 2024,Email,Billing & Payments,High,In Progress,Sarah Chen,,,North America,Technology
+T01107,C0059,Enterprise,2024-09-12,2024-09,Q3 2024,Chat,Access & Authentication,High,In Progress,David Kim,,,LATAM,Media
+T01108,C0070,Mid-Market,2023-12-18,2023-12,Q4 2023,Self-Service Portal,User Management,Low,In Progress,Emma Thompson,,,APAC,Media
+T01109,C0195,SMB,2023-12-12,2023-12,Q4 2023,Phone,Access & Authentication,High,Resolved,Aisha Williams,20.0,4.8,APAC,Healthcare
+T01110,C0091,SMB,2023-04-13,2023-04,Q2 2023,Chat,Access & Authentication,Medium,Resolved,Aisha Williams,49.0,2.0,APAC,Media
+T01111,C0193,Mid-Market,2023-05-12,2023-05,Q2 2023,Phone,Positive Feedback,High,Closed,James O'Brien,16.0,4.9,LATAM,Manufacturing
+T01112,C0292,SMB,2024-09-02,2024-09,Q3 2024,Phone,Positive Feedback,Medium,Closed,Emma Thompson,23.0,3.3,APAC,Media
+T01113,C0184,Startup,2024-07-16,2024-07,Q3 2024,Self-Service Portal,Data & Reporting,Medium,In Progress,Sarah Chen,,,APAC,Education
+T01114,C0073,SMB,2024-05-08,2024-05,Q2 2024,Chat,Access & Authentication,Medium,Resolved,Marcus Johnson,29.0,2.8,APAC,Media
+T01115,C0221,SMB,2024-03-12,2024-03,Q1 2024,Self-Service Portal,Data & Reporting,High,Resolved,Priya Patel,14.0,5.0,APAC,Technology
+T01116,C0004,Mid-Market,2023-08-16,2023-08,Q3 2023,Email,Security & Compliance,Critical,Open,David Kim,,,EMEA,Retail
+T01117,C0189,Mid-Market,2024-03-09,2024-03,Q1 2024,Phone,Access & Authentication,Medium,Closed,Aisha Williams,62.0,4.3,North America,Retail
+T01118,C0246,Startup,2023-04-19,2023-04,Q2 2023,Email,Positive Feedback,Medium,Open,James O'Brien,,,APAC,Financial Services
+T01119,C0014,SMB,2024-02-27,2024-02,Q1 2024,Phone,Access & Authentication,Medium,Open,Sarah Chen,,,North America,Education
+T01120,C0265,SMB,2023-04-10,2023-04,Q2 2023,Chat,Data & Reporting,High,Closed,Sarah Chen,14.0,2.8,EMEA,Media
+T01121,C0210,Startup,2024-04-08,2024-04,Q2 2024,Email,Access & Authentication,Low,Closed,Emma Thompson,149.0,2.4,APAC,Technology
+T01122,C0090,Mid-Market,2023-04-27,2023-04,Q2 2023,Email,Access & Authentication,Medium,Resolved,David Kim,62.0,3.3,APAC,Logistics
+T01123,C0016,SMB,2023-07-29,2023-07,Q3 2023,Phone,Access & Authentication,High,Closed,David Kim,23.0,5.0,APAC,Financial Services
+T01124,C0131,SMB,2024-03-23,2024-03,Q1 2024,Chat,Positive Feedback,High,Resolved,Aisha Williams,19.0,2.7,LATAM,Healthcare
+T01125,C0207,SMB,2024-02-29,2024-02,Q1 2024,Chat,Data & Reporting,Medium,Closed,Marcus Johnson,65.0,3.5,LATAM,Manufacturing
+T01126,C0130,Enterprise,2023-02-08,2023-02,Q1 2023,Chat,Performance & Stability,Medium,Closed,Marcus Johnson,42.0,2.4,EMEA,Financial Services
+T01127,C0163,Enterprise,2023-06-26,2023-06,Q2 2023,Phone,Performance & Stability,Medium,Resolved,James O'Brien,71.0,3.4,APAC,Healthcare
+T01128,C0238,Mid-Market,2024-08-27,2024-08,Q3 2024,Chat,Access & Authentication,Medium,Closed,David Kim,56.0,1.9,EMEA,Logistics
+T01129,C0147,Mid-Market,2023-02-20,2023-02,Q1 2023,Phone,Performance & Stability,High,Closed,Aisha Williams,9.0,4.5,North America,Financial Services
+T01130,C0299,SMB,2024-08-05,2024-08,Q3 2024,Phone,Integration & API,Critical,Closed,Sarah Chen,3.0,3.1,North America,Media
+T01131,C0264,SMB,2024-04-16,2024-04,Q2 2024,Email,Billing & Payments,High,In Progress,Marcus Johnson,,,EMEA,Logistics
+T01132,C0121,SMB,2024-01-14,2024-01,Q1 2024,Chat,Feature Request,Medium,Closed,Sarah Chen,22.0,5.0,North America,Education
+T01133,C0276,Enterprise,2024-05-30,2024-05,Q2 2024,Chat,Product Education,Low,Closed,Priya Patel,90.0,2.4,LATAM,Manufacturing
+T01134,C0083,Startup,2023-05-04,2023-05,Q2 2023,Phone,Security & Compliance,Medium,In Progress,Sarah Chen,,,LATAM,Media
+T01135,C0277,SMB,2023-06-26,2023-06,Q2 2023,Chat,Access & Authentication,Medium,Resolved,Aisha Williams,32.0,3.2,North America,Media
+T01136,C0207,SMB,2023-04-04,2023-04,Q2 2023,Self-Service Portal,Access & Authentication,High,Resolved,Priya Patel,9.0,5.0,LATAM,Manufacturing
+T01137,C0238,Mid-Market,2024-02-06,2024-02,Q1 2024,Chat,User Management,Medium,Resolved,Marcus Johnson,23.0,5.0,EMEA,Logistics
+T01138,C0298,SMB,2024-03-09,2024-03,Q1 2024,Chat,Integration & API,Medium,In Progress,Emma Thompson,,,EMEA,Retail
+T01139,C0182,Enterprise,2023-04-20,2023-04,Q2 2023,Phone,Positive Feedback,Low,Resolved,Aisha Williams,131.0,3.6,North America,Logistics
+T01140,C0193,Mid-Market,2024-01-28,2024-01,Q1 2024,Chat,Feature Request,Low,Resolved,Carlos Rivera,137.0,1.5,LATAM,Manufacturing
+T01141,C0053,SMB,2024-01-31,2024-01,Q1 2024,Phone,Product Education,Medium,Closed,James O'Brien,24.0,3.0,EMEA,Technology
+T01142,C0137,Enterprise,2024-07-01,2024-07,Q3 2024,Email,Feature Request,High,Resolved,David Kim,16.0,5.0,North America,Healthcare
+T01143,C0295,SMB,2023-03-11,2023-03,Q1 2023,Email,Performance & Stability,High,In Progress,Priya Patel,,,APAC,Logistics
+T01144,C0105,Startup,2024-02-22,2024-02,Q1 2024,Self-Service Portal,Billing & Payments,Low,Resolved,Marcus Johnson,106.0,3.2,APAC,Retail
+T01145,C0206,SMB,2023-12-07,2023-12,Q4 2023,Self-Service Portal,User Management,Medium,Closed,Emma Thompson,41.0,3.3,LATAM,Education
+T01146,C0163,Enterprise,2024-10-27,2024-10,Q4 2024,Email,Billing & Payments,Medium,Resolved,Marcus Johnson,68.0,4.2,APAC,Healthcare
+T01147,C0265,SMB,2023-05-10,2023-05,Q2 2023,Chat,Performance & Stability,Medium,Open,Priya Patel,,,EMEA,Media
+T01148,C0050,Mid-Market,2023-10-06,2023-10,Q4 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Aisha Williams,31.0,3.4,LATAM,Education
+T01149,C0280,Enterprise,2024-03-08,2024-03,Q1 2024,Email,Integration & API,Low,Closed,Emma Thompson,103.0,4.3,APAC,Healthcare
+T01150,C0291,SMB,2023-11-16,2023-11,Q4 2023,Chat,Security & Compliance,Medium,Closed,Priya Patel,23.0,4.7,North America,Education
+T01151,C0030,SMB,2024-12-04,2024-12,Q4 2024,Self-Service Portal,Data & Reporting,Low,Open,Emma Thompson,,,LATAM,Technology
+T01152,C0032,Enterprise,2023-08-21,2023-08,Q3 2023,Chat,Feature Request,Medium,Resolved,Aisha Williams,24.0,3.0,LATAM,Manufacturing
+T01153,C0168,SMB,2024-01-17,2024-01,Q1 2024,Email,Data & Reporting,Critical,Resolved,Aisha Williams,5.0,5.0,EMEA,Logistics
+T01154,C0092,Startup,2023-02-18,2023-02,Q1 2023,Self-Service Portal,Data & Reporting,Medium,Closed,Emma Thompson,71.0,1.7,North America,Manufacturing
+T01155,C0135,Startup,2023-06-15,2023-06,Q2 2023,Chat,Positive Feedback,Medium,Resolved,Aisha Williams,11.0,4.8,LATAM,Technology
+T01156,C0164,SMB,2023-08-15,2023-08,Q3 2023,Chat,Integration & API,Medium,In Progress,Priya Patel,,,APAC,Media
+T01157,C0095,SMB,2024-03-04,2024-03,Q1 2024,Chat,Data & Reporting,High,Resolved,Emma Thompson,11.0,4.6,APAC,Education
+T01158,C0083,Startup,2023-07-11,2023-07,Q3 2023,Phone,Billing & Payments,High,Resolved,Carlos Rivera,19.0,2.9,LATAM,Media
+T01159,C0035,Startup,2024-02-04,2024-02,Q1 2024,Self-Service Portal,Access & Authentication,Medium,Open,Sarah Chen,,,APAC,Retail
+T01160,C0275,Enterprise,2023-01-16,2023-01,Q1 2023,Chat,Performance & Stability,Low,Resolved,Carlos Rivera,68.0,3.2,EMEA,Media
+T01161,C0228,Mid-Market,2023-01-14,2023-01,Q1 2023,Phone,Access & Authentication,Low,Closed,Sarah Chen,52.0,4.3,LATAM,Logistics
+T01162,C0105,Startup,2024-06-25,2024-06,Q2 2024,Email,Feature Request,Low,Resolved,Priya Patel,142.0,3.2,APAC,Retail
+T01163,C0189,Mid-Market,2023-09-29,2023-09,Q3 2023,Chat,Data & Reporting,High,Closed,Emma Thompson,12.0,2.6,North America,Retail
+T01164,C0131,SMB,2023-11-09,2023-11,Q4 2023,Phone,Data & Reporting,Medium,Closed,David Kim,25.0,2.0,LATAM,Healthcare
+T01165,C0147,Mid-Market,2024-07-04,2024-07,Q3 2024,Phone,Feature Request,Low,Resolved,James O'Brien,125.0,3.8,North America,Financial Services
+T01166,C0151,Startup,2024-10-22,2024-10,Q4 2024,Email,Feature Request,Medium,Closed,Sarah Chen,17.0,3.6,APAC,Logistics
+T01167,C0278,Mid-Market,2023-03-04,2023-03,Q1 2023,Phone,Positive Feedback,Low,Resolved,Priya Patel,82.0,2.5,LATAM,Retail
+T01168,C0137,Enterprise,2024-10-01,2024-10,Q4 2024,Email,Security & Compliance,Low,Closed,Aisha Williams,125.0,2.8,North America,Healthcare
+T01169,C0264,SMB,2023-03-10,2023-03,Q1 2023,Email,Product Education,Medium,Resolved,James O'Brien,41.0,1.7,EMEA,Logistics
+T01170,C0274,SMB,2024-01-06,2024-01,Q1 2024,Chat,Integration & API,Medium,Closed,Marcus Johnson,49.0,3.4,APAC,Media
+T01171,C0076,SMB,2024-07-03,2024-07,Q3 2024,Chat,Integration & API,Medium,Resolved,Carlos Rivera,27.0,2.4,LATAM,Logistics
+T01172,C0247,Startup,2024-08-15,2024-08,Q3 2024,Phone,Positive Feedback,High,Resolved,Emma Thompson,16.0,4.9,LATAM,Technology
+T01173,C0130,Enterprise,2023-06-29,2023-06,Q2 2023,Chat,User Management,Low,Resolved,Marcus Johnson,84.0,3.2,EMEA,Financial Services
+T01174,C0078,Mid-Market,2023-04-26,2023-04,Q2 2023,Self-Service Portal,Performance & Stability,Critical,In Progress,James O'Brien,,,APAC,Logistics
+T01175,C0086,SMB,2023-05-30,2023-05,Q2 2023,Email,Positive Feedback,Critical,Closed,Marcus Johnson,1.0,3.8,EMEA,Healthcare
+T01176,C0024,SMB,2023-01-31,2023-01,Q1 2023,Chat,Performance & Stability,Medium,Closed,Aisha Williams,23.0,4.1,EMEA,Healthcare
+T01177,C0097,SMB,2024-01-17,2024-01,Q1 2024,Phone,Access & Authentication,High,Closed,Sarah Chen,14.0,4.3,LATAM,Manufacturing
+T01178,C0248,Enterprise,2023-10-10,2023-10,Q4 2023,Chat,Feature Request,Low,In Progress,Sarah Chen,,,North America,Media
+T01179,C0002,SMB,2023-07-23,2023-07,Q3 2023,Phone,Product Education,Medium,Closed,Emma Thompson,43.0,4.4,North America,Financial Services
+T01180,C0225,Mid-Market,2023-03-18,2023-03,Q1 2023,Chat,User Management,Critical,Closed,Emma Thompson,7.0,2.7,APAC,Logistics
+T01181,C0190,Enterprise,2023-11-03,2023-11,Q4 2023,Self-Service Portal,Access & Authentication,Low,In Progress,Carlos Rivera,,,APAC,Education
+T01182,C0052,Enterprise,2024-02-13,2024-02,Q1 2024,Phone,User Management,Medium,Resolved,James O'Brien,32.0,2.8,LATAM,Technology
+T01183,C0151,Startup,2024-07-21,2024-07,Q3 2024,Chat,Integration & API,Medium,In Progress,Emma Thompson,,,APAC,Logistics
+T01184,C0286,Mid-Market,2024-07-22,2024-07,Q3 2024,Chat,Performance & Stability,High,Resolved,Emma Thompson,23.0,2.6,LATAM,Technology
+T01185,C0093,Startup,2024-01-07,2024-01,Q1 2024,Chat,Access & Authentication,Medium,Resolved,Carlos Rivera,10.0,2.9,LATAM,Media
+T01186,C0233,Enterprise,2024-10-08,2024-10,Q4 2024,Chat,Performance & Stability,Low,Resolved,Marcus Johnson,118.0,4.3,LATAM,Media
+T01187,C0237,Mid-Market,2024-01-05,2024-01,Q1 2024,Chat,Data & Reporting,Low,Resolved,Priya Patel,99.0,2.7,EMEA,Technology
+T01188,C0039,Mid-Market,2023-04-09,2023-04,Q2 2023,Email,Positive Feedback,Medium,Open,Priya Patel,,,APAC,Financial Services
+T01189,C0084,Startup,2023-05-25,2023-05,Q2 2023,Chat,Data & Reporting,Medium,Closed,Carlos Rivera,42.0,1.8,North America,Manufacturing
+T01190,C0151,Startup,2024-01-17,2024-01,Q1 2024,Phone,Positive Feedback,Medium,In Progress,Sarah Chen,,,APAC,Logistics
+T01191,C0295,SMB,2023-01-19,2023-01,Q1 2023,Self-Service Portal,Access & Authentication,Medium,Closed,Priya Patel,14.0,3.0,APAC,Logistics
+T01192,C0143,Enterprise,2024-04-26,2024-04,Q2 2024,Email,Billing & Payments,Medium,Closed,Priya Patel,15.0,4.0,LATAM,Technology
+T01193,C0083,Startup,2024-12-06,2024-12,Q4 2024,Self-Service Portal,Integration & API,High,Open,Sarah Chen,,,LATAM,Media
+T01194,C0180,Mid-Market,2024-07-29,2024-07,Q3 2024,Email,Feature Request,High,Resolved,Marcus Johnson,23.0,5.0,APAC,Healthcare
+T01195,C0045,Enterprise,2023-11-19,2023-11,Q4 2023,Phone,Access & Authentication,Low,In Progress,Sarah Chen,,,APAC,Media
+T01196,C0017,Mid-Market,2024-04-18,2024-04,Q2 2024,Email,Integration & API,Medium,Closed,Aisha Williams,19.0,4.2,North America,Healthcare
+T01197,C0288,Startup,2024-12-29,2024-12,Q4 2024,Email,Data & Reporting,Low,Resolved,Aisha Williams,129.0,2.5,EMEA,Technology
+T01198,C0143,Enterprise,2024-04-28,2024-04,Q2 2024,Chat,Positive Feedback,High,Closed,Marcus Johnson,19.0,4.9,LATAM,Technology
+T01199,C0110,Mid-Market,2023-03-14,2023-03,Q1 2023,Phone,Data & Reporting,High,Resolved,Aisha Williams,11.0,3.9,EMEA,Media
+T01200,C0110,Mid-Market,2024-01-04,2024-01,Q1 2024,Email,Integration & API,Low,Closed,Emma Thompson,127.0,4.1,EMEA,Media

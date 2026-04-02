@@ -1,0 +1,301 @@
+customer_id,company_name,segment,industry,region,join_date,mrr,health_score,num_users,renewal_date,csm_assigned
+C0001,Company 0001,SMB,Financial Services,APAC,2021-05-16,954,46,44,2022-05-16,Marcus Johnson
+C0002,Company 0002,SMB,Financial Services,North America,2020-07-10,717,78,2,2021-07-10,James O'Brien
+C0003,Company 0003,SMB,Media,EMEA,2022-07-08,206,88,11,2023-07-08,Emma Thompson
+C0004,Company 0004,Mid-Market,Retail,EMEA,2021-11-20,2556,51,23,2022-11-20,Carlos Rivera
+C0005,Company 0005,SMB,Financial Services,LATAM,2023-01-03,587,45,36,2024-01-03,Aisha Williams
+C0006,Company 0006,Startup,Education,EMEA,2020-05-22,166,84,19,2021-05-22,Marcus Johnson
+C0007,Company 0007,Startup,Healthcare,LATAM,2021-07-23,477,58,11,2022-07-23,Carlos Rivera
+C0008,Company 0008,Mid-Market,Manufacturing,North America,2023-06-01,3187,91,16,2024-05-31,Priya Patel
+C0009,Company 0009,SMB,Manufacturing,EMEA,2021-10-26,232,60,26,2022-10-26,Aisha Williams
+C0010,Company 0010,Enterprise,Education,EMEA,2022-10-19,20035,59,140,2023-10-19,Priya Patel
+C0011,Company 0011,Mid-Market,Manufacturing,LATAM,2023-04-10,1898,53,33,2024-04-09,David Kim
+C0012,Company 0012,Enterprise,Financial Services,North America,2020-11-09,18833,88,37,2021-11-09,Emma Thompson
+C0013,Company 0013,Mid-Market,Logistics,APAC,2023-02-07,3952,52,44,2024-02-07,Aisha Williams
+C0014,Company 0014,SMB,Education,North America,2021-08-24,664,40,47,2022-08-24,Aisha Williams
+C0015,Company 0015,Startup,Retail,North America,2021-09-03,361,47,10,2022-09-03,Carlos Rivera
+C0016,Company 0016,SMB,Financial Services,APAC,2022-09-27,571,59,16,2023-09-27,Sarah Chen
+C0017,Company 0017,Mid-Market,Healthcare,North America,2022-09-22,3181,94,9,2023-09-22,Priya Patel
+C0018,Company 0018,SMB,Retail,APAC,2022-12-16,416,74,49,2023-12-16,James O'Brien
+C0019,Company 0019,SMB,Media,APAC,2022-06-16,323,55,15,2023-06-16,Marcus Johnson
+C0020,Company 0020,Mid-Market,Technology,EMEA,2020-01-15,3584,48,15,2021-01-14,Marcus Johnson
+C0021,Company 0021,Startup,Education,North America,2022-11-18,392,66,14,2023-11-18,Priya Patel
+C0022,Company 0022,SMB,Logistics,EMEA,2022-08-26,296,46,43,2023-08-26,Emma Thompson
+C0023,Company 0023,Mid-Market,Media,LATAM,2020-04-20,3646,51,4,2021-04-20,Emma Thompson
+C0024,Company 0024,SMB,Healthcare,EMEA,2021-01-27,659,48,28,2022-01-27,Priya Patel
+C0025,Company 0025,Mid-Market,Technology,North America,2022-06-26,1207,86,35,2023-06-26,Sarah Chen
+C0026,Company 0026,Startup,Technology,EMEA,2022-04-12,159,60,4,2023-04-12,Priya Patel
+C0027,Company 0027,Mid-Market,Media,APAC,2022-07-20,3853,91,36,2023-07-20,David Kim
+C0028,Company 0028,Enterprise,Manufacturing,EMEA,2020-04-29,22766,53,387,2021-04-29,Carlos Rivera
+C0029,Company 0029,Enterprise,Logistics,EMEA,2020-04-26,11089,54,309,2021-04-26,Marcus Johnson
+C0030,Company 0030,SMB,Technology,LATAM,2020-09-02,792,78,3,2021-09-02,Marcus Johnson
+C0031,Company 0031,Mid-Market,Education,APAC,2021-02-22,2286,60,17,2022-02-22,Emma Thompson
+C0032,Company 0032,Enterprise,Manufacturing,LATAM,2021-10-09,20017,89,293,2022-10-09,Marcus Johnson
+C0033,Company 0033,Enterprise,Technology,APAC,2020-09-28,7254,65,194,2021-09-28,Aisha Williams
+C0034,Company 0034,Enterprise,Manufacturing,North America,2023-02-09,8394,58,140,2024-02-09,Marcus Johnson
+C0035,Company 0035,Startup,Retail,APAC,2021-07-31,417,56,14,2022-07-31,Aisha Williams
+C0036,Company 0036,SMB,Manufacturing,North America,2020-07-08,483,42,1,2021-07-08,Carlos Rivera
+C0037,Company 0037,SMB,Manufacturing,EMEA,2022-06-23,637,75,1,2023-06-23,Marcus Johnson
+C0038,Company 0038,Enterprise,Retail,North America,2022-01-26,9852,77,70,2023-01-26,Sarah Chen
+C0039,Company 0039,Mid-Market,Financial Services,APAC,2021-03-06,3731,51,23,2022-03-06,Emma Thompson
+C0040,Company 0040,Startup,Retail,EMEA,2020-11-28,261,36,12,2021-11-28,Carlos Rivera
+C0041,Company 0041,SMB,Media,EMEA,2021-06-30,918,46,25,2022-06-30,Sarah Chen
+C0042,Company 0042,Startup,Technology,EMEA,2022-07-31,470,85,15,2023-07-31,James O'Brien
+C0043,Company 0043,Enterprise,Technology,LATAM,2021-11-03,7274,99,147,2022-11-03,Carlos Rivera
+C0044,Company 0044,SMB,Media,APAC,2020-02-26,467,51,38,2021-02-25,Aisha Williams
+C0045,Company 0045,Enterprise,Media,APAC,2021-10-04,21758,57,202,2022-10-04,James O'Brien
+C0046,Company 0046,Mid-Market,Media,North America,2022-11-30,3946,92,48,2023-11-30,James O'Brien
+C0047,Company 0047,Mid-Market,Healthcare,APAC,2021-10-04,1510,91,20,2022-10-04,Aisha Williams
+C0048,Company 0048,SMB,Education,LATAM,2021-08-28,396,66,43,2022-08-28,Emma Thompson
+C0049,Company 0049,SMB,Retail,APAC,2022-04-11,200,59,19,2023-04-11,James O'Brien
+C0050,Company 0050,Mid-Market,Education,LATAM,2022-06-23,1875,77,31,2023-06-23,Priya Patel
+C0051,Company 0051,SMB,Manufacturing,APAC,2020-07-10,517,54,13,2021-07-10,Priya Patel
+C0052,Company 0052,Enterprise,Technology,LATAM,2020-05-29,23863,62,372,2021-05-29,Emma Thompson
+C0053,Company 0053,SMB,Technology,EMEA,2020-01-12,635,54,12,2021-01-11,David Kim
+C0054,Company 0054,Enterprise,Technology,North America,2022-07-23,20225,92,276,2023-07-23,Carlos Rivera
+C0055,Company 0055,Startup,Logistics,LATAM,2023-01-27,131,82,31,2024-01-27,David Kim
+C0056,Company 0056,Mid-Market,Technology,APAC,2022-12-03,1979,62,29,2023-12-03,Marcus Johnson
+C0057,Company 0057,SMB,Technology,APAC,2021-11-18,753,45,9,2022-11-18,Priya Patel
+C0058,Company 0058,Mid-Market,Retail,EMEA,2020-05-11,2355,79,30,2021-05-11,Emma Thompson
+C0059,Company 0059,Enterprise,Media,LATAM,2023-04-11,23864,74,249,2024-04-10,Sarah Chen
+C0060,Company 0060,Startup,Manufacturing,LATAM,2022-05-08,426,69,39,2023-05-08,James O'Brien
+C0061,Company 0061,SMB,Manufacturing,LATAM,2022-09-21,544,82,44,2023-09-21,Emma Thompson
+C0062,Company 0062,SMB,Logistics,EMEA,2022-12-29,603,77,37,2023-12-29,Sarah Chen
+C0063,Company 0063,Enterprise,Media,EMEA,2022-08-03,13524,74,172,2023-08-03,James O'Brien
+C0064,Company 0064,SMB,Education,LATAM,2021-07-23,283,70,2,2022-07-23,Sarah Chen
+C0065,Company 0065,Startup,Education,EMEA,2020-05-20,436,36,16,2021-05-20,James O'Brien
+C0066,Company 0066,Startup,Retail,EMEA,2020-09-15,108,71,14,2021-09-15,David Kim
+C0067,Company 0067,SMB,Education,EMEA,2023-05-25,935,47,50,2024-05-24,Priya Patel
+C0068,Company 0068,Startup,Healthcare,North America,2021-09-30,242,60,46,2022-09-30,James O'Brien
+C0069,Company 0069,Enterprise,Technology,North America,2021-09-09,8966,100,294,2022-09-09,Sarah Chen
+C0070,Company 0070,Mid-Market,Media,APAC,2020-05-21,2397,45,27,2021-05-21,David Kim
+C0071,Company 0071,Enterprise,Education,LATAM,2020-11-09,22096,91,143,2021-11-09,David Kim
+C0072,Company 0072,SMB,Manufacturing,APAC,2021-05-17,661,55,49,2022-05-17,David Kim
+C0073,Company 0073,SMB,Media,APAC,2020-02-28,532,51,32,2021-02-27,James O'Brien
+C0074,Company 0074,Mid-Market,Manufacturing,APAC,2021-07-26,4604,62,36,2022-07-26,Sarah Chen
+C0075,Company 0075,SMB,Technology,North America,2021-05-09,700,75,49,2022-05-09,James O'Brien
+C0076,Company 0076,SMB,Logistics,LATAM,2020-02-05,426,65,45,2021-02-04,James O'Brien
+C0077,Company 0077,Mid-Market,Education,LATAM,2023-02-07,2742,92,36,2024-02-07,Carlos Rivera
+C0078,Company 0078,Mid-Market,Logistics,APAC,2021-09-19,1494,91,13,2022-09-19,Carlos Rivera
+C0079,Company 0079,Enterprise,Retail,EMEA,2021-03-19,14060,96,306,2022-03-19,Aisha Williams
+C0080,Company 0080,Startup,Technology,APAC,2021-04-10,204,35,46,2022-04-10,Priya Patel
+C0081,Company 0081,Mid-Market,Financial Services,APAC,2020-09-15,4083,76,7,2021-09-15,Sarah Chen
+C0082,Company 0082,SMB,Logistics,LATAM,2022-06-21,252,56,31,2023-06-21,Marcus Johnson
+C0083,Company 0083,Startup,Media,LATAM,2020-05-31,401,38,10,2021-05-31,Priya Patel
+C0084,Company 0084,Startup,Manufacturing,North America,2021-05-23,441,61,39,2022-05-23,James O'Brien
+C0085,Company 0085,SMB,Media,LATAM,2022-06-25,802,67,20,2023-06-25,Sarah Chen
+C0086,Company 0086,SMB,Healthcare,EMEA,2021-03-08,283,50,16,2022-03-08,Priya Patel
+C0087,Company 0087,SMB,Retail,North America,2022-04-16,808,70,19,2023-04-16,Sarah Chen
+C0088,Company 0088,Mid-Market,Manufacturing,LATAM,2020-05-25,4784,61,41,2021-05-25,James O'Brien
+C0089,Company 0089,Mid-Market,Technology,EMEA,2021-06-28,1244,55,20,2022-06-28,Aisha Williams
+C0090,Company 0090,Mid-Market,Logistics,APAC,2022-04-04,3211,76,29,2023-04-04,Marcus Johnson
+C0091,Company 0091,SMB,Media,APAC,2023-05-21,293,54,44,2024-05-20,Sarah Chen
+C0092,Company 0092,Startup,Manufacturing,North America,2020-12-24,383,63,18,2021-12-24,Priya Patel
+C0093,Company 0093,Startup,Media,LATAM,2020-07-05,259,56,21,2021-07-05,Marcus Johnson
+C0094,Company 0094,Startup,Education,LATAM,2022-10-11,255,83,36,2023-10-11,Sarah Chen
+C0095,Company 0095,SMB,Education,APAC,2021-10-24,613,72,1,2022-10-24,David Kim
+C0096,Company 0096,Mid-Market,Technology,APAC,2022-10-17,4112,48,14,2023-10-17,Aisha Williams
+C0097,Company 0097,SMB,Manufacturing,LATAM,2022-09-19,845,78,16,2023-09-19,Priya Patel
+C0098,Company 0098,Mid-Market,Financial Services,LATAM,2020-07-09,4739,52,30,2021-07-09,Marcus Johnson
+C0099,Company 0099,SMB,Retail,LATAM,2021-08-20,479,66,31,2022-08-20,David Kim
+C0100,Company 0100,Mid-Market,Retail,LATAM,2021-01-25,4056,53,5,2022-01-25,Aisha Williams
+C0101,Company 0101,SMB,Media,APAC,2022-11-05,202,58,47,2023-11-05,Aisha Williams
+C0102,Company 0102,Startup,Logistics,EMEA,2022-07-03,226,56,36,2023-07-03,Emma Thompson
+C0103,Company 0103,SMB,Education,EMEA,2021-05-04,439,89,27,2022-05-04,Sarah Chen
+C0104,Company 0104,Mid-Market,Logistics,LATAM,2022-03-01,4361,86,10,2023-03-01,David Kim
+C0105,Company 0105,Startup,Retail,APAC,2020-07-24,319,64,1,2021-07-24,Priya Patel
+C0106,Company 0106,Mid-Market,Retail,North America,2022-08-19,3552,89,26,2023-08-19,Marcus Johnson
+C0107,Company 0107,Startup,Media,APAC,2022-09-26,366,39,16,2023-09-26,Aisha Williams
+C0108,Company 0108,Startup,Healthcare,LATAM,2020-07-20,496,41,29,2021-07-20,Priya Patel
+C0109,Company 0109,SMB,Financial Services,North America,2021-10-26,567,63,28,2022-10-26,Priya Patel
+C0110,Company 0110,Mid-Market,Media,EMEA,2020-12-14,3496,69,40,2021-12-14,James O'Brien
+C0111,Company 0111,SMB,Retail,EMEA,2022-08-02,670,56,43,2023-08-02,Sarah Chen
+C0112,Company 0112,Startup,Logistics,APAC,2023-01-24,276,57,38,2024-01-24,Aisha Williams
+C0113,Company 0113,SMB,Media,APAC,2022-07-24,593,70,7,2023-07-24,James O'Brien
+C0114,Company 0114,Mid-Market,Education,APAC,2021-08-27,3696,70,18,2022-08-27,Sarah Chen
+C0115,Company 0115,SMB,Financial Services,LATAM,2021-08-09,560,54,41,2022-08-09,James O'Brien
+C0116,Company 0116,SMB,Retail,North America,2020-03-21,651,42,38,2021-03-21,Carlos Rivera
+C0117,Company 0117,SMB,Healthcare,APAC,2021-10-31,379,52,9,2022-10-31,Carlos Rivera
+C0118,Company 0118,SMB,Manufacturing,EMEA,2021-06-10,502,87,22,2022-06-10,Marcus Johnson
+C0119,Company 0119,SMB,Healthcare,EMEA,2021-04-07,890,65,36,2022-04-07,Carlos Rivera
+C0120,Company 0120,Enterprise,Media,North America,2021-06-25,19902,73,349,2022-06-25,Aisha Williams
+C0121,Company 0121,SMB,Education,North America,2021-04-23,834,75,21,2022-04-23,James O'Brien
+C0122,Company 0122,SMB,Logistics,APAC,2022-04-16,246,42,20,2023-04-16,David Kim
+C0123,Company 0123,Enterprise,Technology,EMEA,2022-03-06,22701,76,305,2023-03-06,Priya Patel
+C0124,Company 0124,Startup,Healthcare,LATAM,2022-04-15,403,58,14,2023-04-15,David Kim
+C0125,Company 0125,Mid-Market,Technology,APAC,2020-07-22,3230,86,23,2021-07-22,Sarah Chen
+C0126,Company 0126,Mid-Market,Technology,North America,2022-07-20,1868,86,41,2023-07-20,Sarah Chen
+C0127,Company 0127,Enterprise,Education,EMEA,2020-09-14,7248,98,288,2021-09-14,James O'Brien
+C0128,Company 0128,SMB,Technology,APAC,2020-10-29,483,49,9,2021-10-29,Aisha Williams
+C0129,Company 0129,SMB,Healthcare,North America,2020-09-26,443,77,21,2021-09-26,Sarah Chen
+C0130,Company 0130,Enterprise,Financial Services,EMEA,2022-05-12,7082,80,234,2023-05-12,Carlos Rivera
+C0131,Company 0131,SMB,Healthcare,LATAM,2022-10-28,244,86,43,2023-10-28,Aisha Williams
+C0132,Company 0132,SMB,Financial Services,North America,2022-09-07,902,46,32,2023-09-07,David Kim
+C0133,Company 0133,Enterprise,Healthcare,APAC,2023-05-30,9135,67,324,2024-05-29,Carlos Rivera
+C0134,Company 0134,Mid-Market,Manufacturing,LATAM,2022-11-01,1406,95,45,2023-11-01,Marcus Johnson
+C0135,Company 0135,Startup,Technology,LATAM,2022-07-13,223,64,26,2023-07-13,Emma Thompson
+C0136,Company 0136,SMB,Education,LATAM,2021-10-02,583,49,44,2022-10-02,David Kim
+C0137,Company 0137,Enterprise,Healthcare,North America,2022-06-03,17210,58,289,2023-06-03,Sarah Chen
+C0138,Company 0138,SMB,Education,North America,2022-04-21,881,88,28,2023-04-21,Sarah Chen
+C0139,Company 0139,Startup,Manufacturing,APAC,2020-07-31,158,44,43,2021-07-31,David Kim
+C0140,Company 0140,Mid-Market,Healthcare,APAC,2023-02-13,4123,62,37,2024-02-13,James O'Brien
+C0141,Company 0141,Startup,Financial Services,APAC,2020-02-29,409,83,20,2021-02-28,Carlos Rivera
+C0142,Company 0142,Mid-Market,Retail,EMEA,2023-03-05,1285,54,48,2024-03-04,Sarah Chen
+C0143,Company 0143,Enterprise,Technology,LATAM,2022-05-09,10157,73,164,2023-05-09,Carlos Rivera
+C0144,Company 0144,SMB,Healthcare,North America,2020-11-14,832,43,44,2021-11-14,Marcus Johnson
+C0145,Company 0145,Mid-Market,Media,LATAM,2023-05-28,2118,58,49,2024-05-27,Marcus Johnson
+C0146,Company 0146,Mid-Market,Healthcare,APAC,2023-04-29,3732,64,3,2024-04-28,James O'Brien
+C0147,Company 0147,Mid-Market,Financial Services,North America,2021-02-22,4143,53,49,2022-02-22,Aisha Williams
+C0148,Company 0148,Mid-Market,Healthcare,North America,2022-10-15,1719,53,25,2023-10-15,James O'Brien
+C0149,Company 0149,SMB,Education,North America,2022-03-24,646,41,30,2023-03-24,Marcus Johnson
+C0150,Company 0150,Startup,Media,LATAM,2022-05-05,257,36,21,2023-05-05,Priya Patel
+C0151,Company 0151,Startup,Logistics,APAC,2020-06-29,104,50,28,2021-06-29,Emma Thompson
+C0152,Company 0152,SMB,Media,APAC,2021-11-26,997,50,5,2022-11-26,Marcus Johnson
+C0153,Company 0153,SMB,Technology,APAC,2021-12-20,860,49,16,2022-12-20,Marcus Johnson
+C0154,Company 0154,Enterprise,Technology,EMEA,2023-05-18,7469,61,492,2024-05-17,David Kim
+C0155,Company 0155,SMB,Logistics,APAC,2021-10-09,269,70,29,2022-10-09,Aisha Williams
+C0156,Company 0156,SMB,Financial Services,APAC,2022-11-05,672,68,3,2023-11-05,Sarah Chen
+C0157,Company 0157,Mid-Market,Manufacturing,North America,2020-07-03,3076,69,30,2021-07-03,Sarah Chen
+C0158,Company 0158,Mid-Market,Technology,APAC,2023-05-24,1617,48,29,2024-05-23,Marcus Johnson
+C0159,Company 0159,Startup,Education,North America,2022-10-30,70,50,46,2023-10-30,David Kim
+C0160,Company 0160,Startup,Retail,APAC,2022-02-02,259,84,22,2023-02-02,Sarah Chen
+C0161,Company 0161,SMB,Education,North America,2021-11-06,894,64,19,2022-11-06,Aisha Williams
+C0162,Company 0162,SMB,Retail,APAC,2020-06-15,344,62,20,2021-06-15,Emma Thompson
+C0163,Company 0163,Enterprise,Healthcare,APAC,2023-02-18,15763,58,348,2024-02-18,Marcus Johnson
+C0164,Company 0164,SMB,Media,APAC,2020-02-07,384,53,22,2021-02-06,David Kim
+C0165,Company 0165,Enterprise,Retail,EMEA,2020-06-07,8314,82,399,2021-06-07,Sarah Chen
+C0166,Company 0166,SMB,Retail,LATAM,2020-11-11,909,89,40,2021-11-11,Priya Patel
+C0167,Company 0167,SMB,Financial Services,LATAM,2022-01-16,443,68,40,2023-01-16,Aisha Williams
+C0168,Company 0168,SMB,Logistics,EMEA,2022-12-29,680,52,24,2023-12-29,David Kim
+C0169,Company 0169,SMB,Manufacturing,LATAM,2022-10-26,365,52,39,2023-10-26,Priya Patel
+C0170,Company 0170,Startup,Financial Services,LATAM,2022-01-30,102,80,34,2023-01-30,Marcus Johnson
+C0171,Company 0171,Mid-Market,Retail,APAC,2022-07-09,4403,72,6,2023-07-09,James O'Brien
+C0172,Company 0172,Startup,Education,North America,2022-04-29,307,58,16,2023-04-29,Emma Thompson
+C0173,Company 0173,Startup,Education,EMEA,2020-02-27,100,80,42,2021-02-26,Carlos Rivera
+C0174,Company 0174,SMB,Retail,North America,2021-08-10,342,88,46,2022-08-10,David Kim
+C0175,Company 0175,Mid-Market,Financial Services,North America,2020-02-08,4420,54,36,2021-02-07,Emma Thompson
+C0176,Company 0176,Enterprise,Manufacturing,EMEA,2021-09-08,12813,76,332,2022-09-08,David Kim
+C0177,Company 0177,Enterprise,Logistics,North America,2022-11-21,9704,68,224,2023-11-21,Sarah Chen
+C0178,Company 0178,SMB,Technology,LATAM,2021-01-18,287,73,24,2022-01-18,Marcus Johnson
+C0179,Company 0179,Startup,Financial Services,LATAM,2022-08-20,248,58,17,2023-08-20,Sarah Chen
+C0180,Company 0180,Mid-Market,Healthcare,APAC,2021-05-08,3573,51,50,2022-05-08,Carlos Rivera
+C0181,Company 0181,Enterprise,Education,APAC,2020-12-24,20680,90,98,2021-12-24,Priya Patel
+C0182,Company 0182,Enterprise,Logistics,North America,2021-08-23,11536,52,166,2022-08-23,Aisha Williams
+C0183,Company 0183,SMB,Logistics,APAC,2020-03-15,492,62,50,2021-03-15,Sarah Chen
+C0184,Company 0184,Startup,Education,APAC,2020-09-11,254,82,29,2021-09-11,Emma Thompson
+C0185,Company 0185,Mid-Market,Retail,LATAM,2022-10-15,4265,78,18,2023-10-15,Marcus Johnson
+C0186,Company 0186,SMB,Healthcare,LATAM,2023-05-18,500,60,7,2024-05-17,Marcus Johnson
+C0187,Company 0187,Mid-Market,Manufacturing,APAC,2022-07-02,2745,55,45,2023-07-02,David Kim
+C0188,Company 0188,Mid-Market,Financial Services,APAC,2022-06-09,4241,48,5,2023-06-09,Emma Thompson
+C0189,Company 0189,Mid-Market,Retail,North America,2020-10-19,4200,73,3,2021-10-19,Priya Patel
+C0190,Company 0190,Enterprise,Education,APAC,2022-02-23,24827,59,352,2023-02-23,David Kim
+C0191,Company 0191,Startup,Education,LATAM,2020-06-06,321,58,26,2021-06-06,Carlos Rivera
+C0192,Company 0192,SMB,Technology,North America,2020-02-23,711,73,25,2021-02-22,Marcus Johnson
+C0193,Company 0193,Mid-Market,Manufacturing,LATAM,2021-03-15,3842,76,13,2022-03-15,Marcus Johnson
+C0194,Company 0194,Enterprise,Healthcare,LATAM,2020-12-19,7876,93,500,2021-12-19,Carlos Rivera
+C0195,Company 0195,SMB,Healthcare,APAC,2021-09-06,926,84,41,2022-09-06,Priya Patel
+C0196,Company 0196,SMB,Technology,North America,2021-02-15,705,41,24,2022-02-15,Carlos Rivera
+C0197,Company 0197,SMB,Retail,North America,2020-05-14,934,86,31,2021-05-14,Emma Thompson
+C0198,Company 0198,SMB,Healthcare,EMEA,2021-10-11,660,69,44,2022-10-11,Carlos Rivera
+C0199,Company 0199,Enterprise,Retail,EMEA,2022-06-05,6815,57,270,2023-06-05,Priya Patel
+C0200,Company 0200,Mid-Market,Retail,APAC,2021-04-06,4665,63,6,2022-04-06,Aisha Williams
+C0201,Company 0201,Enterprise,Manufacturing,EMEA,2021-09-12,8061,82,333,2022-09-12,Priya Patel
+C0202,Company 0202,SMB,Retail,EMEA,2023-05-24,777,42,2,2024-05-23,Marcus Johnson
+C0203,Company 0203,Enterprise,Manufacturing,EMEA,2023-03-17,5992,81,460,2024-03-16,Aisha Williams
+C0204,Company 0204,SMB,Manufacturing,LATAM,2021-05-16,504,69,5,2022-05-16,Sarah Chen
+C0205,Company 0205,Enterprise,Media,LATAM,2022-08-09,24879,59,165,2023-08-09,Carlos Rivera
+C0206,Company 0206,SMB,Education,LATAM,2020-09-24,775,46,21,2021-09-24,James O'Brien
+C0207,Company 0207,SMB,Manufacturing,LATAM,2021-05-22,251,58,25,2022-05-22,Emma Thompson
+C0208,Company 0208,Mid-Market,Retail,APAC,2023-03-29,1777,93,11,2024-03-28,David Kim
+C0209,Company 0209,Startup,Logistics,LATAM,2021-09-23,96,60,33,2022-09-23,David Kim
+C0210,Company 0210,Startup,Technology,APAC,2020-04-09,303,73,42,2021-04-09,David Kim
+C0211,Company 0211,Mid-Market,Financial Services,North America,2022-06-01,2083,91,24,2023-06-01,Emma Thompson
+C0212,Company 0212,Mid-Market,Media,North America,2023-03-13,2484,80,19,2024-03-12,Marcus Johnson
+C0213,Company 0213,Mid-Market,Logistics,APAC,2020-08-31,2613,68,22,2021-08-31,Carlos Rivera
+C0214,Company 0214,SMB,Technology,LATAM,2022-10-21,239,48,46,2023-10-21,Carlos Rivera
+C0215,Company 0215,Startup,Logistics,EMEA,2023-05-26,217,74,21,2024-05-25,Priya Patel
+C0216,Company 0216,Mid-Market,Manufacturing,APAC,2022-11-04,3006,90,37,2023-11-04,Aisha Williams
+C0217,Company 0217,SMB,Financial Services,APAC,2021-11-09,626,77,20,2022-11-09,Sarah Chen
+C0218,Company 0218,SMB,Manufacturing,EMEA,2020-04-15,374,73,41,2021-04-15,Emma Thompson
+C0219,Company 0219,Enterprise,Technology,North America,2023-03-18,11251,51,230,2024-03-17,Carlos Rivera
+C0220,Company 0220,Mid-Market,Media,EMEA,2022-04-20,3504,75,48,2023-04-20,Sarah Chen
+C0221,Company 0221,SMB,Technology,APAC,2022-09-06,521,51,30,2023-09-06,Carlos Rivera
+C0222,Company 0222,SMB,Manufacturing,LATAM,2021-01-28,771,59,15,2022-01-28,Aisha Williams
+C0223,Company 0223,SMB,Technology,LATAM,2021-10-11,773,90,47,2022-10-11,Aisha Williams
+C0224,Company 0224,Mid-Market,Media,LATAM,2021-12-07,1172,63,46,2022-12-07,Marcus Johnson
+C0225,Company 0225,Mid-Market,Logistics,APAC,2022-09-08,4391,79,18,2023-09-08,Aisha Williams
+C0226,Company 0226,Enterprise,Technology,EMEA,2020-04-13,22401,64,331,2021-04-13,James O'Brien
+C0227,Company 0227,Enterprise,Media,APAC,2022-08-25,9504,50,498,2023-08-25,Priya Patel
+C0228,Company 0228,Mid-Market,Logistics,LATAM,2021-02-12,2169,86,4,2022-02-12,Marcus Johnson
+C0229,Company 0229,SMB,Technology,North America,2020-12-24,380,42,26,2021-12-24,David Kim
+C0230,Company 0230,Enterprise,Manufacturing,North America,2020-01-19,24751,56,480,2021-01-18,Carlos Rivera
+C0231,Company 0231,Mid-Market,Logistics,EMEA,2022-10-29,1789,52,22,2023-10-29,Priya Patel
+C0232,Company 0232,SMB,Manufacturing,EMEA,2020-01-29,502,76,44,2021-01-28,James O'Brien
+C0233,Company 0233,Enterprise,Media,LATAM,2022-11-21,18134,92,53,2023-11-21,Priya Patel
+C0234,Company 0234,Startup,Logistics,APAC,2021-05-23,246,50,29,2022-05-23,Aisha Williams
+C0235,Company 0235,Startup,Manufacturing,North America,2021-06-19,404,50,4,2022-06-19,Marcus Johnson
+C0236,Company 0236,SMB,Retail,LATAM,2022-10-26,518,84,8,2023-10-26,Aisha Williams
+C0237,Company 0237,Mid-Market,Technology,EMEA,2020-09-30,2863,92,39,2021-09-30,Carlos Rivera
+C0238,Company 0238,Mid-Market,Logistics,EMEA,2021-05-21,3440,95,6,2022-05-21,David Kim
+C0239,Company 0239,SMB,Education,North America,2023-03-01,760,72,13,2024-02-29,Priya Patel
+C0240,Company 0240,Enterprise,Logistics,North America,2021-02-24,21017,55,465,2022-02-24,David Kim
+C0241,Company 0241,Startup,Logistics,EMEA,2022-11-17,338,38,36,2023-11-17,David Kim
+C0242,Company 0242,SMB,Manufacturing,North America,2022-03-21,203,87,14,2023-03-21,Marcus Johnson
+C0243,Company 0243,Enterprise,Education,North America,2023-01-13,7261,80,21,2024-01-13,Aisha Williams
+C0244,Company 0244,Mid-Market,Retail,LATAM,2022-02-05,4561,69,25,2023-02-05,Marcus Johnson
+C0245,Company 0245,SMB,Retail,APAC,2020-08-30,602,73,9,2021-08-30,James O'Brien
+C0246,Company 0246,Startup,Financial Services,APAC,2022-08-06,328,62,35,2023-08-06,Emma Thompson
+C0247,Company 0247,Startup,Technology,LATAM,2021-12-09,146,81,49,2022-12-09,Marcus Johnson
+C0248,Company 0248,Enterprise,Media,North America,2021-05-07,8306,88,22,2022-05-07,David Kim
+C0249,Company 0249,SMB,Financial Services,EMEA,2020-03-31,439,74,14,2021-03-31,Sarah Chen
+C0250,Company 0250,Enterprise,Manufacturing,EMEA,2023-03-25,24592,99,349,2024-03-24,Carlos Rivera
+C0251,Company 0251,Mid-Market,Retail,EMEA,2022-04-26,1249,80,38,2023-04-26,Priya Patel
+C0252,Company 0252,SMB,Media,LATAM,2020-04-06,887,64,34,2021-04-06,Carlos Rivera
+C0253,Company 0253,SMB,Media,EMEA,2021-09-06,972,74,31,2022-09-06,James O'Brien
+C0254,Company 0254,Startup,Manufacturing,EMEA,2022-08-06,261,61,36,2023-08-06,Priya Patel
+C0255,Company 0255,Mid-Market,Manufacturing,EMEA,2021-11-07,4777,73,24,2022-11-07,Marcus Johnson
+C0256,Company 0256,SMB,Technology,North America,2021-07-03,819,78,3,2022-07-03,Marcus Johnson
+C0257,Company 0257,Enterprise,Technology,LATAM,2021-03-03,5502,63,484,2022-03-03,James O'Brien
+C0258,Company 0258,Startup,Healthcare,LATAM,2021-05-11,410,48,26,2022-05-11,James O'Brien
+C0259,Company 0259,SMB,Manufacturing,LATAM,2022-08-12,567,59,17,2023-08-12,Carlos Rivera
+C0260,Company 0260,SMB,Logistics,LATAM,2020-07-20,979,60,14,2021-07-20,Carlos Rivera
+C0261,Company 0261,Mid-Market,Financial Services,EMEA,2020-10-25,3266,82,38,2021-10-25,Emma Thompson
+C0262,Company 0262,Mid-Market,Technology,APAC,2021-04-16,4413,60,32,2022-04-16,Carlos Rivera
+C0263,Company 0263,Mid-Market,Logistics,LATAM,2022-08-01,4256,67,11,2023-08-01,Priya Patel
+C0264,Company 0264,SMB,Logistics,EMEA,2023-01-15,736,42,5,2024-01-15,Sarah Chen
+C0265,Company 0265,SMB,Media,EMEA,2021-04-18,354,40,14,2022-04-18,David Kim
+C0266,Company 0266,Mid-Market,Logistics,LATAM,2020-02-02,3259,71,1,2021-02-01,Sarah Chen
+C0267,Company 0267,SMB,Manufacturing,APAC,2020-02-05,914,83,28,2021-02-04,Priya Patel
+C0268,Company 0268,Enterprise,Healthcare,EMEA,2021-05-08,22250,66,422,2022-05-08,Carlos Rivera
+C0269,Company 0269,Mid-Market,Media,North America,2022-02-03,3314,60,45,2023-02-03,James O'Brien
+C0270,Company 0270,Mid-Market,Healthcare,North America,2020-07-10,2544,80,31,2021-07-10,Sarah Chen
+C0271,Company 0271,SMB,Retail,North America,2022-10-20,539,76,7,2023-10-20,Sarah Chen
+C0272,Company 0272,Mid-Market,Logistics,APAC,2020-04-05,4791,62,35,2021-04-05,Sarah Chen
+C0273,Company 0273,Enterprise,Education,North America,2021-02-28,18051,54,158,2022-02-28,Priya Patel
+C0274,Company 0274,SMB,Media,APAC,2022-02-25,905,86,6,2023-02-25,Carlos Rivera
+C0275,Company 0275,Enterprise,Media,EMEA,2020-06-04,24516,75,401,2021-06-04,Carlos Rivera
+C0276,Company 0276,Enterprise,Manufacturing,LATAM,2022-10-01,23121,74,226,2023-10-01,Priya Patel
+C0277,Company 0277,SMB,Media,North America,2021-08-27,275,45,18,2022-08-27,Priya Patel
+C0278,Company 0278,Mid-Market,Retail,LATAM,2021-10-10,1374,45,20,2022-10-10,David Kim
+C0279,Company 0279,Mid-Market,Manufacturing,North America,2020-09-28,2765,73,36,2021-09-28,Emma Thompson
+C0280,Company 0280,Enterprise,Healthcare,APAC,2023-02-09,24596,100,171,2024-02-09,Emma Thompson
+C0281,Company 0281,Enterprise,Media,LATAM,2020-06-22,23334,65,297,2021-06-22,Priya Patel
+C0282,Company 0282,SMB,Retail,EMEA,2021-07-04,704,49,5,2022-07-04,Priya Patel
+C0283,Company 0283,Mid-Market,Media,APAC,2022-09-18,2030,60,47,2023-09-18,David Kim
+C0284,Company 0284,SMB,Technology,LATAM,2020-08-07,206,65,22,2021-08-07,Emma Thompson
+C0285,Company 0285,Startup,Education,LATAM,2021-11-16,471,76,39,2022-11-16,Priya Patel
+C0286,Company 0286,Mid-Market,Technology,LATAM,2021-10-05,4967,65,19,2022-10-05,David Kim
+C0287,Company 0287,Startup,Technology,APAC,2022-02-09,452,60,24,2023-02-09,Marcus Johnson
+C0288,Company 0288,Startup,Technology,EMEA,2023-01-31,286,80,14,2024-01-31,David Kim
+C0289,Company 0289,SMB,Healthcare,LATAM,2022-10-19,510,55,17,2023-10-19,Priya Patel
+C0290,Company 0290,SMB,Media,North America,2022-07-08,796,65,35,2023-07-08,Emma Thompson
+C0291,Company 0291,SMB,Education,North America,2020-08-11,880,62,11,2021-08-11,Sarah Chen
+C0292,Company 0292,SMB,Media,APAC,2022-05-31,300,56,15,2023-05-31,James O'Brien
+C0293,Company 0293,Mid-Market,Media,LATAM,2023-04-20,1617,67,2,2024-04-19,David Kim
+C0294,Company 0294,Enterprise,Media,North America,2020-08-25,16414,69,180,2021-08-25,David Kim
+C0295,Company 0295,SMB,Logistics,APAC,2022-09-02,939,84,29,2023-09-02,Carlos Rivera
+C0296,Company 0296,Enterprise,Financial Services,North America,2020-02-16,8583,93,414,2021-02-15,Priya Patel
+C0297,Company 0297,Startup,Technology,EMEA,2023-02-04,336,62,30,2024-02-04,James O'Brien
+C0298,Company 0298,SMB,Retail,EMEA,2022-06-04,955,79,13,2023-06-04,David Kim
+C0299,Company 0299,SMB,Media,North America,2021-03-15,970,85,5,2022-03-15,Marcus Johnson
+C0300,Company 0300,SMB,Retail,APAC,2021-10-29,316,56,43,2022-10-29,David Kim
